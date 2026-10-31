@@ -26,6 +26,46 @@ def canonical(name):
  n=norm(name)
  return ALIASES.get(n,n)
 
+
+class GuideParser(HTMLParser):
+ def __init__(self):
+  super().__init__();self.rows=[];self.row=None;self.cell=None;self.link=None;self.section="";self.heading=False;self.head=[]
+ def handle_starttag(self,tag,attrs):
+  attrs=dict(attrs)
+  if tag in ("h2","h3"):self.heading=True;self.head=[]
+  if tag=="tr":self.row=[]
+  if tag in ("td","th") and self.row is not None:self.cell={"text":[],"links":[]}
+  if tag=="a" and self.cell is not None:self.link={"href":attrs.get("href",""),"text":[]}
+ def handle_data(self,data):
+  if self.heading:self.head.append(data)
+  if self.cell is not None:self.cell["text"].append(data)
+  if self.link is not None:self.link["text"].append(data)
+ def handle_endtag(self,tag):
+  if tag in ("h2","h3") and self.heading:
+   h=" ".join(" ".join(self.head).split()).lower()
+   if "checked by us" in h:self.section="checked"
+   elif "not yet verified" in h:self.section="unverified"
+   self.heading=False
+  if tag=="a" and self.link is not None:
+   self.link["text"]=" ".join(" ".join(self.link["text"]).split());self.cell["links"].append(self.link);self.link=None
+  if tag in ("td","th") and self.cell is not None:
+   self.cell["text"]=" ".join(" ".join(self.cell["text"]).split());self.row.append(self.cell);self.cell=None
+  if tag=="tr" and self.row is not None:
+   if len(self.row)>=3:self.rows.append((self.section,self.row))
+   self.row=None
+def guide_candidates(raw,base):
+ parser=GuideParser();parser.feed(raw);records=[]
+ for section,cells in parser.rows:
+  if section not in ("checked","unverified"):continue
+  name=cells[0]["text"];status=cells[1]["text"].lower();platforms=cells[2]["text"]
+  if not 3<=len(name)<=100 or status not in ("yes","partly","mostly","yes, turn-based"):continue
+  if not re.search(r"\bPC\b",platforms,re.I) or not re.search(r"\bPS5\b",platforms,re.I):continue
+  links=[x for x in cells[0]["links"] if x["href"] and not x["href"].startswith("#")]
+  url=urllib.parse.urljoin(base,links[0]["href"]) if links else ""
+  if urllib.parse.urlsplit(url).netloc not in ("crossplayguide.com","www.crossplayguide.com"):continue
+  records.append((name,url,"crossplayguide",section,status))
+ return records,{"table_rows":len(parser.rows),"valid_pair_records":len(records),"checked":sum(x[3]=="checked" for x in records),"unverified":sum(x[3]=="unverified" for x in records)}
+
 SECONDARY_LISTS=[
  ("crossplayguide","https://crossplayguide.com/crossplay/pc-and-playstation/"),
  ("crossplayable","https://crossplayable.com/")
@@ -34,25 +74,17 @@ def secondary_candidates():
  candidates=[];reports=[]
  for label,url in SECONDARY_LISTS:
   try:
-   raw=request(url)
-   # Each candidate must have a linked game page and PS5 and PC in its local card.
-   cards=re.split(r"</(?:article|tr|li)>",raw,flags=re.I)
-   found=0
-   for card in cards:
-    visible=html.unescape(re.sub(r"<[^>]+>"," ",card))
-    if not (re.search(r"\bPC\b",visible,re.I) and re.search(r"\bPS5\b",visible,re.I)):continue
-    if not re.search(r"cross.?play|plays together",visible,re.I):continue
-    match=re.search(r'<a[^>]+href="([^"]+)"[^>]*>(.*?)</a>',card,re.I|re.S)
-    if not match:continue
-    name=html.unescape(re.sub(r"<[^>]+>"," ",match.group(2))).strip()
-    if not 3<=len(name)<=85:continue
-    if name.lower() in ("skip to content","can we play?  crossplay ."):continue
-    if urllib.parse.urlsplit(urllib.parse.urljoin(url,match.group(1))).path in ("","/"):continue
-    if "#" in match.group(1):continue
-    if re.search(r"crossplay games|view all|learn more",name,re.I):continue
-    candidates.append((name,urllib.parse.urljoin(url,match.group(1)),label));found+=1
-   reports.append({"source":label,"status":"ok","candidates":found,"url":url})
-  except Exception as e:reports.append({"source":label,"status":"failed","error":str(e)[:160],"url":url})
+   if label=="crossplayguide":
+    raw=request(url)
+    records,counts=guide_candidates(raw,url)
+    if counts["valid_pair_records"]<40:raise RuntimeError("Structured game table too small; refuse to import navigation")
+    candidates.extend(records)
+    reports.append({"source":label,"status":"parsed","url":url,**counts})
+   else:
+    # Crossplayable requires a separate verified card parser; do not import navigation.
+    raw=request("https://crossplayable.com/pairs/steam-ps5")
+    reports.append({"source":label,"status":"reachable_not_imported","url":"https://crossplayable.com/pairs/steam-ps5","bytes":len(raw),"reason":"No validated record-level extractor; navigation excluded"})
+  except Exception as e:reports.append({"source":label,"status":"failed","url":url,"error":str(e)[:160]})
  return candidates,reports
 
 def main():
@@ -69,14 +101,14 @@ def main():
    plain=html.unescape(plain)
    if not re.search(r"supports crossplay across the following platforms.{0,260}PS5",plain,re.I|re.S):continue
    if not re.search(r"supports crossplay across the following platforms.{0,260}(?:Windows PC|Steam)",plain,re.I|re.S):continue
-   record={"id":nextid,"name":name,"genre":"Unknown","price":"Unknown","studio":"Unknown","status":"review","platforms":["PS5","PC"],"ps5Availability":"secondary_listing_pending_official","pcAvailability":"secondary_listing_pending_official","source":url,"notes":"PS5-PC platform-pair candidate from CrossplayGames; official platform availability, service status and crossplay evidence not yet verified.","image":"","verified":False,"crossProgression":"unknown","gfn":"unknown","gfnSource":"","gfnCheckedAt":None,"coverStatus":"missing","crossplayAudit":"secondary_pair_listing_pending_official","crossplayCheckedAt":dt.date.today().isoformat()}
+   record={"id":nextid,"name":name,"genre":"Unknown","price":"Unknown","studio":"Unknown","status":"review","platforms":["PS5","PC"],"ps5Availability":"secondary_listing_pending_official","pcAvailability":"secondary_listing_pending_official","source":url,"notes":"PS5-PC platform-pair candidate from CrossplayGames; official platform availability, service status and crossplay evidence not yet verified.","image":"","verified":False,"crossProgression":"unknown","gfn":"unknown","gfnSource":"","gfnCheckedAt":None,"coverStatus":"missing","crossplayAudit":"secondary_pair_listing_pending_official","crossplaySourceSection":section,"crossplaySourceStatus":pair_status,"crossplayCheckedAt":dt.date.today().isoformat()}
    games.append(record);existing.add(canonical(name));nextid+=1;added.append(name)
   except Exception as e:errors.append({"name":name,"error":str(e)[:150]})
   if len(added)%25==0 and added:print("New candidates",len(added),flush=True)
   time.sleep(.1)
- for name,url,provider in secondary:
+ for name,url,provider,section,pair_status in secondary:
   if canonical(name) in existing or canonical(name) in EXCLUDE:continue
-  record={"id":nextid,"name":name,"genre":"Unknown","price":"Unknown","studio":"Unknown","status":"review","platforms":["PS5","PC"],"ps5Availability":"secondary_listing_pending_official","pcAvailability":"secondary_listing_pending_official","source":url,"notes":"PS5-PC crossplay candidate from "+provider+"; official confirmation pending.","image":"","verified":False,"crossProgression":"unknown","gfn":"unknown","gfnSource":"","coverStatus":"missing","crossplayAudit":"secondary_pair_listing_pending_official","crossplayCheckedAt":dt.date.today().isoformat()}
+  record={"id":nextid,"name":name,"genre":"Unknown","price":"Unknown","studio":"Unknown","status":"review","platforms":["PS5","PC"],"ps5Availability":"secondary_listing_pending_official","pcAvailability":"secondary_listing_pending_official","source":url,"notes":"PS5-PC crossplay candidate from "+provider+" ("+section+", "+pair_status+"); official confirmation pending.","image":"","verified":False,"crossProgression":"unknown","gfn":"unknown","gfnSource":"","coverStatus":"missing","crossplayAudit":"secondary_pair_listing_pending_official","crossplayCheckedAt":dt.date.today().isoformat()}
   games.append(record);existing.add(canonical(name));nextid+=1;added.append(name)
  catalog["updated"]=dt.date.today().isoformat()
  DB.write_text(json.dumps(catalog,ensure_ascii=False,indent=2)+"\n")
