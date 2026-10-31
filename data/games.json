@@ -7797,6 +7797,78 @@
       "coverStatus": "missing",
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31"
+    },
+    {
+      "id": 330,
+      "name": "Minecraft",
+      "genre": "Unknown",
+      "price": "Unknown",
+      "studio": "Unknown",
+      "status": "review",
+      "platforms": [
+        "PS5",
+        "PC"
+      ],
+      "ps5Availability": "secondary_listing_pending_official",
+      "pcAvailability": "secondary_listing_pending_official",
+      "source": "https://crossplayguide.com/games/minecraft/",
+      "notes": "PS5-PC crossplay candidate from crossplayguide (checked, partly); official confirmation pending.",
+      "image": "",
+      "verified": false,
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "secondary_pair_listing_pending_official",
+      "crossplayCheckedAt": "2026-10-31"
+    },
+    {
+      "id": 331,
+      "name": "Tom Clancy's Rainbow Six Siege X",
+      "genre": "Unknown",
+      "price": "Unknown",
+      "studio": "Unknown",
+      "status": "review",
+      "platforms": [
+        "PS5",
+        "PC"
+      ],
+      "ps5Availability": "secondary_listing_pending_official",
+      "pcAvailability": "secondary_listing_pending_official",
+      "source": "https://crossplayguide.com/games/tom-clancys-rainbow-six-siege-x/",
+      "notes": "PS5-PC crossplay candidate from crossplayguide (checked, yes); official confirmation pending.",
+      "image": "",
+      "verified": false,
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "secondary_pair_listing_pending_official",
+      "crossplayCheckedAt": "2026-10-31"
+    },
+    {
+      "id": 332,
+      "name": "RuneScape: Dragonwilds",
+      "genre": "Unknown",
+      "price": "Unknown",
+      "studio": "Unknown",
+      "status": "review",
+      "platforms": [
+        "PS5",
+        "PC"
+      ],
+      "ps5Availability": "secondary_listing_pending_official",
+      "pcAvailability": "secondary_listing_pending_official",
+      "source": "https://crossplayguide.com/games/runescape-dragonwilds/",
+      "notes": "PS5-PC crossplay candidate from crossplayguide (checked, yes); official confirmation pending.",
+      "image": "",
+      "verified": false,
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "secondary_pair_listing_pending_official",
+      "crossplayCheckedAt": "2026-10-31"
     }
   ]
 }
