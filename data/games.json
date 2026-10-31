@@ -40,11 +40,12 @@
       "image": "",
       "verified": true,
       "crossProgression": "unknown",
-      "gfn": "unknown",
-      "gfnSource": "",
+      "gfn": "yes",
+      "gfnSource": "https://gfn.am/en/games/",
       "coverStatus": "missing",
       "crossplayAudit": "source_linked_needs_review",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "listed_on_geforce_now_partner_catalog",
+      "gfnVerifiedAt": "2026-10-31"
     },
     {
       "id": 3,
@@ -85,10 +86,11 @@
       "verified": true,
       "crossProgression": "unknown",
       "gfn": "yes",
-      "gfnSource": "https://nvidia.custhelp.com/app/answers/detail/a_id/4812/",
+      "gfnSource": "https://gfn.am/en/games/",
       "coverStatus": "url_assigned_unchecked",
       "crossplayAudit": "source_linked_needs_review",
-      "gfnAudit": "source_linked_needs_review"
+      "gfnAudit": "listed_on_geforce_now_partner_catalog",
+      "gfnVerifiedAt": "2026-10-31"
     },
     {
       "id": 5,
@@ -128,11 +130,12 @@
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2357570/header.jpg",
       "verified": true,
       "crossProgression": "unknown",
-      "gfn": "unknown",
-      "gfnSource": "",
+      "gfn": "yes",
+      "gfnSource": "https://gfn.am/en/games/",
       "coverStatus": "url_assigned_unchecked",
       "crossplayAudit": "source_linked_needs_review",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "listed_on_geforce_now_partner_catalog",
+      "gfnVerifiedAt": "2026-10-31"
     },
     {
       "id": 7,
@@ -172,11 +175,12 @@
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/230410/header.jpg",
       "verified": true,
       "crossProgression": "unknown",
-      "gfn": "unknown",
-      "gfnSource": "",
+      "gfn": "yes",
+      "gfnSource": "https://gfn.am/en/games/",
       "coverStatus": "url_assigned_unchecked",
       "crossplayAudit": "source_linked_needs_review",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "listed_on_geforce_now_partner_catalog",
+      "gfnVerifiedAt": "2026-10-31"
     },
     {
       "id": 9,
@@ -194,11 +198,12 @@
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2073850/header.jpg",
       "verified": false,
       "crossProgression": "unknown",
-      "gfn": "unknown",
-      "gfnSource": "",
+      "gfn": "yes",
+      "gfnSource": "https://gfn.am/en/games/",
       "coverStatus": "url_assigned_unchecked",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "listed_on_geforce_now_partner_catalog",
+      "gfnVerifiedAt": "2026-10-31"
     },
     {
       "id": 10,
@@ -216,11 +221,12 @@
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2767030/header.jpg",
       "verified": false,
       "crossProgression": "unknown",
-      "gfn": "unknown",
-      "gfnSource": "",
+      "gfn": "yes",
+      "gfnSource": "https://gfn.am/en/games/",
       "coverStatus": "url_assigned_unchecked",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "listed_on_geforce_now_partner_catalog",
+      "gfnVerifiedAt": "2026-10-31"
     },
     {
       "id": 11,
@@ -238,11 +244,12 @@
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/381210/header.jpg",
       "verified": true,
       "crossProgression": "unknown",
-      "gfn": "unknown",
-      "gfnSource": "",
+      "gfn": "yes",
+      "gfnSource": "https://gfn.am/en/games/",
       "coverStatus": "url_assigned_unchecked",
       "crossplayAudit": "source_linked_needs_review",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "listed_on_geforce_now_partner_catalog",
+      "gfnVerifiedAt": "2026-10-31"
     },
     {
       "id": 12,
@@ -436,11 +443,12 @@
       "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/291550/header.jpg",
       "verified": false,
       "crossProgression": "unknown",
-      "gfn": "unknown",
-      "gfnSource": "",
+      "gfn": "yes",
+      "gfnSource": "https://gfn.am/en/games/",
       "coverStatus": "url_assigned_unchecked",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "listed_on_geforce_now_partner_catalog",
+      "gfnVerifiedAt": "2026-10-31"
     },
     {
       "id": 21,
@@ -502,11 +510,12 @@
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/236390/header.jpg",
       "verified": true,
       "crossProgression": "limited",
-      "gfn": "unknown",
-      "gfnSource": "",
+      "gfn": "yes",
+      "gfnSource": "https://gfn.am/en/games/",
       "coverStatus": "url_assigned_unchecked",
       "crossplayAudit": "source_linked_needs_review",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "listed_on_geforce_now_partner_catalog",
+      "gfnVerifiedAt": "2026-10-31"
     },
     {
       "id": 24,
@@ -920,11 +929,12 @@
       "image": "",
       "verified": false,
       "crossProgression": "unknown",
-      "gfn": "unknown",
-      "gfnSource": "",
+      "gfn": "yes",
+      "gfnSource": "https://gfn.am/en/games/",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "listed_on_geforce_now_partner_catalog",
+      "gfnVerifiedAt": "2026-10-31"
     },
     {
       "id": 43,
@@ -1206,11 +1216,12 @@
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1203620/header.jpg",
       "verified": true,
       "crossProgression": "unknown",
-      "gfn": "unknown",
-      "gfnSource": "",
+      "gfn": "yes",
+      "gfnSource": "https://gfn.am/en/games/",
       "coverStatus": "url_assigned_unchecked",
       "crossplayAudit": "source_linked_needs_review",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "listed_on_geforce_now_partner_catalog",
+      "gfnVerifiedAt": "2026-10-31"
     },
     {
       "id": 56,
@@ -1712,11 +1723,12 @@
       "image": "",
       "verified": false,
       "crossProgression": "unknown",
-      "gfn": "unknown",
-      "gfnSource": "",
+      "gfn": "yes",
+      "gfnSource": "https://gfn.am/en/games/",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "listed_on_geforce_now_partner_catalog",
+      "gfnVerifiedAt": "2026-10-31"
     },
     {
       "id": 79,
@@ -1822,11 +1834,12 @@
       "image": "",
       "verified": false,
       "crossProgression": "unknown",
-      "gfn": "unknown",
-      "gfnSource": "",
+      "gfn": "yes",
+      "gfnSource": "https://gfn.am/en/games/",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "listed_on_geforce_now_partner_catalog",
+      "gfnVerifiedAt": "2026-10-31"
     },
     {
       "id": 84,
@@ -1844,11 +1857,12 @@
       "image": "",
       "verified": false,
       "crossProgression": "unknown",
-      "gfn": "unknown",
-      "gfnSource": "",
+      "gfn": "yes",
+      "gfnSource": "https://blogs.nvidia.com/blog/geforce-now-thursday-october-2026-games-list/",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "announced_on_nvidia_blog",
+      "gfnVerifiedAt": "2026-10-31"
     },
     {
       "id": 85,
@@ -2056,11 +2070,12 @@
       "image": "",
       "verified": false,
       "crossProgression": "unknown",
-      "gfn": "unknown",
-      "gfnSource": "",
+      "gfn": "yes",
+      "gfnSource": "https://blogs.nvidia.com/blog/geforce-now-thursday-august-2026-games-list/",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "announced_on_nvidia_blog",
+      "gfnVerifiedAt": "2026-10-31"
     },
     {
       "id": 96,
@@ -2265,11 +2280,12 @@
       "image": "",
       "verified": false,
       "crossProgression": "unknown",
-      "gfn": "unknown",
-      "gfnSource": "",
+      "gfn": "yes",
+      "gfnSource": "https://gfn.am/en/games/",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "listed_on_geforce_now_partner_catalog",
+      "gfnVerifiedAt": "2026-10-31"
     },
     {
       "id": 107,
@@ -2835,11 +2851,12 @@
       "image": "",
       "verified": false,
       "crossProgression": "unknown",
-      "gfn": "unknown",
-      "gfnSource": "",
+      "gfn": "yes",
+      "gfnSource": "https://gfn.am/en/games/",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "listed_on_geforce_now_partner_catalog",
+      "gfnVerifiedAt": "2026-10-31"
     },
     {
       "id": 137,
@@ -3006,11 +3023,12 @@
       "image": "",
       "verified": false,
       "crossProgression": "unknown",
-      "gfn": "unknown",
-      "gfnSource": "",
+      "gfn": "yes",
+      "gfnSource": "https://gfn.am/en/games/",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "listed_on_geforce_now_partner_catalog",
+      "gfnVerifiedAt": "2026-10-31"
     },
     {
       "id": 146,
@@ -3102,10 +3120,11 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "yes",
-      "gfnSource": "https://blogs.nvidia.com/blog/geforce-now-thursday-september-2026-games-list/",
+      "gfnSource": "https://gfn.am/en/games/",
       "coverStatus": "url_assigned_unchecked",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "source_linked_needs_review"
+      "gfnAudit": "listed_on_geforce_now_partner_catalog",
+      "gfnVerifiedAt": "2026-10-31"
     },
     {
       "id": 151,
@@ -3653,10 +3672,11 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "yes",
-      "gfnSource": "https://blogs.nvidia.com/blog/geforce-now-thursday-may-2026-games-list/",
+      "gfnSource": "https://gfn.am/en/games/",
       "coverStatus": "url_assigned_unchecked",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "source_linked_needs_review"
+      "gfnAudit": "listed_on_geforce_now_partner_catalog",
+      "gfnVerifiedAt": "2026-10-31"
     },
     {
       "id": 180,
@@ -3747,11 +3767,12 @@
       "image": "",
       "verified": false,
       "crossProgression": "unknown",
-      "gfn": "unknown",
-      "gfnSource": "",
+      "gfn": "yes",
+      "gfnSource": "https://gfn.am/en/games/",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "listed_on_geforce_now_partner_catalog",
+      "gfnVerifiedAt": "2026-10-31"
     },
     {
       "id": 185,
@@ -3880,11 +3901,12 @@
       "image": "",
       "verified": false,
       "crossProgression": "unknown",
-      "gfn": "unknown",
-      "gfnSource": "",
+      "gfn": "yes",
+      "gfnSource": "https://gfn.am/en/games/",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "listed_on_geforce_now_partner_catalog",
+      "gfnVerifiedAt": "2026-10-31"
     },
     {
       "id": 192,
