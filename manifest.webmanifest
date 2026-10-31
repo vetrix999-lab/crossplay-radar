@@ -1,0 +1,10 @@
+{
+  "name": "Crossplay Radar",
+  "short_name": "Crossplay Radar",
+  "description": "PS5 and PC crossplay game discovery",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0b1020",
+  "theme_color": "#0b1020",
+  "lang": "en"
+}
