@@ -91,7 +91,7 @@ class PairPageParser(HTMLParser):
   for record in self.records:
    name=record["name"];body=" ".join(" ".join(record["text"]).split())
    if not 3<=len(name)<=95 or len(body)<100:continue
-   if not re.search(r"PC\s*\(Steam\s*/\s*Epic\).{0,120}\bPS5\b",body,re.I):continue
+   if not re.search(r"\bPC\b.{0,180}\bPS5\b",body,re.I):continue
    if not re.search(r"Plays together:.{0,200}\b(?:PC|Steam)\b.{0,200}\bPS5\b|Plays together:.{0,200}\bPS5\b.{0,200}\b(?:PC|Steam)\b",body,re.I):continue
    if "Sold on both" in body[:150]:continue
    if not re.search(r"Last verified",body,re.I) or not re.search(r"Official sources",body,re.I):continue
