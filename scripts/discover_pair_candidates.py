@@ -21,7 +21,7 @@ class Links(HTMLParser):
    self.href=None
 def norm(name):return re.sub(r"[^a-z0-9]","",name.lower().replace("’","'").replace("™",""))
 ALIASES={"diablo4":"diabloiv","fallguysultimateknockout":"fallguys","hoodoutlawslegends":"hoodoutlawsandlegends","finalfantasyxivonline":"finalfantasyxiv","theelderscrollsonline":"elderscrollsonline","tomclancysxdefiant":"xdefiant","rainbowsixsiege":"rainbowsixsiegex"}
-EXCLUDE={"overwatch","tomclancysghostreconfrontline","spellbreak"}
+EXCLUDE={"overwatch","tomclancysghostreconfrontline","spellbreak","easportsfc27","easportscollegefootball27","maddennfl27","halloweenthegame","runescapdragonwilds","grounded2","marathon"}
 def canonical(name):
  n=norm(name)
  return ALIASES.get(n,n)
@@ -107,6 +107,7 @@ def main():
   if len(added)%25==0 and added:print("New candidates",len(added),flush=True)
   time.sleep(.1)
  for name,url,provider,section,pair_status in secondary:
+  if section!="checked":continue
   if canonical(name) in existing or canonical(name) in EXCLUDE:continue
   record={"id":nextid,"name":name,"genre":"Unknown","price":"Unknown","studio":"Unknown","status":"review","platforms":["PS5","PC"],"ps5Availability":"secondary_listing_pending_official","pcAvailability":"secondary_listing_pending_official","source":url,"notes":"PS5-PC crossplay candidate from "+provider+" ("+section+", "+pair_status+"); official confirmation pending.","image":"","verified":False,"crossProgression":"unknown","gfn":"unknown","gfnSource":"","coverStatus":"missing","crossplayAudit":"secondary_pair_listing_pending_official","crossplayCheckedAt":dt.date.today().isoformat()}
   games.append(record);existing.add(canonical(name));nextid+=1;added.append(name)
