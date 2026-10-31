@@ -1422,22 +1422,23 @@
       "genre": "Survival",
       "price": "Paid",
       "studio": "Keen Games",
-      "status": "upcoming",
+      "status": "unsupported",
       "platforms": [
         "PS5",
         "PC"
       ],
       "source": "https://enshrouded.com/en-US/news/enshrouded-launch-faq-early-access-reward-world",
-      "notes": "Developer confirms no crossplay at 1.0 launch and no estimated release date for crossplay.",
+      "notes": "Developer launch FAQ says PS5–PC crossplay is not available at launch; do not list as verified until officially released.",
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1203620/header.jpg",
-      "verified": true,
+      "verified": false,
       "crossProgression": "unknown",
       "gfn": "yes",
       "gfnSource": "https://gfn.am/en/games/",
       "coverStatus": "url_assigned_unchecked",
-      "crossplayAudit": "source_linked_needs_review",
+      "crossplayAudit": "developer_confirms_not_available",
       "gfnAudit": "listed_on_geforce_now_partner_catalog",
-      "gfnVerifiedAt": "2026-10-31"
+      "gfnVerifiedAt": "2026-10-31",
+      "crossplayCheckedAt": "2026-10-31"
     },
     {
       "id": 56,
