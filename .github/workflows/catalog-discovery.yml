@@ -1,0 +1,42 @@
+name: Discover and audit crossplay catalog
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '23 5 * * 2,5'
+  push:
+    paths:
+      - 'scripts/catalog_pipeline.py'
+      - '.github/workflows/catalog-discovery.yml'
+permissions:
+  contents: write
+concurrency:
+  group: catalog-discovery
+  cancel-in-progress: false
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Validate Python source
+        run: python -m py_compile scripts/catalog_pipeline.py scripts/refresh_covers.py scripts/audit_gfn.py
+      - name: Collect and reconcile complete sources
+        run: python scripts/catalog_pipeline.py
+      - name: Check catalog integrity
+        run: |
+          python - <<'PY'
+          import json,re
+          d=json.load(open('data/games.json'))['games']
+          assert len(d)==len({re.sub(r'[^a-z0-9]','',g['name'].lower()) for g in d}), 'Duplicate game titles'
+          assert all(g.get('name') and isinstance(g.get('verified'),bool) for g in d)
+          print('Catalog valid:',len(d),'entries')
+          PY
+      - name: Commit results
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/games.json data/catalog-audit.json index.html
+          git diff --cached --quiet || (git commit -m "Update multi-source PS5-PC crossplay discovery" && git push)
