@@ -34,6 +34,8 @@ jobs:
           assert all(g.get('name') and isinstance(g.get('verified'),bool) for g in d)
           print('Catalog valid:',len(d),'entries')
           PY
+      - name: Test complete catalog and embedded site data
+        run: python scripts/test_catalog.py
       - name: Commit results
         run: |
           git config user.name "github-actions[bot]"
