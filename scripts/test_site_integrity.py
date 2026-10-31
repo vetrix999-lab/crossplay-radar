@@ -16,5 +16,5 @@ assert 'onerror="this.hidden=true;this.nextElementSibling.hidden=false"' in html
 assert "g.gfn===gfn" in html,"GFN filter missing"
 assert "g.genre===genre" in html,"Genre filter missing"
 assert "g.verified" in html,"Verified status missing"
-assert "loading=\\"lazy\\"" in html,"Lazy image loading missing"
+assert 'loading="lazy"' in html,"Lazy image loading missing"
 print(json.dumps({"games":len(games),"verified":sum(g.get("verified") for g in games),"with_image_url":sum(bool(g.get("image")) for g in games),"missing_image_url":sum(not g.get("image") for g in games),"gfn_yes":sum(g.get("gfn")=="yes" for g in games),"static_checks":"passed"}))
