@@ -1,0 +1,16 @@
+{
+  "run_date": "2026-10-31",
+  "counts": {
+    "pending_total": 224,
+    "due": 224,
+    "attempted": 224,
+    "search_requests": 672,
+    "official_candidates": 539,
+    "official_pages_fetched": 474,
+    "official_page_failures": 46,
+    "errors": 0,
+    "verified_promotions": 0
+  },
+  "total_saved": 224,
+  "remaining": 0
+}
