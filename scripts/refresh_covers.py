@@ -21,7 +21,7 @@ def image_ok(url):
     try:
         status,typ,data=request(url,"image/avif,image/webp,image/png,image/jpeg,image/*",128)
         if status!=200 or not typ.startswith("image/"):return False
-        return (data.startswith(b"\\xff\\xd8\\xff") or data.startswith(b"\\x89PNG\\r\\n\\x1a\\n") or data.startswith(b"GIF87a") or data.startswith(b"GIF89a") or data.startswith(b"RIFF") and data[8:12]==b"WEBP" or data.startswith(b"\\x00\\x00\\x00") and b"ftypavif" in data[:32])
+        return (data.startswith(b"\xff\xd8\xff") or data.startswith(b"\x89PNG\r\n\x1a\n") or data.startswith(b"GIF87a") or data.startswith(b"GIF89a") or data.startswith(b"RIFF") and data[8:12]==b"WEBP" or data.startswith(b"\x00\x00\x00") and b"ftypavif" in data[:32])
     except Exception:return False
 def steam_candidates(name,appid=None):
     if appid:
@@ -78,12 +78,12 @@ def main():
             failures.append({"name":g["name"],"reason":"No validated image from exact-title sources","existing_url":existing})
         if index%25==0:print("Cover audit progress",index,"/",len(games),flush=True)
         time.sleep(0.15)
-    DB.write_text(json.dumps(db,ensure_ascii=False,indent=2)+"\\n")
+    DB.write_text(json.dumps(db,ensure_ascii=False,indent=2)+"\n")
     page=PAGE.read_text();prefix="const EMBEDDED_CATALOG=";start=page.index(prefix)+len(prefix)
-    end=page.index(";\\nlet all=",start)
-    page=page[:start]+json.dumps(db,ensure_ascii=False,separators=(",",":")).replace("<","\\\\u003c")+page[end:]
+    end=page.index(";\nlet all=",start)
+    page=page[:start]+json.dumps(db,ensure_ascii=False,separators=(",",":")).replace("<","\\u003c")+page[end:]
     PAGE.write_text(page)
-    REPORT.write_text(json.dumps({"stats":stats,"unresolved":failures},ensure_ascii=False,indent=2)+"\\n")
-    (ROOT/"data/cover-audit.txt").write_text("\\n".join(x["name"]+": "+x["reason"] for x in failures)+"\\n")
+    REPORT.write_text(json.dumps({"stats":stats,"unresolved":failures},ensure_ascii=False,indent=2)+"\n")
+    (ROOT/"data/cover-audit.txt").write_text("\n".join(x["name"]+": "+x["reason"] for x in failures)+"\n")
     print(json.dumps(stats),flush=True)
 if __name__=="__main__":main()
