@@ -1,6 +1,6 @@
 {
   "updated": "2026-10-31",
-  "method": "200 catalog entries; only entries with verified=true have official-source support. All other entries are unverified candidates, not crossplay claims.",
+  "method": "200 entries audited for duplicate names, cover URL presence and evidence fields on 2026-10-31. Missing covers are flagged; existing image URLs are not yet HTTP-validated. Source links are not equivalent to independently checked platform support.",
   "games": [
     {
       "id": 1,
@@ -19,7 +19,10 @@
       "verified": true,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "source_linked_needs_review",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 2,
@@ -38,7 +41,10 @@
       "verified": true,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "source_linked_needs_review",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 3,
@@ -57,7 +63,10 @@
       "verified": true,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "source_linked_needs_review",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 4,
@@ -76,7 +85,10 @@
       "verified": true,
       "crossProgression": "unknown",
       "gfn": "yes",
-      "gfnSource": "https://nvidia.custhelp.com/app/answers/detail/a_id/4812/"
+      "gfnSource": "https://nvidia.custhelp.com/app/answers/detail/a_id/4812/",
+      "coverStatus": "url_assigned_unchecked",
+      "crossplayAudit": "source_linked_needs_review",
+      "gfnAudit": "source_linked_needs_review"
     },
     {
       "id": 5,
@@ -84,18 +96,21 @@
       "genre": "Shooter",
       "price": "Free",
       "studio": "Activision",
-      "status": "available",
+      "status": "review",
       "platforms": [
         "PS5",
         "PC"
       ],
       "source": "https://www.google.com/search?q=Call%20of%20Duty%3A%20Warzone%20official%20crossplay%20PS5%20PC",
-      "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
+      "notes": "PS5–PC crossplay has not yet been confirmed against a game-specific official source.",
       "image": "",
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 6,
@@ -114,7 +129,10 @@
       "verified": true,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "url_assigned_unchecked",
+      "crossplayAudit": "source_linked_needs_review",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 7,
@@ -122,18 +140,21 @@
       "genre": "Shooter",
       "price": "Free",
       "studio": "Bungie",
-      "status": "available",
+      "status": "review",
       "platforms": [
         "PS5",
         "PC"
       ],
       "source": "https://www.google.com/search?q=Destiny%202%20official%20crossplay%20PS5%20PC",
-      "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
+      "notes": "PS5–PC crossplay has not yet been confirmed against a game-specific official source.",
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1085660/header.jpg",
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "yes",
-      "gfnSource": "https://nvidia.custhelp.com/app/answers/detail/a_id/4812/"
+      "gfnSource": "https://nvidia.custhelp.com/app/answers/detail/a_id/4812/",
+      "coverStatus": "url_assigned_unchecked",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "source_linked_needs_review"
     },
     {
       "id": 8,
@@ -152,7 +173,10 @@
       "verified": true,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "url_assigned_unchecked",
+      "crossplayAudit": "source_linked_needs_review",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 9,
@@ -160,18 +184,21 @@
       "genre": "Shooter",
       "price": "Free",
       "studio": "Embark Studios",
-      "status": "available",
+      "status": "review",
       "platforms": [
         "PS5",
         "PC"
       ],
       "source": "https://www.google.com/search?q=The%20Finals%20official%20crossplay%20PS5%20PC",
-      "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
+      "notes": "PS5–PC crossplay has not yet been confirmed against a game-specific official source.",
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2073850/header.jpg",
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "url_assigned_unchecked",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 10,
@@ -179,18 +206,21 @@
       "genre": "Shooter",
       "price": "Free",
       "studio": "NetEase",
-      "status": "available",
+      "status": "review",
       "platforms": [
         "PS5",
         "PC"
       ],
       "source": "https://www.google.com/search?q=Marvel%20Rivals%20official%20crossplay%20PS5%20PC",
-      "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
+      "notes": "PS5–PC crossplay has not yet been confirmed against a game-specific official source.",
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2767030/header.jpg",
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "url_assigned_unchecked",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 11,
@@ -209,7 +239,10 @@
       "verified": true,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "url_assigned_unchecked",
+      "crossplayAudit": "source_linked_needs_review",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 12,
@@ -228,7 +261,10 @@
       "verified": true,
       "crossProgression": "yes",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "url_assigned_unchecked",
+      "crossplayAudit": "source_linked_needs_review",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 13,
@@ -236,18 +272,21 @@
       "genre": "Survival",
       "price": "Paid",
       "studio": "Hello Games",
-      "status": "available",
+      "status": "review",
       "platforms": [
         "PS5",
         "PC"
       ],
       "source": "https://www.google.com/search?q=No%20Man's%20Sky%20official%20crossplay%20PS5%20PC",
-      "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
+      "notes": "PS5–PC crossplay has not yet been confirmed against a game-specific official source.",
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/275850/header.jpg",
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "yes",
-      "gfnSource": "https://blogs.nvidia.com/blog/geforce-now-thursday-september-2026-games-list/"
+      "gfnSource": "https://blogs.nvidia.com/blog/geforce-now-thursday-september-2026-games-list/",
+      "coverStatus": "url_assigned_unchecked",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "source_linked_needs_review"
     },
     {
       "id": 14,
@@ -266,7 +305,10 @@
       "verified": true,
       "crossProgression": "no",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "url_assigned_unchecked",
+      "crossplayAudit": "source_linked_needs_review",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 15,
@@ -274,18 +316,21 @@
       "genre": "RPG",
       "price": "Paid",
       "studio": "Blizzard",
-      "status": "available",
+      "status": "review",
       "platforms": [
         "PS5",
         "PC"
       ],
       "source": "https://www.google.com/search?q=Diablo%20IV%20official%20crossplay%20PS5%20PC",
-      "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
+      "notes": "PS5–PC crossplay has not yet been confirmed against a game-specific official source.",
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2344520/header.jpg",
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "url_assigned_unchecked",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 16,
@@ -293,18 +338,21 @@
       "genre": "Sandbox",
       "price": "Paid",
       "studio": "Mojang",
-      "status": "available",
+      "status": "review",
       "platforms": [
         "PS5",
         "PC"
       ],
       "source": "https://www.google.com/search?q=Minecraft%20Bedrock%20official%20crossplay%20PS5%20PC",
-      "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
+      "notes": "PS5–PC crossplay has not yet been confirmed against a game-specific official source.",
       "image": "",
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 17,
@@ -312,18 +360,21 @@
       "genre": "Action",
       "price": "Paid",
       "studio": "Mojang",
-      "status": "available",
+      "status": "review",
       "platforms": [
         "PS5",
         "PC"
       ],
       "source": "https://www.google.com/search?q=Minecraft%20Dungeons%20official%20crossplay%20PS5%20PC",
-      "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
+      "notes": "PS5–PC crossplay has not yet been confirmed against a game-specific official source.",
       "image": "",
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 18,
@@ -331,18 +382,21 @@
       "genre": "Survival",
       "price": "Paid",
       "studio": "Obsidian Entertainment",
-      "status": "available",
+      "status": "review",
       "platforms": [
         "PS5",
         "PC"
       ],
       "source": "https://www.google.com/search?q=Grounded%20official%20crossplay%20PS5%20PC",
-      "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
+      "notes": "PS5–PC crossplay has not yet been confirmed against a game-specific official source.",
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/962130/header.jpg",
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "url_assigned_unchecked",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 19,
@@ -350,18 +404,21 @@
       "genre": "Party",
       "price": "Paid",
       "studio": "Innersloth",
-      "status": "available",
+      "status": "review",
       "platforms": [
         "PS5",
         "PC"
       ],
       "source": "https://www.google.com/search?q=Among%20Us%20official%20crossplay%20PS5%20PC",
-      "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
+      "notes": "PS5–PC crossplay has not yet been confirmed against a game-specific official source.",
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/945360/header.jpg",
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "url_assigned_unchecked",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 20,
@@ -369,18 +426,21 @@
       "genre": "Fighting",
       "price": "Free",
       "studio": "Ubisoft",
-      "status": "available",
+      "status": "review",
       "platforms": [
         "PS5",
         "PC"
       ],
       "source": "https://www.google.com/search?q=Brawlhalla%20official%20crossplay%20PS5%20PC",
-      "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
+      "notes": "PS5–PC crossplay has not yet been confirmed against a game-specific official source.",
       "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/291550/header.jpg",
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "url_assigned_unchecked",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 21,
@@ -399,7 +459,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 22,
@@ -407,18 +470,21 @@
       "genre": "Fighting",
       "price": "Paid",
       "studio": "Ubisoft",
-      "status": "available",
+      "status": "review",
       "platforms": [
         "PS5",
         "PC"
       ],
       "source": "https://www.google.com/search?q=For%20Honor%20official%20crossplay%20PS5%20PC",
-      "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
+      "notes": "PS5–PC crossplay has not yet been confirmed against a game-specific official source.",
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/304390/header.jpg",
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "url_assigned_unchecked",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 23,
@@ -437,7 +503,10 @@
       "verified": true,
       "crossProgression": "limited",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "url_assigned_unchecked",
+      "crossplayAudit": "source_linked_needs_review",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 24,
@@ -456,7 +525,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 25,
@@ -475,7 +547,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 26,
@@ -483,18 +558,21 @@
       "genre": "Shooter",
       "price": "Paid",
       "studio": "Gearbox Software",
-      "status": "available",
+      "status": "review",
       "platforms": [
         "PS5",
         "PC"
       ],
       "source": "https://www.google.com/search?q=Borderlands%203%20official%20crossplay%20PS5%20PC",
-      "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
+      "notes": "PS5–PC crossplay has not yet been confirmed against a game-specific official source.",
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/397540/header.jpg",
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "url_assigned_unchecked",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 27,
@@ -502,18 +580,21 @@
       "genre": "Shooter",
       "price": "Paid",
       "studio": "Gearbox Software",
-      "status": "available",
+      "status": "review",
       "platforms": [
         "PS5",
         "PC"
       ],
       "source": "https://www.google.com/search?q=Tiny%20Tina's%20Wonderlands%20official%20crossplay%20PS5%20PC",
-      "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
+      "notes": "PS5–PC crossplay has not yet been confirmed against a game-specific official source.",
       "image": "",
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 28,
@@ -521,18 +602,21 @@
       "genre": "Shooter",
       "price": "Paid",
       "studio": "Turtle Rock Studios",
-      "status": "available",
+      "status": "review",
       "platforms": [
         "PS5",
         "PC"
       ],
       "source": "https://www.google.com/search?q=Back%204%20Blood%20official%20crossplay%20PS5%20PC",
-      "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
+      "notes": "PS5–PC crossplay has not yet been confirmed against a game-specific official source.",
       "image": "",
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 29,
@@ -540,18 +624,21 @@
       "genre": "Shooter",
       "price": "Paid",
       "studio": "Gunfire Games",
-      "status": "available",
+      "status": "review",
       "platforms": [
         "PS5",
         "PC"
       ],
       "source": "https://www.google.com/search?q=Remnant%20II%20official%20crossplay%20PS5%20PC",
-      "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
+      "notes": "PS5–PC crossplay has not yet been confirmed against a game-specific official source.",
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1282100/header.jpg",
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "url_assigned_unchecked",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 30,
@@ -559,18 +646,21 @@
       "genre": "Action",
       "price": "Paid",
       "studio": "Torn Banner Studios",
-      "status": "available",
+      "status": "review",
       "platforms": [
         "PS5",
         "PC"
       ],
       "source": "https://www.google.com/search?q=Chivalry%202%20official%20crossplay%20PS5%20PC",
-      "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
+      "notes": "PS5–PC crossplay has not yet been confirmed against a game-specific official source.",
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1824220/header.jpg",
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "url_assigned_unchecked",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 31,
@@ -578,18 +668,21 @@
       "genre": "Fighting",
       "price": "Paid",
       "studio": "NetherRealm Studios",
-      "status": "available",
+      "status": "review",
       "platforms": [
         "PS5",
         "PC"
       ],
       "source": "https://www.google.com/search?q=Mortal%20Kombat%201%20official%20crossplay%20PS5%20PC",
-      "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
+      "notes": "PS5–PC crossplay has not yet been confirmed against a game-specific official source.",
       "image": "",
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 32,
@@ -597,18 +690,21 @@
       "genre": "Fighting",
       "price": "Paid",
       "studio": "Capcom",
-      "status": "available",
+      "status": "review",
       "platforms": [
         "PS5",
         "PC"
       ],
       "source": "https://www.google.com/search?q=Street%20Fighter%206%20official%20crossplay%20PS5%20PC",
-      "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
+      "notes": "PS5–PC crossplay has not yet been confirmed against a game-specific official source.",
       "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1364780/header.jpg",
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "url_assigned_unchecked",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 33,
@@ -616,18 +712,21 @@
       "genre": "Fighting",
       "price": "Paid",
       "studio": "Bandai Namco",
-      "status": "available",
+      "status": "review",
       "platforms": [
         "PS5",
         "PC"
       ],
       "source": "https://www.google.com/search?q=Tekken%208%20official%20crossplay%20PS5%20PC",
-      "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
+      "notes": "PS5–PC crossplay has not yet been confirmed against a game-specific official source.",
       "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1778820/header.jpg",
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "url_assigned_unchecked",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 34,
@@ -646,7 +745,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 35,
@@ -665,7 +767,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 36,
@@ -673,18 +778,21 @@
       "genre": "Racing",
       "price": "Paid",
       "studio": "Criterion Games",
-      "status": "available",
+      "status": "review",
       "platforms": [
         "PS5",
         "PC"
       ],
       "source": "https://www.google.com/search?q=Need%20for%20Speed%20Unbound%20official%20crossplay%20PS5%20PC",
-      "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
+      "notes": "PS5–PC crossplay has not yet been confirmed against a game-specific official source.",
       "image": "",
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 37,
@@ -692,18 +800,21 @@
       "genre": "Racing",
       "price": "Free",
       "studio": "Gameloft",
-      "status": "available",
+      "status": "review",
       "platforms": [
         "PS5",
         "PC"
       ],
       "source": "https://www.google.com/search?q=Disney%20Speedstorm%20official%20crossplay%20PS5%20PC",
-      "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
+      "notes": "PS5–PC crossplay has not yet been confirmed against a game-specific official source.",
       "image": "",
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 38,
@@ -711,18 +822,21 @@
       "genre": "Racing",
       "price": "Free",
       "studio": "Gameloft",
-      "status": "available",
+      "status": "review",
       "platforms": [
         "PS5",
         "PC"
       ],
       "source": "https://www.google.com/search?q=Asphalt%20Legends%20Unite%20official%20crossplay%20PS5%20PC",
-      "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
+      "notes": "PS5–PC crossplay has not yet been confirmed against a game-specific official source.",
       "image": "",
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 39,
@@ -741,7 +855,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 40,
@@ -749,18 +866,21 @@
       "genre": "Sandbox",
       "price": "Free",
       "studio": "Roblox Corporation",
-      "status": "available",
+      "status": "review",
       "platforms": [
         "PS5",
         "PC"
       ],
       "source": "https://www.google.com/search?q=Roblox%20official%20crossplay%20PS5%20PC",
-      "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
+      "notes": "PS5–PC crossplay has not yet been confirmed against a game-specific official source.",
       "image": "",
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 41,
@@ -779,7 +899,10 @@
       "verified": true,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "source_linked_needs_review",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 42,
@@ -798,7 +921,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 43,
@@ -817,7 +943,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 44,
@@ -836,7 +965,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 45,
@@ -844,18 +976,21 @@
       "genre": "Survival",
       "price": "Paid",
       "studio": "Studio Wildcard",
-      "status": "available",
+      "status": "review",
       "platforms": [
         "PS5",
         "PC"
       ],
       "source": "https://www.google.com/search?q=ARK%3A%20Survival%20Ascended%20official%20crossplay%20PS5%20PC",
-      "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
+      "notes": "PS5–PC crossplay has not yet been confirmed against a game-specific official source.",
       "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2399830/header.jpg",
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "url_assigned_unchecked",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 46,
@@ -874,7 +1009,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "url_assigned_unchecked",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 47,
@@ -893,7 +1031,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 48,
@@ -901,18 +1042,21 @@
       "genre": "Horror",
       "price": "Paid",
       "studio": "Kinetic Games",
-      "status": "available",
+      "status": "review",
       "platforms": [
         "PS5",
         "PC"
       ],
       "source": "https://www.google.com/search?q=Phasmophobia%20official%20crossplay%20PS5%20PC",
-      "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
+      "notes": "PS5–PC crossplay has not yet been confirmed against a game-specific official source.",
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/739630/header.jpg",
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "url_assigned_unchecked",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 49,
@@ -931,7 +1075,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 50,
@@ -950,7 +1097,10 @@
       "verified": true,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "url_assigned_unchecked",
+      "crossplayAudit": "source_linked_needs_review",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 51,
@@ -969,7 +1119,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "url_assigned_unchecked",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 52,
@@ -988,7 +1141,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "url_assigned_unchecked",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 53,
@@ -1007,7 +1163,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 54,
@@ -1026,7 +1185,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 55,
@@ -1045,7 +1207,10 @@
       "verified": true,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "url_assigned_unchecked",
+      "crossplayAudit": "source_linked_needs_review",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 56,
@@ -1064,7 +1229,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "url_assigned_unchecked",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 57,
@@ -1083,7 +1251,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "url_assigned_unchecked",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 58,
@@ -1102,7 +1273,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "url_assigned_unchecked",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 59,
@@ -1121,7 +1295,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "url_assigned_unchecked",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 60,
@@ -1140,7 +1317,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 61,
@@ -1148,18 +1328,21 @@
       "genre": "Action",
       "price": "Paid",
       "studio": "Capcom",
-      "status": "available",
+      "status": "review",
       "platforms": [
         "PS5",
         "PC"
       ],
       "source": "https://www.google.com/search?q=Monster%20Hunter%20Wilds%20official%20crossplay%20PS5%20PC",
-      "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
+      "notes": "PS5–PC crossplay has not yet been confirmed against a game-specific official source.",
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2246340/header.jpg",
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "url_assigned_unchecked",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 62,
@@ -1178,7 +1361,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "url_assigned_unchecked",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 63,
@@ -1197,7 +1383,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 64,
@@ -1205,18 +1394,21 @@
       "genre": "Shooter",
       "price": "Paid",
       "studio": "Capcom",
-      "status": "available",
+      "status": "review",
       "platforms": [
         "PS5",
         "PC"
       ],
       "source": "https://www.google.com/search?q=Exoprimal%20official%20crossplay%20PS5%20PC",
-      "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
+      "notes": "PS5–PC crossplay has not yet been confirmed against a game-specific official source.",
       "image": "",
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 65,
@@ -1224,18 +1416,21 @@
       "genre": "Shooter",
       "price": "Paid",
       "studio": "People Can Fly",
-      "status": "available",
+      "status": "review",
       "platforms": [
         "PS5",
         "PC"
       ],
       "source": "https://www.google.com/search?q=Outriders%20official%20crossplay%20PS5%20PC",
-      "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
+      "notes": "PS5–PC crossplay has not yet been confirmed against a game-specific official source.",
       "image": "",
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 66,
@@ -1243,18 +1438,21 @@
       "genre": "Shooter",
       "price": "Paid",
       "studio": "Cold Iron Studios",
-      "status": "available",
+      "status": "review",
       "platforms": [
         "PS5",
         "PC"
       ],
       "source": "https://www.google.com/search?q=Aliens%3A%20Fireteam%20Elite%20official%20crossplay%20PS5%20PC",
-      "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
+      "notes": "PS5–PC crossplay has not yet been confirmed against a game-specific official source.",
       "image": "",
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 67,
@@ -1273,7 +1471,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 68,
@@ -1281,18 +1482,21 @@
       "genre": "Shooter",
       "price": "Paid",
       "studio": "IllFonic",
-      "status": "available",
+      "status": "review",
       "platforms": [
         "PS5",
         "PC"
       ],
       "source": "https://www.google.com/search?q=Predator%3A%20Hunting%20Grounds%20official%20crossplay%20PS5%20PC",
-      "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
+      "notes": "PS5–PC crossplay has not yet been confirmed against a game-specific official source.",
       "image": "",
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 69,
@@ -1300,18 +1504,21 @@
       "genre": "Horror",
       "price": "Paid",
       "studio": "IllFonic",
-      "status": "available",
+      "status": "review",
       "platforms": [
         "PS5",
         "PC"
       ],
       "source": "https://www.google.com/search?q=Killer%20Klowns%20from%20Outer%20Space%3A%20The%20Game%20official%20crossplay%20PS5%20PC",
-      "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
+      "notes": "PS5–PC crossplay has not yet been confirmed against a game-specific official source.",
       "image": "",
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 70,
@@ -1330,7 +1537,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 71,
@@ -1338,18 +1548,21 @@
       "genre": "Stealth",
       "price": "Paid",
       "studio": "Sweet Bandits Studios",
-      "status": "available",
+      "status": "review",
       "platforms": [
         "PS5",
         "PC"
       ],
       "source": "https://www.google.com/search?q=Deceive%20Inc.%20official%20crossplay%20PS5%20PC",
-      "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
+      "notes": "PS5–PC crossplay has not yet been confirmed against a game-specific official source.",
       "image": "",
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 72,
@@ -1368,7 +1581,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 73,
@@ -1387,7 +1603,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 74,
@@ -1395,18 +1614,21 @@
       "genre": "Shooter",
       "price": "Free",
       "studio": "Pixile Studios",
-      "status": "available",
+      "status": "review",
       "platforms": [
         "PS5",
         "PC"
       ],
       "source": "https://www.google.com/search?q=Super%20Animal%20Royale%20official%20crossplay%20PS5%20PC",
-      "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
+      "notes": "PS5–PC crossplay has not yet been confirmed against a game-specific official source.",
       "image": "",
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 75,
@@ -1425,7 +1647,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 76,
@@ -1444,7 +1669,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 77,
@@ -1463,7 +1691,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 78,
@@ -1482,7 +1713,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 79,
@@ -1490,18 +1724,21 @@
       "genre": "Adventure",
       "price": "Paid",
       "studio": "Ubisoft",
-      "status": "available",
+      "status": "review",
       "platforms": [
         "PS5",
         "PC"
       ],
       "source": "https://www.google.com/search?q=Skull%20and%20Bones%20official%20crossplay%20PS5%20PC",
-      "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
+      "notes": "PS5–PC crossplay has not yet been confirmed against a game-specific official source.",
       "image": "",
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 80,
@@ -1520,7 +1757,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 81,
@@ -1528,18 +1768,21 @@
       "genre": "Shooter",
       "price": "Free",
       "studio": "Ubisoft",
-      "status": "available",
+      "status": "review",
       "platforms": [
         "PS5",
         "PC"
       ],
       "source": "https://www.google.com/search?q=Rainbow%20Six%20Siege%20X%20official%20crossplay%20PS5%20PC",
-      "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
+      "notes": "PS5–PC crossplay has not yet been confirmed against a game-specific official source.",
       "image": "",
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 82,
@@ -1547,18 +1790,21 @@
       "genre": "Shooter",
       "price": "Free",
       "studio": "Nexon",
-      "status": "available",
+      "status": "review",
       "platforms": [
         "PS5",
         "PC"
       ],
       "source": "https://www.google.com/search?q=The%20First%20Descendant%20official%20crossplay%20PS5%20PC",
-      "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
+      "notes": "PS5–PC crossplay has not yet been confirmed against a game-specific official source.",
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2074920/header.jpg",
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "url_assigned_unchecked",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 83,
@@ -1577,7 +1823,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 84,
@@ -1596,7 +1845,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 85,
@@ -1615,7 +1867,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "url_assigned_unchecked",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 86,
@@ -1631,7 +1886,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 87,
@@ -1647,7 +1905,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 88,
@@ -1663,7 +1924,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 89,
@@ -1679,7 +1943,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 90,
@@ -1695,7 +1962,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 91,
@@ -1711,7 +1981,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 92,
@@ -1727,7 +2000,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "url_assigned_unchecked",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 93,
@@ -1743,7 +2019,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 94,
@@ -1759,7 +2038,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 95,
@@ -1775,7 +2057,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 96,
@@ -1791,7 +2076,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "url_assigned_unchecked",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 97,
@@ -1807,7 +2095,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 98,
@@ -1823,7 +2114,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 99,
@@ -1839,7 +2133,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "url_assigned_unchecked",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 100,
@@ -1855,7 +2152,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "url_assigned_unchecked",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 101,
@@ -1871,7 +2171,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "url_assigned_unchecked",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 102,
@@ -1887,7 +2190,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 103,
@@ -1903,7 +2209,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "url_assigned_unchecked",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 104,
@@ -1919,7 +2228,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 105,
@@ -1935,7 +2247,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 106,
@@ -1951,7 +2266,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 107,
@@ -1967,7 +2285,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 108,
@@ -1983,7 +2304,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "url_assigned_unchecked",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 109,
@@ -1999,7 +2323,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "url_assigned_unchecked",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 110,
@@ -2015,7 +2342,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 111,
@@ -2031,7 +2361,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 112,
@@ -2047,7 +2380,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 113,
@@ -2063,7 +2399,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 114,
@@ -2079,7 +2418,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 115,
@@ -2095,7 +2437,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 116,
@@ -2111,7 +2456,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 117,
@@ -2127,7 +2475,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "url_assigned_unchecked",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 118,
@@ -2143,7 +2494,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 119,
@@ -2159,7 +2513,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "url_assigned_unchecked",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 120,
@@ -2175,7 +2532,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 121,
@@ -2191,7 +2551,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 122,
@@ -2207,7 +2570,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 123,
@@ -2223,7 +2589,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 124,
@@ -2239,7 +2608,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 125,
@@ -2255,7 +2627,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 126,
@@ -2271,7 +2646,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 127,
@@ -2287,7 +2665,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "url_assigned_unchecked",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 128,
@@ -2303,7 +2684,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 129,
@@ -2319,7 +2703,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 130,
@@ -2335,7 +2722,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 131,
@@ -2351,7 +2741,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 132,
@@ -2367,7 +2760,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 133,
@@ -2383,7 +2779,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "url_assigned_unchecked",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 134,
@@ -2399,7 +2798,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 135,
@@ -2415,7 +2817,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 136,
@@ -2431,7 +2836,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 137,
@@ -2447,7 +2855,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 138,
@@ -2463,7 +2874,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "url_assigned_unchecked",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 139,
@@ -2479,7 +2893,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 140,
@@ -2495,7 +2912,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 141,
@@ -2511,7 +2931,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 142,
@@ -2527,7 +2950,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 143,
@@ -2543,7 +2969,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 144,
@@ -2559,7 +2988,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 145,
@@ -2575,7 +3007,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 146,
@@ -2591,7 +3026,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 147,
@@ -2607,7 +3045,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "url_assigned_unchecked",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 148,
@@ -2623,7 +3064,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 149,
@@ -2639,7 +3083,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "url_assigned_unchecked",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 150,
@@ -2655,7 +3102,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "yes",
-      "gfnSource": "https://blogs.nvidia.com/blog/geforce-now-thursday-september-2026-games-list/"
+      "gfnSource": "https://blogs.nvidia.com/blog/geforce-now-thursday-september-2026-games-list/",
+      "coverStatus": "url_assigned_unchecked",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "source_linked_needs_review"
     },
     {
       "id": 151,
@@ -2671,7 +3121,10 @@
       "verified": true,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "source_linked_needs_review",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 152,
@@ -2687,7 +3140,10 @@
       "verified": true,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "url_assigned_unchecked",
+      "crossplayAudit": "source_linked_needs_review",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 153,
@@ -2703,7 +3159,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 154,
@@ -2719,7 +3178,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 155,
@@ -2735,7 +3197,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 156,
@@ -2751,7 +3216,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 157,
@@ -2767,7 +3235,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "url_assigned_unchecked",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 158,
@@ -2783,7 +3254,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 159,
@@ -2799,7 +3273,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 160,
@@ -2815,7 +3292,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 161,
@@ -2831,7 +3311,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "url_assigned_unchecked",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 162,
@@ -2847,7 +3330,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "url_assigned_unchecked",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 163,
@@ -2863,7 +3349,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 164,
@@ -2879,7 +3368,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 165,
@@ -2895,7 +3387,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 166,
@@ -2911,7 +3406,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 167,
@@ -2927,7 +3425,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 168,
@@ -2943,7 +3444,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "url_assigned_unchecked",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 169,
@@ -2959,7 +3463,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 170,
@@ -2975,7 +3482,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 171,
@@ -2991,7 +3501,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 172,
@@ -3007,7 +3520,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 173,
@@ -3023,7 +3539,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "url_assigned_unchecked",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 174,
@@ -3039,7 +3558,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "url_assigned_unchecked",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 175,
@@ -3055,7 +3577,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 176,
@@ -3071,7 +3596,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "url_assigned_unchecked",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 177,
@@ -3087,7 +3615,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "url_assigned_unchecked",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 178,
@@ -3103,7 +3634,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "url_assigned_unchecked",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 179,
@@ -3119,7 +3653,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "yes",
-      "gfnSource": "https://blogs.nvidia.com/blog/geforce-now-thursday-may-2026-games-list/"
+      "gfnSource": "https://blogs.nvidia.com/blog/geforce-now-thursday-may-2026-games-list/",
+      "coverStatus": "url_assigned_unchecked",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "source_linked_needs_review"
     },
     {
       "id": 180,
@@ -3135,7 +3672,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 181,
@@ -3151,7 +3691,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 182,
@@ -3167,7 +3710,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 183,
@@ -3183,7 +3729,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 184,
@@ -3199,7 +3748,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 185,
@@ -3215,7 +3767,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "yes",
-      "gfnSource": "https://blogs.nvidia.com/blog/geforce-now-thursday-august-2026-games-list/"
+      "gfnSource": "https://blogs.nvidia.com/blog/geforce-now-thursday-august-2026-games-list/",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "source_linked_needs_review"
     },
     {
       "id": 186,
@@ -3231,7 +3786,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 187,
@@ -3247,7 +3805,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 188,
@@ -3263,7 +3824,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 189,
@@ -3279,7 +3843,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 190,
@@ -3295,7 +3862,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 191,
@@ -3311,7 +3881,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 192,
@@ -3327,7 +3900,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 193,
@@ -3343,7 +3919,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 194,
@@ -3359,7 +3938,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 195,
@@ -3375,7 +3957,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 196,
@@ -3391,7 +3976,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 197,
@@ -3407,7 +3995,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 198,
@@ -3423,7 +4014,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 199,
@@ -3439,7 +4033,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     },
     {
       "id": 200,
@@ -3455,7 +4052,10 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
-      "gfnSource": ""
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "not_verified",
+      "gfnAudit": "not_verified"
     }
   ]
 }
