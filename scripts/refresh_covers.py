@@ -85,5 +85,6 @@ def main():
     PAGE.write_text(page)
     REPORT.write_text(json.dumps({"stats":stats,"unresolved":failures},ensure_ascii=False,indent=2)+"\n")
     (ROOT/"data/cover-audit.txt").write_text("\n".join(x["name"]+": "+x["reason"] for x in failures)+"\n")
+    assert stats["total"]==len(games)
     print(json.dumps(stats),flush=True)
 if __name__=="__main__":main()
