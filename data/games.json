@@ -22,7 +22,9 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "source_linked_needs_review",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
     },
     {
       "id": 2,
@@ -45,7 +47,9 @@
       "coverStatus": "missing",
       "crossplayAudit": "source_linked_needs_review",
       "gfnAudit": "listed_on_geforce_now_partner_catalog",
-      "gfnVerifiedAt": "2026-10-31"
+      "gfnVerifiedAt": "2026-10-31",
+      "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
     },
     {
       "id": 3,
@@ -67,7 +71,9 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "source_linked_needs_review",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
     },
     {
       "id": 4,
@@ -90,7 +96,9 @@
       "coverStatus": "url_assigned_unchecked",
       "crossplayAudit": "source_linked_needs_review",
       "gfnAudit": "listed_on_geforce_now_partner_catalog",
-      "gfnVerifiedAt": "2026-10-31"
+      "gfnVerifiedAt": "2026-10-31",
+      "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
     },
     {
       "id": 5,
@@ -112,7 +120,9 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
     },
     {
       "id": 6,
@@ -135,7 +145,9 @@
       "coverStatus": "url_assigned_unchecked",
       "crossplayAudit": "source_linked_needs_review",
       "gfnAudit": "listed_on_geforce_now_partner_catalog",
-      "gfnVerifiedAt": "2026-10-31"
+      "gfnVerifiedAt": "2026-10-31",
+      "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
     },
     {
       "id": 7,
@@ -157,7 +169,9 @@
       "gfnSource": "https://nvidia.custhelp.com/app/answers/detail/a_id/4812/",
       "coverStatus": "url_assigned_unchecked",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "source_linked_needs_review"
+      "gfnAudit": "source_linked_needs_review",
+      "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
     },
     {
       "id": 8,
@@ -180,7 +194,9 @@
       "coverStatus": "url_assigned_unchecked",
       "crossplayAudit": "source_linked_needs_review",
       "gfnAudit": "listed_on_geforce_now_partner_catalog",
-      "gfnVerifiedAt": "2026-10-31"
+      "gfnVerifiedAt": "2026-10-31",
+      "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
     },
     {
       "id": 9,
@@ -203,7 +219,9 @@
       "coverStatus": "url_assigned_unchecked",
       "crossplayAudit": "not_verified",
       "gfnAudit": "listed_on_geforce_now_partner_catalog",
-      "gfnVerifiedAt": "2026-10-31"
+      "gfnVerifiedAt": "2026-10-31",
+      "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
     },
     {
       "id": 10,
@@ -226,7 +244,9 @@
       "coverStatus": "url_assigned_unchecked",
       "crossplayAudit": "not_verified",
       "gfnAudit": "listed_on_geforce_now_partner_catalog",
-      "gfnVerifiedAt": "2026-10-31"
+      "gfnVerifiedAt": "2026-10-31",
+      "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
     },
     {
       "id": 11,
@@ -249,7 +269,9 @@
       "coverStatus": "url_assigned_unchecked",
       "crossplayAudit": "source_linked_needs_review",
       "gfnAudit": "listed_on_geforce_now_partner_catalog",
-      "gfnVerifiedAt": "2026-10-31"
+      "gfnVerifiedAt": "2026-10-31",
+      "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
     },
     {
       "id": 12,
@@ -271,7 +293,9 @@
       "gfnSource": "",
       "coverStatus": "url_assigned_unchecked",
       "crossplayAudit": "source_linked_needs_review",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
     },
     {
       "id": 13,
@@ -293,7 +317,9 @@
       "gfnSource": "https://blogs.nvidia.com/blog/geforce-now-thursday-september-2026-games-list/",
       "coverStatus": "url_assigned_unchecked",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "source_linked_needs_review"
+      "gfnAudit": "source_linked_needs_review",
+      "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
     },
     {
       "id": 14,
@@ -315,7 +341,9 @@
       "gfnSource": "",
       "coverStatus": "url_assigned_unchecked",
       "crossplayAudit": "source_linked_needs_review",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
     },
     {
       "id": 15,
@@ -337,7 +365,9 @@
       "gfnSource": "",
       "coverStatus": "url_assigned_unchecked",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
     },
     {
       "id": 16,
@@ -359,7 +389,9 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
     },
     {
       "id": 17,
@@ -381,7 +413,9 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
     },
     {
       "id": 18,
@@ -403,7 +437,9 @@
       "gfnSource": "",
       "coverStatus": "url_assigned_unchecked",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
     },
     {
       "id": 19,
@@ -425,7 +461,9 @@
       "gfnSource": "",
       "coverStatus": "url_assigned_unchecked",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
     },
     {
       "id": 20,
@@ -448,7 +486,9 @@
       "coverStatus": "url_assigned_unchecked",
       "crossplayAudit": "not_verified",
       "gfnAudit": "listed_on_geforce_now_partner_catalog",
-      "gfnVerifiedAt": "2026-10-31"
+      "gfnVerifiedAt": "2026-10-31",
+      "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
     },
     {
       "id": 21,
@@ -470,7 +510,9 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
     },
     {
       "id": 22,
@@ -492,7 +534,9 @@
       "gfnSource": "",
       "coverStatus": "url_assigned_unchecked",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
     },
     {
       "id": 23,
@@ -515,7 +559,9 @@
       "coverStatus": "url_assigned_unchecked",
       "crossplayAudit": "source_linked_needs_review",
       "gfnAudit": "listed_on_geforce_now_partner_catalog",
-      "gfnVerifiedAt": "2026-10-31"
+      "gfnVerifiedAt": "2026-10-31",
+      "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
     },
     {
       "id": 24,
@@ -559,7 +605,9 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
     },
     {
       "id": 26,
@@ -581,7 +629,9 @@
       "gfnSource": "",
       "coverStatus": "url_assigned_unchecked",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
     },
     {
       "id": 27,
@@ -603,7 +653,9 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
     },
     {
       "id": 28,
@@ -647,7 +699,9 @@
       "gfnSource": "",
       "coverStatus": "url_assigned_unchecked",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
     },
     {
       "id": 30,
@@ -669,7 +723,9 @@
       "gfnSource": "",
       "coverStatus": "url_assigned_unchecked",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
     },
     {
       "id": 31,
@@ -691,7 +747,9 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
     },
     {
       "id": 32,
@@ -713,7 +771,9 @@
       "gfnSource": "",
       "coverStatus": "url_assigned_unchecked",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
     },
     {
       "id": 33,
@@ -735,7 +795,9 @@
       "gfnSource": "",
       "coverStatus": "url_assigned_unchecked",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
     },
     {
       "id": 34,
@@ -757,7 +819,9 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
     },
     {
       "id": 35,
@@ -779,7 +843,9 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
     },
     {
       "id": 36,
@@ -801,7 +867,9 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
     },
     {
       "id": 37,
@@ -823,7 +891,9 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
     },
     {
       "id": 38,
@@ -845,7 +915,9 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
     },
     {
       "id": 39,
@@ -889,7 +961,9 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
     },
     {
       "id": 41,
@@ -911,7 +985,9 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "source_linked_needs_review",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
     },
     {
       "id": 42,
@@ -1000,7 +1076,9 @@
       "gfnSource": "",
       "coverStatus": "url_assigned_unchecked",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
     },
     {
       "id": 46,
@@ -1022,7 +1100,9 @@
       "gfnSource": "",
       "coverStatus": "url_assigned_unchecked",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
     },
     {
       "id": 47,
@@ -1044,7 +1124,9 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
     },
     {
       "id": 48,
@@ -1066,7 +1148,9 @@
       "gfnSource": "",
       "coverStatus": "url_assigned_unchecked",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
     },
     {
       "id": 49,
@@ -1110,7 +1194,9 @@
       "gfnSource": "",
       "coverStatus": "url_assigned_unchecked",
       "crossplayAudit": "source_linked_needs_review",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
     },
     {
       "id": 51,
@@ -1154,7 +1240,9 @@
       "gfnSource": "",
       "coverStatus": "url_assigned_unchecked",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
     },
     {
       "id": 53,
@@ -1243,7 +1331,9 @@
       "gfnSource": "",
       "coverStatus": "url_assigned_unchecked",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
     },
     {
       "id": 57,
@@ -1287,7 +1377,9 @@
       "gfnSource": "",
       "coverStatus": "url_assigned_unchecked",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
     },
     {
       "id": 59,
@@ -1354,7 +1446,9 @@
       "gfnSource": "",
       "coverStatus": "url_assigned_unchecked",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
     },
     {
       "id": 62,
@@ -1376,7 +1470,9 @@
       "gfnSource": "",
       "coverStatus": "url_assigned_unchecked",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
     },
     {
       "id": 63,
@@ -1552,7 +1648,9 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
     },
     {
       "id": 71,
@@ -1596,7 +1694,9 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
     },
     {
       "id": 73,
@@ -1640,7 +1740,9 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
     },
     {
       "id": 75,
@@ -1684,7 +1786,9 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
     },
     {
       "id": 77,
@@ -1729,7 +1833,9 @@
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
       "gfnAudit": "listed_on_geforce_now_partner_catalog",
-      "gfnVerifiedAt": "2026-10-31"
+      "gfnVerifiedAt": "2026-10-31",
+      "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
     },
     {
       "id": 79,
@@ -1751,7 +1857,9 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
     },
     {
       "id": 80,
@@ -1773,7 +1881,9 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
     },
     {
       "id": 81,
@@ -1795,7 +1905,9 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
     },
     {
       "id": 82,
@@ -1817,7 +1929,9 @@
       "gfnSource": "",
       "coverStatus": "url_assigned_unchecked",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
     },
     {
       "id": 83,
@@ -1840,7 +1954,9 @@
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
       "gfnAudit": "listed_on_geforce_now_partner_catalog",
-      "gfnVerifiedAt": "2026-10-31"
+      "gfnVerifiedAt": "2026-10-31",
+      "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
     },
     {
       "id": 84,
@@ -1885,7 +2001,9 @@
       "gfnSource": "",
       "coverStatus": "url_assigned_unchecked",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
     },
     {
       "id": 86,
@@ -1904,7 +2022,9 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
     },
     {
       "id": 87,
@@ -1923,7 +2043,9 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
     },
     {
       "id": 88,
@@ -1942,7 +2064,9 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
     },
     {
       "id": 89,
@@ -2018,7 +2142,9 @@
       "gfnSource": "",
       "coverStatus": "url_assigned_unchecked",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
     },
     {
       "id": 93,
@@ -2076,7 +2202,9 @@
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
       "gfnAudit": "announced_on_nvidia_blog",
-      "gfnVerifiedAt": "2026-10-31"
+      "gfnVerifiedAt": "2026-10-31",
+      "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
     },
     {
       "id": 96,
@@ -2095,7 +2223,9 @@
       "gfnSource": "",
       "coverStatus": "url_assigned_unchecked",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
     },
     {
       "id": 97,
@@ -2133,7 +2263,9 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
     },
     {
       "id": 99,
@@ -2152,7 +2284,9 @@
       "gfnSource": "",
       "coverStatus": "url_assigned_unchecked",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
     },
     {
       "id": 100,
@@ -2171,7 +2305,9 @@
       "gfnSource": "",
       "coverStatus": "url_assigned_unchecked",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
     },
     {
       "id": 101,
@@ -2190,7 +2326,9 @@
       "gfnSource": "",
       "coverStatus": "url_assigned_unchecked",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
     },
     {
       "id": 102,
@@ -2209,7 +2347,9 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
     },
     {
       "id": 103,
@@ -2228,7 +2368,9 @@
       "gfnSource": "",
       "coverStatus": "url_assigned_unchecked",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
     },
     {
       "id": 104,
@@ -2324,7 +2466,9 @@
       "gfnSource": "",
       "coverStatus": "url_assigned_unchecked",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
     },
     {
       "id": 109,
@@ -2343,7 +2487,9 @@
       "gfnSource": "",
       "coverStatus": "url_assigned_unchecked",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
     },
     {
       "id": 110,
@@ -2362,7 +2508,9 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
     },
     {
       "id": 111,
@@ -2400,7 +2548,9 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
     },
     {
       "id": 113,
@@ -2457,7 +2607,9 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
     },
     {
       "id": 116,
@@ -2495,7 +2647,9 @@
       "gfnSource": "",
       "coverStatus": "url_assigned_unchecked",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
     },
     {
       "id": 118,
@@ -2533,7 +2687,9 @@
       "gfnSource": "",
       "coverStatus": "url_assigned_unchecked",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
     },
     {
       "id": 120,
@@ -2590,7 +2746,9 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
     },
     {
       "id": 123,
@@ -2628,7 +2786,9 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
     },
     {
       "id": 125,
@@ -2685,7 +2845,9 @@
       "gfnSource": "",
       "coverStatus": "url_assigned_unchecked",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
     },
     {
       "id": 128,
@@ -2704,7 +2866,9 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
     },
     {
       "id": 129,
@@ -2799,7 +2963,9 @@
       "gfnSource": "",
       "coverStatus": "url_assigned_unchecked",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
     },
     {
       "id": 134,
@@ -2857,7 +3023,9 @@
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
       "gfnAudit": "listed_on_geforce_now_partner_catalog",
-      "gfnVerifiedAt": "2026-10-31"
+      "gfnVerifiedAt": "2026-10-31",
+      "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
     },
     {
       "id": 137,
@@ -2933,7 +3101,9 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
     },
     {
       "id": 141,
@@ -2971,7 +3141,9 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
     },
     {
       "id": 143,
@@ -3029,7 +3201,9 @@
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
       "gfnAudit": "listed_on_geforce_now_partner_catalog",
-      "gfnVerifiedAt": "2026-10-31"
+      "gfnVerifiedAt": "2026-10-31",
+      "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
     },
     {
       "id": 146,
@@ -3067,7 +3241,9 @@
       "gfnSource": "",
       "coverStatus": "url_assigned_unchecked",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
     },
     {
       "id": 148,
@@ -3105,7 +3281,9 @@
       "gfnSource": "",
       "coverStatus": "url_assigned_unchecked",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
     },
     {
       "id": 150,
@@ -3125,7 +3303,9 @@
       "coverStatus": "url_assigned_unchecked",
       "crossplayAudit": "not_verified",
       "gfnAudit": "listed_on_geforce_now_partner_catalog",
-      "gfnVerifiedAt": "2026-10-31"
+      "gfnVerifiedAt": "2026-10-31",
+      "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
     },
     {
       "id": 151,
@@ -3144,7 +3324,9 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "source_linked_needs_review",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
     },
     {
       "id": 152,
@@ -3163,7 +3345,9 @@
       "gfnSource": "",
       "coverStatus": "url_assigned_unchecked",
       "crossplayAudit": "source_linked_needs_review",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
     },
     {
       "id": 153,
@@ -3296,7 +3480,9 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
     },
     {
       "id": 160,
@@ -3334,7 +3520,9 @@
       "gfnSource": "",
       "coverStatus": "url_assigned_unchecked",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
     },
     {
       "id": 162,
@@ -3353,7 +3541,9 @@
       "gfnSource": "",
       "coverStatus": "url_assigned_unchecked",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
     },
     {
       "id": 163,
@@ -3372,7 +3562,9 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
     },
     {
       "id": 164,
@@ -3486,7 +3678,9 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
     },
     {
       "id": 170,
@@ -3793,7 +3987,9 @@
       "gfnSource": "https://blogs.nvidia.com/blog/geforce-now-thursday-august-2026-games-list/",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "source_linked_needs_review"
+      "gfnAudit": "source_linked_needs_review",
+      "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
     },
     {
       "id": 186,
@@ -3812,7 +4008,9 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
     },
     {
       "id": 187,
@@ -3908,7 +4106,9 @@
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
       "gfnAudit": "listed_on_geforce_now_partner_catalog",
-      "gfnVerifiedAt": "2026-10-31"
+      "gfnVerifiedAt": "2026-10-31",
+      "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
     },
     {
       "id": 192,
