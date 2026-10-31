@@ -62,5 +62,4 @@ PAGE.write_text(page)
 print(f"Total {len(games)}; covers {sum(bool(g.get('image')) for g in games)}; newly matched {changed}; requests {checked}")
 print("Unmatched (review manually):")
 print("\n".join(failures))
-(ROOT/"data/cover-audit.txt").write_text("
-".join(failures)+"\n")
+(ROOT/"data/cover-audit.txt").write_text("\n".join(failures)+"\n")
