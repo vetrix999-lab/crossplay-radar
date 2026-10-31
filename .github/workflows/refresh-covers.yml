@@ -18,6 +18,8 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
+      - name: Check Python syntax before making requests
+        run: python -m py_compile scripts/refresh_covers.py
       - name: Identify game titles and find Steam covers
         run: python scripts/refresh_covers.py
       - name: Commit matched covers and refreshed embedded catalog
