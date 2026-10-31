@@ -1,0 +1,1281 @@
+{
+  "updated": "2026-10-31",
+  "method": "Starter catalog. Status labels are editorial and require source verification. Not exhaustive.",
+  "games": [
+    {
+      "id": 1,
+      "name": "Fortnite",
+      "genre": "Shooter",
+      "price": "Free",
+      "studio": "Epic Games",
+      "status": "available",
+      "platforms": [
+        "PS5",
+        "PC"
+      ],
+      "source": "https://www.google.com/search?q=Fortnite%20official%20crossplay%20PS5%20PC",
+      "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Rocket League",
+      "genre": "Sports",
+      "price": "Free",
+      "studio": "Epic Games",
+      "status": "available",
+      "platforms": [
+        "PS5",
+        "PC"
+      ],
+      "source": "https://www.google.com/search?q=Rocket%20League%20official%20crossplay%20PS5%20PC",
+      "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Fall Guys",
+      "genre": "Party",
+      "price": "Free",
+      "studio": "Epic Games",
+      "status": "available",
+      "platforms": [
+        "PS5",
+        "PC"
+      ],
+      "source": "https://www.google.com/search?q=Fall%20Guys%20official%20crossplay%20PS5%20PC",
+      "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Apex Legends",
+      "genre": "Shooter",
+      "price": "Free",
+      "studio": "EA",
+      "status": "available",
+      "platforms": [
+        "PS5",
+        "PC"
+      ],
+      "source": "https://www.google.com/search?q=Apex%20Legends%20official%20crossplay%20PS5%20PC",
+      "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1172470/header.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Call of Duty: Warzone",
+      "genre": "Shooter",
+      "price": "Free",
+      "studio": "Activision",
+      "status": "available",
+      "platforms": [
+        "PS5",
+        "PC"
+      ],
+      "source": "https://www.google.com/search?q=Call%20of%20Duty%3A%20Warzone%20official%20crossplay%20PS5%20PC",
+      "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Overwatch 2",
+      "genre": "Shooter",
+      "price": "Free",
+      "studio": "Blizzard",
+      "status": "available",
+      "platforms": [
+        "PS5",
+        "PC"
+      ],
+      "source": "https://www.google.com/search?q=Overwatch%202%20official%20crossplay%20PS5%20PC",
+      "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2357570/header.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Destiny 2",
+      "genre": "Shooter",
+      "price": "Free",
+      "studio": "Bungie",
+      "status": "available",
+      "platforms": [
+        "PS5",
+        "PC"
+      ],
+      "source": "https://www.google.com/search?q=Destiny%202%20official%20crossplay%20PS5%20PC",
+      "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1085660/header.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Warframe",
+      "genre": "Action",
+      "price": "Free",
+      "studio": "Digital Extremes",
+      "status": "available",
+      "platforms": [
+        "PS5",
+        "PC"
+      ],
+      "source": "https://www.google.com/search?q=Warframe%20official%20crossplay%20PS5%20PC",
+      "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/230410/header.jpg"
+    },
+    {
+      "id": 9,
+      "name": "The Finals",
+      "genre": "Shooter",
+      "price": "Free",
+      "studio": "Embark Studios",
+      "status": "available",
+      "platforms": [
+        "PS5",
+        "PC"
+      ],
+      "source": "https://www.google.com/search?q=The%20Finals%20official%20crossplay%20PS5%20PC",
+      "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2073850/header.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Marvel Rivals",
+      "genre": "Shooter",
+      "price": "Free",
+      "studio": "NetEase",
+      "status": "available",
+      "platforms": [
+        "PS5",
+        "PC"
+      ],
+      "source": "https://www.google.com/search?q=Marvel%20Rivals%20official%20crossplay%20PS5%20PC",
+      "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2767030/header.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Dead by Daylight",
+      "genre": "Horror",
+      "price": "Paid",
+      "studio": "Behaviour Interactive",
+      "status": "available",
+      "platforms": [
+        "PS5",
+        "PC"
+      ],
+      "source": "https://www.google.com/search?q=Dead%20by%20Daylight%20official%20crossplay%20PS5%20PC",
+      "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/381210/header.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Sea of Thieves",
+      "genre": "Adventure",
+      "price": "Paid",
+      "studio": "Rare",
+      "status": "available",
+      "platforms": [
+        "PS5",
+        "PC"
+      ],
+      "source": "https://www.google.com/search?q=Sea%20of%20Thieves%20official%20crossplay%20PS5%20PC",
+      "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1172620/header.jpg"
+    },
+    {
+      "id": 13,
+      "name": "No Man's Sky",
+      "genre": "Survival",
+      "price": "Paid",
+      "studio": "Hello Games",
+      "status": "available",
+      "platforms": [
+        "PS5",
+        "PC"
+      ],
+      "source": "https://www.google.com/search?q=No%20Man's%20Sky%20official%20crossplay%20PS5%20PC",
+      "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/275850/header.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Helldivers 2",
+      "genre": "Shooter",
+      "price": "Paid",
+      "studio": "Arrowhead Game Studios",
+      "status": "available",
+      "platforms": [
+        "PS5",
+        "PC"
+      ],
+      "source": "https://www.google.com/search?q=Helldivers%202%20official%20crossplay%20PS5%20PC",
+      "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/553850/header.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Diablo IV",
+      "genre": "RPG",
+      "price": "Paid",
+      "studio": "Blizzard",
+      "status": "available",
+      "platforms": [
+        "PS5",
+        "PC"
+      ],
+      "source": "https://www.google.com/search?q=Diablo%20IV%20official%20crossplay%20PS5%20PC",
+      "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2344520/header.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Minecraft Bedrock",
+      "genre": "Sandbox",
+      "price": "Paid",
+      "studio": "Mojang",
+      "status": "available",
+      "platforms": [
+        "PS5",
+        "PC"
+      ],
+      "source": "https://www.google.com/search?q=Minecraft%20Bedrock%20official%20crossplay%20PS5%20PC",
+      "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Minecraft Dungeons",
+      "genre": "Action",
+      "price": "Paid",
+      "studio": "Mojang",
+      "status": "available",
+      "platforms": [
+        "PS5",
+        "PC"
+      ],
+      "source": "https://www.google.com/search?q=Minecraft%20Dungeons%20official%20crossplay%20PS5%20PC",
+      "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Grounded",
+      "genre": "Survival",
+      "price": "Paid",
+      "studio": "Obsidian Entertainment",
+      "status": "available",
+      "platforms": [
+        "PS5",
+        "PC"
+      ],
+      "source": "https://www.google.com/search?q=Grounded%20official%20crossplay%20PS5%20PC",
+      "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/962130/header.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Among Us",
+      "genre": "Party",
+      "price": "Paid",
+      "studio": "Innersloth",
+      "status": "available",
+      "platforms": [
+        "PS5",
+        "PC"
+      ],
+      "source": "https://www.google.com/search?q=Among%20Us%20official%20crossplay%20PS5%20PC",
+      "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/945360/header.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Brawlhalla",
+      "genre": "Fighting",
+      "price": "Free",
+      "studio": "Ubisoft",
+      "status": "available",
+      "platforms": [
+        "PS5",
+        "PC"
+      ],
+      "source": "https://www.google.com/search?q=Brawlhalla%20official%20crossplay%20PS5%20PC",
+      "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/291550/header.jpg"
+    },
+    {
+      "id": 21,
+      "name": "SMITE 2",
+      "genre": "MOBA",
+      "price": "Free",
+      "studio": "Hi-Rez Studios",
+      "status": "review",
+      "platforms": [
+        "PS5",
+        "PC"
+      ],
+      "source": "https://www.google.com/search?q=SMITE%202%20official%20crossplay%20PS5%20PC",
+      "notes": "Requires official platform and mode verification.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg"
+    },
+    {
+      "id": 22,
+      "name": "For Honor",
+      "genre": "Fighting",
+      "price": "Paid",
+      "studio": "Ubisoft",
+      "status": "available",
+      "platforms": [
+        "PS5",
+        "PC"
+      ],
+      "source": "https://www.google.com/search?q=For%20Honor%20official%20crossplay%20PS5%20PC",
+      "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/304390/header.jpg"
+    },
+    {
+      "id": 23,
+      "name": "War Thunder",
+      "genre": "Simulation",
+      "price": "Free",
+      "studio": "Gaijin Entertainment",
+      "status": "available",
+      "platforms": [
+        "PS5",
+        "PC"
+      ],
+      "source": "https://www.google.com/search?q=War%20Thunder%20official%20crossplay%20PS5%20PC",
+      "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/236390/header.jpg"
+    },
+    {
+      "id": 24,
+      "name": "World of Warships: Legends",
+      "genre": "Simulation",
+      "price": "Free",
+      "studio": "Wargaming",
+      "status": "review",
+      "platforms": [
+        "PS5",
+        "PC"
+      ],
+      "source": "https://www.google.com/search?q=World%20of%20Warships%3A%20Legends%20official%20crossplay%20PS5%20PC",
+      "notes": "Requires official platform and mode verification.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg"
+    },
+    {
+      "id": 25,
+      "name": "Paladins",
+      "genre": "Shooter",
+      "price": "Free",
+      "studio": "Hi-Rez Studios",
+      "status": "review",
+      "platforms": [
+        "PS5",
+        "PC"
+      ],
+      "source": "https://www.google.com/search?q=Paladins%20official%20crossplay%20PS5%20PC",
+      "notes": "Requires official platform and mode verification.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg"
+    },
+    {
+      "id": 26,
+      "name": "Borderlands 3",
+      "genre": "Shooter",
+      "price": "Paid",
+      "studio": "Gearbox Software",
+      "status": "available",
+      "platforms": [
+        "PS5",
+        "PC"
+      ],
+      "source": "https://www.google.com/search?q=Borderlands%203%20official%20crossplay%20PS5%20PC",
+      "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/397540/header.jpg"
+    },
+    {
+      "id": 27,
+      "name": "Tiny Tina's Wonderlands",
+      "genre": "Shooter",
+      "price": "Paid",
+      "studio": "Gearbox Software",
+      "status": "available",
+      "platforms": [
+        "PS5",
+        "PC"
+      ],
+      "source": "https://www.google.com/search?q=Tiny%20Tina's%20Wonderlands%20official%20crossplay%20PS5%20PC",
+      "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg"
+    },
+    {
+      "id": 28,
+      "name": "Back 4 Blood",
+      "genre": "Shooter",
+      "price": "Paid",
+      "studio": "Turtle Rock Studios",
+      "status": "available",
+      "platforms": [
+        "PS5",
+        "PC"
+      ],
+      "source": "https://www.google.com/search?q=Back%204%20Blood%20official%20crossplay%20PS5%20PC",
+      "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg"
+    },
+    {
+      "id": 29,
+      "name": "Remnant II",
+      "genre": "Shooter",
+      "price": "Paid",
+      "studio": "Gunfire Games",
+      "status": "available",
+      "platforms": [
+        "PS5",
+        "PC"
+      ],
+      "source": "https://www.google.com/search?q=Remnant%20II%20official%20crossplay%20PS5%20PC",
+      "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1282100/header.jpg"
+    },
+    {
+      "id": 30,
+      "name": "Chivalry 2",
+      "genre": "Action",
+      "price": "Paid",
+      "studio": "Torn Banner Studios",
+      "status": "available",
+      "platforms": [
+        "PS5",
+        "PC"
+      ],
+      "source": "https://www.google.com/search?q=Chivalry%202%20official%20crossplay%20PS5%20PC",
+      "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1824220/header.jpg"
+    },
+    {
+      "id": 31,
+      "name": "Mortal Kombat 1",
+      "genre": "Fighting",
+      "price": "Paid",
+      "studio": "NetherRealm Studios",
+      "status": "available",
+      "platforms": [
+        "PS5",
+        "PC"
+      ],
+      "source": "https://www.google.com/search?q=Mortal%20Kombat%201%20official%20crossplay%20PS5%20PC",
+      "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg"
+    },
+    {
+      "id": 32,
+      "name": "Street Fighter 6",
+      "genre": "Fighting",
+      "price": "Paid",
+      "studio": "Capcom",
+      "status": "available",
+      "platforms": [
+        "PS5",
+        "PC"
+      ],
+      "source": "https://www.google.com/search?q=Street%20Fighter%206%20official%20crossplay%20PS5%20PC",
+      "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1364780/header.jpg"
+    },
+    {
+      "id": 33,
+      "name": "Tekken 8",
+      "genre": "Fighting",
+      "price": "Paid",
+      "studio": "Bandai Namco",
+      "status": "available",
+      "platforms": [
+        "PS5",
+        "PC"
+      ],
+      "source": "https://www.google.com/search?q=Tekken%208%20official%20crossplay%20PS5%20PC",
+      "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1778820/header.jpg"
+    },
+    {
+      "id": 34,
+      "name": "EA Sports FC 26",
+      "genre": "Sports",
+      "price": "Paid",
+      "studio": "Electronic Arts",
+      "status": "review",
+      "platforms": [
+        "PS5",
+        "PC"
+      ],
+      "source": "https://www.google.com/search?q=EA%20Sports%20FC%2026%20official%20crossplay%20PS5%20PC",
+      "notes": "Requires official platform and mode verification.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg"
+    },
+    {
+      "id": 35,
+      "name": "F1 25",
+      "genre": "Racing",
+      "price": "Paid",
+      "studio": "Codemasters",
+      "status": "review",
+      "platforms": [
+        "PS5",
+        "PC"
+      ],
+      "source": "https://www.google.com/search?q=F1%2025%20official%20crossplay%20PS5%20PC",
+      "notes": "Requires official platform and mode verification.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg"
+    },
+    {
+      "id": 36,
+      "name": "Need for Speed Unbound",
+      "genre": "Racing",
+      "price": "Paid",
+      "studio": "Criterion Games",
+      "status": "available",
+      "platforms": [
+        "PS5",
+        "PC"
+      ],
+      "source": "https://www.google.com/search?q=Need%20for%20Speed%20Unbound%20official%20crossplay%20PS5%20PC",
+      "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg"
+    },
+    {
+      "id": 37,
+      "name": "Disney Speedstorm",
+      "genre": "Racing",
+      "price": "Free",
+      "studio": "Gameloft",
+      "status": "available",
+      "platforms": [
+        "PS5",
+        "PC"
+      ],
+      "source": "https://www.google.com/search?q=Disney%20Speedstorm%20official%20crossplay%20PS5%20PC",
+      "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg"
+    },
+    {
+      "id": 38,
+      "name": "Asphalt Legends Unite",
+      "genre": "Racing",
+      "price": "Free",
+      "studio": "Gameloft",
+      "status": "available",
+      "platforms": [
+        "PS5",
+        "PC"
+      ],
+      "source": "https://www.google.com/search?q=Asphalt%20Legends%20Unite%20official%20crossplay%20PS5%20PC",
+      "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg"
+    },
+    {
+      "id": 39,
+      "name": "MultiVersus",
+      "genre": "Fighting",
+      "price": "Free",
+      "studio": "Player First Games",
+      "status": "review",
+      "platforms": [
+        "PS5",
+        "PC"
+      ],
+      "source": "https://www.google.com/search?q=MultiVersus%20official%20crossplay%20PS5%20PC",
+      "notes": "Requires official platform and mode verification.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg"
+    },
+    {
+      "id": 40,
+      "name": "Roblox",
+      "genre": "Sandbox",
+      "price": "Free",
+      "studio": "Roblox Corporation",
+      "status": "available",
+      "platforms": [
+        "PS5",
+        "PC"
+      ],
+      "source": "https://www.google.com/search?q=Roblox%20official%20crossplay%20PS5%20PC",
+      "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg"
+    },
+    {
+      "id": 41,
+      "name": "Genshin Impact",
+      "genre": "RPG",
+      "price": "Free",
+      "studio": "HoYoverse",
+      "status": "available",
+      "platforms": [
+        "PS5",
+        "PC"
+      ],
+      "source": "https://www.google.com/search?q=Genshin%20Impact%20official%20crossplay%20PS5%20PC",
+      "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg"
+    },
+    {
+      "id": 42,
+      "name": "Honkai: Star Rail",
+      "genre": "RPG",
+      "price": "Free",
+      "studio": "HoYoverse",
+      "status": "review",
+      "platforms": [
+        "PS5",
+        "PC"
+      ],
+      "source": "https://www.google.com/search?q=Honkai%3A%20Star%20Rail%20official%20crossplay%20PS5%20PC",
+      "notes": "Requires official platform and mode verification.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg"
+    },
+    {
+      "id": 43,
+      "name": "Tower of Fantasy",
+      "genre": "RPG",
+      "price": "Free",
+      "studio": "Hotta Studio",
+      "status": "review",
+      "platforms": [
+        "PS5",
+        "PC"
+      ],
+      "source": "https://www.google.com/search?q=Tower%20of%20Fantasy%20official%20crossplay%20PS5%20PC",
+      "notes": "Requires official platform and mode verification.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg"
+    },
+    {
+      "id": 44,
+      "name": "Dauntless",
+      "genre": "Action",
+      "price": "Free",
+      "studio": "Phoenix Labs",
+      "status": "review",
+      "platforms": [
+        "PS5",
+        "PC"
+      ],
+      "source": "https://www.google.com/search?q=Dauntless%20official%20crossplay%20PS5%20PC",
+      "notes": "Requires official platform and mode verification.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg"
+    },
+    {
+      "id": 45,
+      "name": "ARK: Survival Ascended",
+      "genre": "Survival",
+      "price": "Paid",
+      "studio": "Studio Wildcard",
+      "status": "available",
+      "platforms": [
+        "PS5",
+        "PC"
+      ],
+      "source": "https://www.google.com/search?q=ARK%3A%20Survival%20Ascended%20official%20crossplay%20PS5%20PC",
+      "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2399830/header.jpg"
+    },
+    {
+      "id": 46,
+      "name": "Path of Exile 2",
+      "genre": "RPG",
+      "price": "Free",
+      "studio": "Grinding Gear Games",
+      "status": "review",
+      "platforms": [
+        "PS5",
+        "PC"
+      ],
+      "source": "https://www.google.com/search?q=Path%20of%20Exile%202%20official%20crossplay%20PS5%20PC",
+      "notes": "Requires official platform and mode verification.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2694490/header.jpg"
+    },
+    {
+      "id": 47,
+      "name": "Path of Exile",
+      "genre": "RPG",
+      "price": "Free",
+      "studio": "Grinding Gear Games",
+      "status": "review",
+      "platforms": [
+        "PS5",
+        "PC"
+      ],
+      "source": "https://www.google.com/search?q=Path%20of%20Exile%20official%20crossplay%20PS5%20PC",
+      "notes": "Requires official platform and mode verification.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg"
+    },
+    {
+      "id": 48,
+      "name": "Phasmophobia",
+      "genre": "Horror",
+      "price": "Paid",
+      "studio": "Kinetic Games",
+      "status": "available",
+      "platforms": [
+        "PS5",
+        "PC"
+      ],
+      "source": "https://www.google.com/search?q=Phasmophobia%20official%20crossplay%20PS5%20PC",
+      "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/739630/header.jpg"
+    },
+    {
+      "id": 49,
+      "name": "Sonic Racing: CrossWorlds",
+      "genre": "Racing",
+      "price": "Paid",
+      "studio": "Sega",
+      "status": "review",
+      "platforms": [
+        "PS5",
+        "PC"
+      ],
+      "source": "https://www.google.com/search?q=Sonic%20Racing%3A%20CrossWorlds%20official%20crossplay%20PS5%20PC",
+      "notes": "Requires official platform and mode verification.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg"
+    },
+    {
+      "id": 50,
+      "name": "Split Fiction",
+      "genre": "Co-op",
+      "price": "Paid",
+      "studio": "Hazelight Studios",
+      "status": "available",
+      "platforms": [
+        "PS5",
+        "PC"
+      ],
+      "source": "https://www.google.com/search?q=Split%20Fiction%20official%20crossplay%20PS5%20PC",
+      "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2001120/header.jpg"
+    },
+    {
+      "id": 51,
+      "name": "It Takes Two",
+      "genre": "Co-op",
+      "price": "Paid",
+      "studio": "Hazelight Studios",
+      "status": "review",
+      "platforms": [
+        "PS5",
+        "PC"
+      ],
+      "source": "https://www.google.com/search?q=It%20Takes%20Two%20official%20crossplay%20PS5%20PC",
+      "notes": "Requires official platform and mode verification.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1426210/header.jpg"
+    },
+    {
+      "id": 52,
+      "name": "Battlefield 6",
+      "genre": "Shooter",
+      "price": "Paid",
+      "studio": "Electronic Arts",
+      "status": "review",
+      "platforms": [
+        "PS5",
+        "PC"
+      ],
+      "source": "https://www.google.com/search?q=Battlefield%206%20official%20crossplay%20PS5%20PC",
+      "notes": "Requires official platform and mode verification.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg"
+    },
+    {
+      "id": 53,
+      "name": "Insurgency: Sandstorm",
+      "genre": "Shooter",
+      "price": "Paid",
+      "studio": "New World Interactive",
+      "status": "review",
+      "platforms": [
+        "PS5",
+        "PC"
+      ],
+      "source": "https://www.google.com/search?q=Insurgency%3A%20Sandstorm%20official%20crossplay%20PS5%20PC",
+      "notes": "Requires official platform and mode verification.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg"
+    },
+    {
+      "id": 54,
+      "name": "Hell Let Loose",
+      "genre": "Shooter",
+      "price": "Paid",
+      "studio": "Team17",
+      "status": "review",
+      "platforms": [
+        "PS5",
+        "PC"
+      ],
+      "source": "https://www.google.com/search?q=Hell%20Let%20Loose%20official%20crossplay%20PS5%20PC",
+      "notes": "Requires official platform and mode verification.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg"
+    },
+    {
+      "id": 55,
+      "name": "Enshrouded",
+      "genre": "Survival",
+      "price": "Paid",
+      "studio": "Keen Games",
+      "status": "upcoming",
+      "platforms": [
+        "PS5",
+        "PC"
+      ],
+      "source": "https://www.google.com/search?q=Enshrouded%20official%20crossplay%20PS5%20PC",
+      "notes": "Console crossplay not confirmed as live.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1203620/header.jpg"
+    },
+    {
+      "id": 56,
+      "name": "PEAK",
+      "genre": "Co-op",
+      "price": "Paid",
+      "studio": "Aggro Crab",
+      "status": "review",
+      "platforms": [
+        "PS5",
+        "PC"
+      ],
+      "source": "https://www.google.com/search?q=PEAK%20official%20crossplay%20PS5%20PC",
+      "notes": "Requires official platform and mode verification.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/3527290/header.jpg"
+    },
+    {
+      "id": 57,
+      "name": "Green Hell",
+      "genre": "Survival",
+      "price": "Paid",
+      "studio": "Creepy Jar",
+      "status": "review",
+      "platforms": [
+        "PS5",
+        "PC"
+      ],
+      "source": "https://www.google.com/search?q=Green%20Hell%20official%20crossplay%20PS5%20PC",
+      "notes": "Requires official platform and mode verification.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/815370/header.jpg"
+    },
+    {
+      "id": 58,
+      "name": "Valheim",
+      "genre": "Survival",
+      "price": "Paid",
+      "studio": "Iron Gate Studio",
+      "status": "review",
+      "platforms": [
+        "PS5",
+        "PC"
+      ],
+      "source": "https://www.google.com/search?q=Valheim%20official%20crossplay%20PS5%20PC",
+      "notes": "Requires official platform and mode verification.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/892970/header.jpg"
+    },
+    {
+      "id": 59,
+      "name": "Deep Rock Galactic",
+      "genre": "Shooter",
+      "price": "Paid",
+      "studio": "Ghost Ship Games",
+      "status": "review",
+      "platforms": [
+        "PS5",
+        "PC"
+      ],
+      "source": "https://www.google.com/search?q=Deep%20Rock%20Galactic%20official%20crossplay%20PS5%20PC",
+      "notes": "Requires official platform and mode verification.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/548430/header.jpg"
+    },
+    {
+      "id": 60,
+      "name": "Risk of Rain 2",
+      "genre": "Action",
+      "price": "Paid",
+      "studio": "Hopoo Games",
+      "status": "review",
+      "platforms": [
+        "PS5",
+        "PC"
+      ],
+      "source": "https://www.google.com/search?q=Risk%20of%20Rain%202%20official%20crossplay%20PS5%20PC",
+      "notes": "Requires official platform and mode verification.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg"
+    },
+    {
+      "id": 61,
+      "name": "Monster Hunter Wilds",
+      "genre": "Action",
+      "price": "Paid",
+      "studio": "Capcom",
+      "status": "available",
+      "platforms": [
+        "PS5",
+        "PC"
+      ],
+      "source": "https://www.google.com/search?q=Monster%20Hunter%20Wilds%20official%20crossplay%20PS5%20PC",
+      "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2246340/header.jpg"
+    },
+    {
+      "id": 62,
+      "name": "Monster Hunter Rise",
+      "genre": "Action",
+      "price": "Paid",
+      "studio": "Capcom",
+      "status": "review",
+      "platforms": [
+        "PS5",
+        "PC"
+      ],
+      "source": "https://www.google.com/search?q=Monster%20Hunter%20Rise%20official%20crossplay%20PS5%20PC",
+      "notes": "Requires official platform and mode verification.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg"
+    },
+    {
+      "id": 63,
+      "name": "Wild Hearts",
+      "genre": "Action",
+      "price": "Paid",
+      "studio": "Omega Force",
+      "status": "review",
+      "platforms": [
+        "PS5",
+        "PC"
+      ],
+      "source": "https://www.google.com/search?q=Wild%20Hearts%20official%20crossplay%20PS5%20PC",
+      "notes": "Requires official platform and mode verification.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg"
+    },
+    {
+      "id": 64,
+      "name": "Exoprimal",
+      "genre": "Shooter",
+      "price": "Paid",
+      "studio": "Capcom",
+      "status": "available",
+      "platforms": [
+        "PS5",
+        "PC"
+      ],
+      "source": "https://www.google.com/search?q=Exoprimal%20official%20crossplay%20PS5%20PC",
+      "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg"
+    },
+    {
+      "id": 65,
+      "name": "Outriders",
+      "genre": "Shooter",
+      "price": "Paid",
+      "studio": "People Can Fly",
+      "status": "available",
+      "platforms": [
+        "PS5",
+        "PC"
+      ],
+      "source": "https://www.google.com/search?q=Outriders%20official%20crossplay%20PS5%20PC",
+      "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg"
+    },
+    {
+      "id": 66,
+      "name": "Aliens: Fireteam Elite",
+      "genre": "Shooter",
+      "price": "Paid",
+      "studio": "Cold Iron Studios",
+      "status": "available",
+      "platforms": [
+        "PS5",
+        "PC"
+      ],
+      "source": "https://www.google.com/search?q=Aliens%3A%20Fireteam%20Elite%20official%20crossplay%20PS5%20PC",
+      "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg"
+    },
+    {
+      "id": 67,
+      "name": "Evil Dead: The Game",
+      "genre": "Horror",
+      "price": "Paid",
+      "studio": "Saber Interactive",
+      "status": "review",
+      "platforms": [
+        "PS5",
+        "PC"
+      ],
+      "source": "https://www.google.com/search?q=Evil%20Dead%3A%20The%20Game%20official%20crossplay%20PS5%20PC",
+      "notes": "Requires official platform and mode verification.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg"
+    },
+    {
+      "id": 68,
+      "name": "Predator: Hunting Grounds",
+      "genre": "Shooter",
+      "price": "Paid",
+      "studio": "IllFonic",
+      "status": "available",
+      "platforms": [
+        "PS5",
+        "PC"
+      ],
+      "source": "https://www.google.com/search?q=Predator%3A%20Hunting%20Grounds%20official%20crossplay%20PS5%20PC",
+      "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg"
+    },
+    {
+      "id": 69,
+      "name": "Killer Klowns from Outer Space: The Game",
+      "genre": "Horror",
+      "price": "Paid",
+      "studio": "IllFonic",
+      "status": "available",
+      "platforms": [
+        "PS5",
+        "PC"
+      ],
+      "source": "https://www.google.com/search?q=Killer%20Klowns%20from%20Outer%20Space%3A%20The%20Game%20official%20crossplay%20PS5%20PC",
+      "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg"
+    },
+    {
+      "id": 70,
+      "name": "Texas Chain Saw Massacre",
+      "genre": "Horror",
+      "price": "Paid",
+      "studio": "Sumo Nottingham",
+      "status": "review",
+      "platforms": [
+        "PS5",
+        "PC"
+      ],
+      "source": "https://www.google.com/search?q=Texas%20Chain%20Saw%20Massacre%20official%20crossplay%20PS5%20PC",
+      "notes": "Requires official platform and mode verification.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg"
+    },
+    {
+      "id": 71,
+      "name": "Deceive Inc.",
+      "genre": "Stealth",
+      "price": "Paid",
+      "studio": "Sweet Bandits Studios",
+      "status": "available",
+      "platforms": [
+        "PS5",
+        "PC"
+      ],
+      "source": "https://www.google.com/search?q=Deceive%20Inc.%20official%20crossplay%20PS5%20PC",
+      "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg"
+    },
+    {
+      "id": 72,
+      "name": "Rogue Company",
+      "genre": "Shooter",
+      "price": "Free",
+      "studio": "First Watch Games",
+      "status": "review",
+      "platforms": [
+        "PS5",
+        "PC"
+      ],
+      "source": "https://www.google.com/search?q=Rogue%20Company%20official%20crossplay%20PS5%20PC",
+      "notes": "Requires official platform and mode verification.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg"
+    },
+    {
+      "id": 73,
+      "name": "Realm Royale Reforged",
+      "genre": "Shooter",
+      "price": "Free",
+      "studio": "Hi-Rez Studios",
+      "status": "review",
+      "platforms": [
+        "PS5",
+        "PC"
+      ],
+      "source": "https://www.google.com/search?q=Realm%20Royale%20Reforged%20official%20crossplay%20PS5%20PC",
+      "notes": "Requires official platform and mode verification.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg"
+    },
+    {
+      "id": 74,
+      "name": "Super Animal Royale",
+      "genre": "Shooter",
+      "price": "Free",
+      "studio": "Pixile Studios",
+      "status": "available",
+      "platforms": [
+        "PS5",
+        "PC"
+      ],
+      "source": "https://www.google.com/search?q=Super%20Animal%20Royale%20official%20crossplay%20PS5%20PC",
+      "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg"
+    },
+    {
+      "id": 75,
+      "name": "Omega Strikers",
+      "genre": "Sports",
+      "price": "Free",
+      "studio": "Odyssey Interactive",
+      "status": "review",
+      "platforms": [
+        "PS5",
+        "PC"
+      ],
+      "source": "https://www.google.com/search?q=Omega%20Strikers%20official%20crossplay%20PS5%20PC",
+      "notes": "Requires official platform and mode verification.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg"
+    },
+    {
+      "id": 76,
+      "name": "Century: Age of Ashes",
+      "genre": "Action",
+      "price": "Free",
+      "studio": "Playwing",
+      "status": "review",
+      "platforms": [
+        "PS5",
+        "PC"
+      ],
+      "source": "https://www.google.com/search?q=Century%3A%20Age%20of%20Ashes%20official%20crossplay%20PS5%20PC",
+      "notes": "Requires official platform and mode verification.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg"
+    },
+    {
+      "id": 77,
+      "name": "KartRider: Drift",
+      "genre": "Racing",
+      "price": "Free",
+      "studio": "Nexon",
+      "status": "review",
+      "platforms": [
+        "PS5",
+        "PC"
+      ],
+      "source": "https://www.google.com/search?q=KartRider%3A%20Drift%20official%20crossplay%20PS5%20PC",
+      "notes": "Requires official platform and mode verification.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg"
+    },
+    {
+      "id": 78,
+      "name": "Riders Republic",
+      "genre": "Sports",
+      "price": "Paid",
+      "studio": "Ubisoft",
+      "status": "review",
+      "platforms": [
+        "PS5",
+        "PC"
+      ],
+      "source": "https://www.google.com/search?q=Riders%20Republic%20official%20crossplay%20PS5%20PC",
+      "notes": "Requires official platform and mode verification.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg"
+    },
+    {
+      "id": 79,
+      "name": "Skull and Bones",
+      "genre": "Adventure",
+      "price": "Paid",
+      "studio": "Ubisoft",
+      "status": "available",
+      "platforms": [
+        "PS5",
+        "PC"
+      ],
+      "source": "https://www.google.com/search?q=Skull%20and%20Bones%20official%20crossplay%20PS5%20PC",
+      "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg"
+    },
+    {
+      "id": 80,
+      "name": "Avatar: Frontiers of Pandora",
+      "genre": "Adventure",
+      "price": "Paid",
+      "studio": "Ubisoft",
+      "status": "review",
+      "platforms": [
+        "PS5",
+        "PC"
+      ],
+      "source": "https://www.google.com/search?q=Avatar%3A%20Frontiers%20of%20Pandora%20official%20crossplay%20PS5%20PC",
+      "notes": "Requires official platform and mode verification.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg"
+    },
+    {
+      "id": 81,
+      "name": "Rainbow Six Siege X",
+      "genre": "Shooter",
+      "price": "Free",
+      "studio": "Ubisoft",
+      "status": "available",
+      "platforms": [
+        "PS5",
+        "PC"
+      ],
+      "source": "https://www.google.com/search?q=Rainbow%20Six%20Siege%20X%20official%20crossplay%20PS5%20PC",
+      "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg"
+    },
+    {
+      "id": 82,
+      "name": "The First Descendant",
+      "genre": "Shooter",
+      "price": "Free",
+      "studio": "Nexon",
+      "status": "available",
+      "platforms": [
+        "PS5",
+        "PC"
+      ],
+      "source": "https://www.google.com/search?q=The%20First%20Descendant%20official%20crossplay%20PS5%20PC",
+      "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg"
+    },
+    {
+      "id": 83,
+      "name": "Once Human",
+      "genre": "Survival",
+      "price": "Free",
+      "studio": "Starry Studio",
+      "status": "review",
+      "platforms": [
+        "PS5",
+        "PC"
+      ],
+      "source": "https://www.google.com/search?q=Once%20Human%20official%20crossplay%20PS5%20PC",
+      "notes": "Requires official platform and mode verification.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg"
+    },
+    {
+      "id": 84,
+      "name": "Dune: Awakening",
+      "genre": "Survival",
+      "price": "Paid",
+      "studio": "Funcom",
+      "status": "review",
+      "platforms": [
+        "PS5",
+        "PC"
+      ],
+      "source": "https://www.google.com/search?q=Dune%3A%20Awakening%20official%20crossplay%20PS5%20PC",
+      "notes": "Requires official platform and mode verification.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg"
+    },
+    {
+      "id": 85,
+      "name": "Arc Raiders",
+      "genre": "Shooter",
+      "price": "Paid",
+      "studio": "Embark Studios",
+      "status": "review",
+      "platforms": [
+        "PS5",
+        "PC"
+      ],
+      "source": "https://www.google.com/search?q=Arc%20Raiders%20official%20crossplay%20PS5%20PC",
+      "notes": "Requires official platform and mode verification.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg"
+    }
+  ]
+}
