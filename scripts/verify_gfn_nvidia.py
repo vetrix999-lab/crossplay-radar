@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
-"""Conservative NVIDIA first-party GFN confirmation; absence remains Unknown."""
+"""Conservative NVIDIA first-party GFN confirmation; absence remains Unknown.
+No game is marked Yes merely because it appears on Steam.
+"""
 import datetime as dt,html,json,pathlib,re,urllib.request
 from html.parser import HTMLParser
 ROOT=pathlib.Path(__file__).resolve().parents[1]
