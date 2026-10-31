@@ -1,6 +1,6 @@
 {
   "updated": "2026-10-31",
-  "method": "Starter catalog. Status labels are editorial and require source verification. Not exhaustive.",
+  "method": "Official verification is explicit per game; remaining entries are unverified editorial leads.",
   "games": [
     {
       "id": 1,
@@ -15,7 +15,9 @@
       ],
       "source": "https://www.google.com/search?q=Fortnite%20official%20crossplay%20PS5%20PC",
       "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
-      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg"
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg",
+      "verified": false,
+      "crossProgression": "unknown"
     },
     {
       "id": 2,
@@ -30,7 +32,9 @@
       ],
       "source": "https://www.google.com/search?q=Rocket%20League%20official%20crossplay%20PS5%20PC",
       "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
-      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg"
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg",
+      "verified": false,
+      "crossProgression": "unknown"
     },
     {
       "id": 3,
@@ -45,7 +49,9 @@
       ],
       "source": "https://www.google.com/search?q=Fall%20Guys%20official%20crossplay%20PS5%20PC",
       "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
-      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg"
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg",
+      "verified": false,
+      "crossProgression": "unknown"
     },
     {
       "id": 4,
@@ -60,7 +66,9 @@
       ],
       "source": "https://www.google.com/search?q=Apex%20Legends%20official%20crossplay%20PS5%20PC",
       "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
-      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1172470/header.jpg"
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1172470/header.jpg",
+      "verified": false,
+      "crossProgression": "unknown"
     },
     {
       "id": 5,
@@ -75,7 +83,9 @@
       ],
       "source": "https://www.google.com/search?q=Call%20of%20Duty%3A%20Warzone%20official%20crossplay%20PS5%20PC",
       "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
-      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg"
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg",
+      "verified": false,
+      "crossProgression": "unknown"
     },
     {
       "id": 6,
@@ -90,7 +100,9 @@
       ],
       "source": "https://www.google.com/search?q=Overwatch%202%20official%20crossplay%20PS5%20PC",
       "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
-      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2357570/header.jpg"
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2357570/header.jpg",
+      "verified": false,
+      "crossProgression": "unknown"
     },
     {
       "id": 7,
@@ -105,7 +117,9 @@
       ],
       "source": "https://www.google.com/search?q=Destiny%202%20official%20crossplay%20PS5%20PC",
       "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
-      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1085660/header.jpg"
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1085660/header.jpg",
+      "verified": false,
+      "crossProgression": "unknown"
     },
     {
       "id": 8,
@@ -120,7 +134,9 @@
       ],
       "source": "https://www.google.com/search?q=Warframe%20official%20crossplay%20PS5%20PC",
       "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
-      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/230410/header.jpg"
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/230410/header.jpg",
+      "verified": false,
+      "crossProgression": "unknown"
     },
     {
       "id": 9,
@@ -135,7 +151,9 @@
       ],
       "source": "https://www.google.com/search?q=The%20Finals%20official%20crossplay%20PS5%20PC",
       "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
-      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2073850/header.jpg"
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2073850/header.jpg",
+      "verified": false,
+      "crossProgression": "unknown"
     },
     {
       "id": 10,
@@ -150,7 +168,9 @@
       ],
       "source": "https://www.google.com/search?q=Marvel%20Rivals%20official%20crossplay%20PS5%20PC",
       "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
-      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2767030/header.jpg"
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2767030/header.jpg",
+      "verified": false,
+      "crossProgression": "unknown"
     },
     {
       "id": 11,
@@ -165,7 +185,9 @@
       ],
       "source": "https://www.google.com/search?q=Dead%20by%20Daylight%20official%20crossplay%20PS5%20PC",
       "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
-      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/381210/header.jpg"
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/381210/header.jpg",
+      "verified": false,
+      "crossProgression": "unknown"
     },
     {
       "id": 12,
@@ -178,9 +200,11 @@
         "PS5",
         "PC"
       ],
-      "source": "https://www.google.com/search?q=Sea%20of%20Thieves%20official%20crossplay%20PS5%20PC",
-      "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
-      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1172620/header.jpg"
+      "source": "https://www.seaofthieves.com/news/ps5-faq",
+      "notes": "Official PS5–PC crossplay. Microsoft account syncs progress, except certain platform-exclusive cosmetics.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1172620/header.jpg",
+      "verified": true,
+      "crossProgression": "yes"
     },
     {
       "id": 13,
@@ -195,7 +219,9 @@
       ],
       "source": "https://www.google.com/search?q=No%20Man's%20Sky%20official%20crossplay%20PS5%20PC",
       "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
-      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/275850/header.jpg"
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/275850/header.jpg",
+      "verified": false,
+      "crossProgression": "unknown"
     },
     {
       "id": 14,
@@ -208,9 +234,11 @@
         "PS5",
         "PC"
       ],
-      "source": "https://www.google.com/search?q=Helldivers%202%20official%20crossplay%20PS5%20PC",
-      "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
-      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/553850/header.jpg"
+      "source": "https://arrowhead.zendesk.com/hc/en-us/articles/12517679456156-Does-Helldivers-2-have-cross-progression-Can-I-transfer-my-stuff-to-another-account",
+      "notes": "Official PS5–PC crossplay. Cross-progression and cross-save are not supported.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/553850/header.jpg",
+      "verified": true,
+      "crossProgression": "no"
     },
     {
       "id": 15,
@@ -225,7 +253,9 @@
       ],
       "source": "https://www.google.com/search?q=Diablo%20IV%20official%20crossplay%20PS5%20PC",
       "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
-      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2344520/header.jpg"
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2344520/header.jpg",
+      "verified": false,
+      "crossProgression": "unknown"
     },
     {
       "id": 16,
@@ -240,7 +270,9 @@
       ],
       "source": "https://www.google.com/search?q=Minecraft%20Bedrock%20official%20crossplay%20PS5%20PC",
       "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
-      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg"
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg",
+      "verified": false,
+      "crossProgression": "unknown"
     },
     {
       "id": 17,
@@ -255,7 +287,9 @@
       ],
       "source": "https://www.google.com/search?q=Minecraft%20Dungeons%20official%20crossplay%20PS5%20PC",
       "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
-      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg"
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg",
+      "verified": false,
+      "crossProgression": "unknown"
     },
     {
       "id": 18,
@@ -270,7 +304,9 @@
       ],
       "source": "https://www.google.com/search?q=Grounded%20official%20crossplay%20PS5%20PC",
       "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
-      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/962130/header.jpg"
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/962130/header.jpg",
+      "verified": false,
+      "crossProgression": "unknown"
     },
     {
       "id": 19,
@@ -285,7 +321,9 @@
       ],
       "source": "https://www.google.com/search?q=Among%20Us%20official%20crossplay%20PS5%20PC",
       "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
-      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/945360/header.jpg"
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/945360/header.jpg",
+      "verified": false,
+      "crossProgression": "unknown"
     },
     {
       "id": 20,
@@ -300,7 +338,9 @@
       ],
       "source": "https://www.google.com/search?q=Brawlhalla%20official%20crossplay%20PS5%20PC",
       "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
-      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/291550/header.jpg"
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/291550/header.jpg",
+      "verified": false,
+      "crossProgression": "unknown"
     },
     {
       "id": 21,
@@ -315,7 +355,9 @@
       ],
       "source": "https://www.google.com/search?q=SMITE%202%20official%20crossplay%20PS5%20PC",
       "notes": "Requires official platform and mode verification.",
-      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg"
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg",
+      "verified": false,
+      "crossProgression": "unknown"
     },
     {
       "id": 22,
@@ -330,7 +372,9 @@
       ],
       "source": "https://www.google.com/search?q=For%20Honor%20official%20crossplay%20PS5%20PC",
       "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
-      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/304390/header.jpg"
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/304390/header.jpg",
+      "verified": false,
+      "crossProgression": "unknown"
     },
     {
       "id": 23,
@@ -343,9 +387,11 @@
         "PS5",
         "PC"
       ],
-      "source": "https://www.google.com/search?q=War%20Thunder%20official%20crossplay%20PS5%20PC",
-      "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
-      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/236390/header.jpg"
+      "source": "https://warthunder.com/en/game/faq",
+      "notes": "Official PS5–PC crossplay. PC-origin accounts cannot transfer to PlayStation; PlayStation-origin accounts can link to PC.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/236390/header.jpg",
+      "verified": true,
+      "crossProgression": "limited"
     },
     {
       "id": 24,
@@ -360,7 +406,9 @@
       ],
       "source": "https://www.google.com/search?q=World%20of%20Warships%3A%20Legends%20official%20crossplay%20PS5%20PC",
       "notes": "Requires official platform and mode verification.",
-      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg"
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg",
+      "verified": false,
+      "crossProgression": "unknown"
     },
     {
       "id": 25,
@@ -375,7 +423,9 @@
       ],
       "source": "https://www.google.com/search?q=Paladins%20official%20crossplay%20PS5%20PC",
       "notes": "Requires official platform and mode verification.",
-      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg"
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg",
+      "verified": false,
+      "crossProgression": "unknown"
     },
     {
       "id": 26,
@@ -390,7 +440,9 @@
       ],
       "source": "https://www.google.com/search?q=Borderlands%203%20official%20crossplay%20PS5%20PC",
       "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
-      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/397540/header.jpg"
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/397540/header.jpg",
+      "verified": false,
+      "crossProgression": "unknown"
     },
     {
       "id": 27,
@@ -405,7 +457,9 @@
       ],
       "source": "https://www.google.com/search?q=Tiny%20Tina's%20Wonderlands%20official%20crossplay%20PS5%20PC",
       "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
-      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg"
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg",
+      "verified": false,
+      "crossProgression": "unknown"
     },
     {
       "id": 28,
@@ -420,7 +474,9 @@
       ],
       "source": "https://www.google.com/search?q=Back%204%20Blood%20official%20crossplay%20PS5%20PC",
       "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
-      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg"
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg",
+      "verified": false,
+      "crossProgression": "unknown"
     },
     {
       "id": 29,
@@ -435,7 +491,9 @@
       ],
       "source": "https://www.google.com/search?q=Remnant%20II%20official%20crossplay%20PS5%20PC",
       "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
-      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1282100/header.jpg"
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1282100/header.jpg",
+      "verified": false,
+      "crossProgression": "unknown"
     },
     {
       "id": 30,
@@ -450,7 +508,9 @@
       ],
       "source": "https://www.google.com/search?q=Chivalry%202%20official%20crossplay%20PS5%20PC",
       "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
-      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1824220/header.jpg"
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1824220/header.jpg",
+      "verified": false,
+      "crossProgression": "unknown"
     },
     {
       "id": 31,
@@ -465,7 +525,9 @@
       ],
       "source": "https://www.google.com/search?q=Mortal%20Kombat%201%20official%20crossplay%20PS5%20PC",
       "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
-      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg"
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg",
+      "verified": false,
+      "crossProgression": "unknown"
     },
     {
       "id": 32,
@@ -480,7 +542,9 @@
       ],
       "source": "https://www.google.com/search?q=Street%20Fighter%206%20official%20crossplay%20PS5%20PC",
       "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
-      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1364780/header.jpg"
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1364780/header.jpg",
+      "verified": false,
+      "crossProgression": "unknown"
     },
     {
       "id": 33,
@@ -495,7 +559,9 @@
       ],
       "source": "https://www.google.com/search?q=Tekken%208%20official%20crossplay%20PS5%20PC",
       "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
-      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1778820/header.jpg"
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1778820/header.jpg",
+      "verified": false,
+      "crossProgression": "unknown"
     },
     {
       "id": 34,
@@ -510,7 +576,9 @@
       ],
       "source": "https://www.google.com/search?q=EA%20Sports%20FC%2026%20official%20crossplay%20PS5%20PC",
       "notes": "Requires official platform and mode verification.",
-      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg"
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg",
+      "verified": false,
+      "crossProgression": "unknown"
     },
     {
       "id": 35,
@@ -525,7 +593,9 @@
       ],
       "source": "https://www.google.com/search?q=F1%2025%20official%20crossplay%20PS5%20PC",
       "notes": "Requires official platform and mode verification.",
-      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg"
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg",
+      "verified": false,
+      "crossProgression": "unknown"
     },
     {
       "id": 36,
@@ -540,7 +610,9 @@
       ],
       "source": "https://www.google.com/search?q=Need%20for%20Speed%20Unbound%20official%20crossplay%20PS5%20PC",
       "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
-      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg"
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg",
+      "verified": false,
+      "crossProgression": "unknown"
     },
     {
       "id": 37,
@@ -555,7 +627,9 @@
       ],
       "source": "https://www.google.com/search?q=Disney%20Speedstorm%20official%20crossplay%20PS5%20PC",
       "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
-      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg"
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg",
+      "verified": false,
+      "crossProgression": "unknown"
     },
     {
       "id": 38,
@@ -570,7 +644,9 @@
       ],
       "source": "https://www.google.com/search?q=Asphalt%20Legends%20Unite%20official%20crossplay%20PS5%20PC",
       "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
-      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg"
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg",
+      "verified": false,
+      "crossProgression": "unknown"
     },
     {
       "id": 39,
@@ -585,7 +661,9 @@
       ],
       "source": "https://www.google.com/search?q=MultiVersus%20official%20crossplay%20PS5%20PC",
       "notes": "Requires official platform and mode verification.",
-      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg"
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg",
+      "verified": false,
+      "crossProgression": "unknown"
     },
     {
       "id": 40,
@@ -600,7 +678,9 @@
       ],
       "source": "https://www.google.com/search?q=Roblox%20official%20crossplay%20PS5%20PC",
       "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
-      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg"
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg",
+      "verified": false,
+      "crossProgression": "unknown"
     },
     {
       "id": 41,
@@ -615,7 +695,9 @@
       ],
       "source": "https://www.google.com/search?q=Genshin%20Impact%20official%20crossplay%20PS5%20PC",
       "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
-      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg"
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg",
+      "verified": false,
+      "crossProgression": "unknown"
     },
     {
       "id": 42,
@@ -630,7 +712,9 @@
       ],
       "source": "https://www.google.com/search?q=Honkai%3A%20Star%20Rail%20official%20crossplay%20PS5%20PC",
       "notes": "Requires official platform and mode verification.",
-      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg"
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg",
+      "verified": false,
+      "crossProgression": "unknown"
     },
     {
       "id": 43,
@@ -645,7 +729,9 @@
       ],
       "source": "https://www.google.com/search?q=Tower%20of%20Fantasy%20official%20crossplay%20PS5%20PC",
       "notes": "Requires official platform and mode verification.",
-      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg"
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg",
+      "verified": false,
+      "crossProgression": "unknown"
     },
     {
       "id": 44,
@@ -660,7 +746,9 @@
       ],
       "source": "https://www.google.com/search?q=Dauntless%20official%20crossplay%20PS5%20PC",
       "notes": "Requires official platform and mode verification.",
-      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg"
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg",
+      "verified": false,
+      "crossProgression": "unknown"
     },
     {
       "id": 45,
@@ -675,7 +763,9 @@
       ],
       "source": "https://www.google.com/search?q=ARK%3A%20Survival%20Ascended%20official%20crossplay%20PS5%20PC",
       "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
-      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2399830/header.jpg"
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2399830/header.jpg",
+      "verified": false,
+      "crossProgression": "unknown"
     },
     {
       "id": 46,
@@ -690,7 +780,9 @@
       ],
       "source": "https://www.google.com/search?q=Path%20of%20Exile%202%20official%20crossplay%20PS5%20PC",
       "notes": "Requires official platform and mode verification.",
-      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2694490/header.jpg"
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2694490/header.jpg",
+      "verified": false,
+      "crossProgression": "unknown"
     },
     {
       "id": 47,
@@ -705,7 +797,9 @@
       ],
       "source": "https://www.google.com/search?q=Path%20of%20Exile%20official%20crossplay%20PS5%20PC",
       "notes": "Requires official platform and mode verification.",
-      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg"
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg",
+      "verified": false,
+      "crossProgression": "unknown"
     },
     {
       "id": 48,
@@ -720,7 +814,9 @@
       ],
       "source": "https://www.google.com/search?q=Phasmophobia%20official%20crossplay%20PS5%20PC",
       "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
-      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/739630/header.jpg"
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/739630/header.jpg",
+      "verified": false,
+      "crossProgression": "unknown"
     },
     {
       "id": 49,
@@ -735,7 +831,9 @@
       ],
       "source": "https://www.google.com/search?q=Sonic%20Racing%3A%20CrossWorlds%20official%20crossplay%20PS5%20PC",
       "notes": "Requires official platform and mode verification.",
-      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg"
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg",
+      "verified": false,
+      "crossProgression": "unknown"
     },
     {
       "id": 50,
@@ -750,7 +848,9 @@
       ],
       "source": "https://www.google.com/search?q=Split%20Fiction%20official%20crossplay%20PS5%20PC",
       "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
-      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2001120/header.jpg"
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2001120/header.jpg",
+      "verified": false,
+      "crossProgression": "unknown"
     },
     {
       "id": 51,
@@ -765,7 +865,9 @@
       ],
       "source": "https://www.google.com/search?q=It%20Takes%20Two%20official%20crossplay%20PS5%20PC",
       "notes": "Requires official platform and mode verification.",
-      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1426210/header.jpg"
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1426210/header.jpg",
+      "verified": false,
+      "crossProgression": "unknown"
     },
     {
       "id": 52,
@@ -780,7 +882,9 @@
       ],
       "source": "https://www.google.com/search?q=Battlefield%206%20official%20crossplay%20PS5%20PC",
       "notes": "Requires official platform and mode verification.",
-      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg"
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg",
+      "verified": false,
+      "crossProgression": "unknown"
     },
     {
       "id": 53,
@@ -795,7 +899,9 @@
       ],
       "source": "https://www.google.com/search?q=Insurgency%3A%20Sandstorm%20official%20crossplay%20PS5%20PC",
       "notes": "Requires official platform and mode verification.",
-      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg"
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg",
+      "verified": false,
+      "crossProgression": "unknown"
     },
     {
       "id": 54,
@@ -810,7 +916,9 @@
       ],
       "source": "https://www.google.com/search?q=Hell%20Let%20Loose%20official%20crossplay%20PS5%20PC",
       "notes": "Requires official platform and mode verification.",
-      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg"
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg",
+      "verified": false,
+      "crossProgression": "unknown"
     },
     {
       "id": 55,
@@ -823,9 +931,11 @@
         "PS5",
         "PC"
       ],
-      "source": "https://www.google.com/search?q=Enshrouded%20official%20crossplay%20PS5%20PC",
-      "notes": "Console crossplay not confirmed as live.",
-      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1203620/header.jpg"
+      "source": "https://enshrouded.com/en-US/news/enshrouded-launch-faq-early-access-reward-world",
+      "notes": "Developer confirms no crossplay at 1.0 launch and no estimated release date for crossplay.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1203620/header.jpg",
+      "verified": true,
+      "crossProgression": "unknown"
     },
     {
       "id": 56,
@@ -840,7 +950,9 @@
       ],
       "source": "https://www.google.com/search?q=PEAK%20official%20crossplay%20PS5%20PC",
       "notes": "Requires official platform and mode verification.",
-      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/3527290/header.jpg"
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/3527290/header.jpg",
+      "verified": false,
+      "crossProgression": "unknown"
     },
     {
       "id": 57,
@@ -855,7 +967,9 @@
       ],
       "source": "https://www.google.com/search?q=Green%20Hell%20official%20crossplay%20PS5%20PC",
       "notes": "Requires official platform and mode verification.",
-      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/815370/header.jpg"
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/815370/header.jpg",
+      "verified": false,
+      "crossProgression": "unknown"
     },
     {
       "id": 58,
@@ -870,7 +984,9 @@
       ],
       "source": "https://www.google.com/search?q=Valheim%20official%20crossplay%20PS5%20PC",
       "notes": "Requires official platform and mode verification.",
-      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/892970/header.jpg"
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/892970/header.jpg",
+      "verified": false,
+      "crossProgression": "unknown"
     },
     {
       "id": 59,
@@ -885,7 +1001,9 @@
       ],
       "source": "https://www.google.com/search?q=Deep%20Rock%20Galactic%20official%20crossplay%20PS5%20PC",
       "notes": "Requires official platform and mode verification.",
-      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/548430/header.jpg"
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/548430/header.jpg",
+      "verified": false,
+      "crossProgression": "unknown"
     },
     {
       "id": 60,
@@ -900,7 +1018,9 @@
       ],
       "source": "https://www.google.com/search?q=Risk%20of%20Rain%202%20official%20crossplay%20PS5%20PC",
       "notes": "Requires official platform and mode verification.",
-      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg"
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg",
+      "verified": false,
+      "crossProgression": "unknown"
     },
     {
       "id": 61,
@@ -915,7 +1035,9 @@
       ],
       "source": "https://www.google.com/search?q=Monster%20Hunter%20Wilds%20official%20crossplay%20PS5%20PC",
       "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
-      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2246340/header.jpg"
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2246340/header.jpg",
+      "verified": false,
+      "crossProgression": "unknown"
     },
     {
       "id": 62,
@@ -930,7 +1052,9 @@
       ],
       "source": "https://www.google.com/search?q=Monster%20Hunter%20Rise%20official%20crossplay%20PS5%20PC",
       "notes": "Requires official platform and mode verification.",
-      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg"
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg",
+      "verified": false,
+      "crossProgression": "unknown"
     },
     {
       "id": 63,
@@ -945,7 +1069,9 @@
       ],
       "source": "https://www.google.com/search?q=Wild%20Hearts%20official%20crossplay%20PS5%20PC",
       "notes": "Requires official platform and mode verification.",
-      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg"
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg",
+      "verified": false,
+      "crossProgression": "unknown"
     },
     {
       "id": 64,
@@ -960,7 +1086,9 @@
       ],
       "source": "https://www.google.com/search?q=Exoprimal%20official%20crossplay%20PS5%20PC",
       "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
-      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg"
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg",
+      "verified": false,
+      "crossProgression": "unknown"
     },
     {
       "id": 65,
@@ -975,7 +1103,9 @@
       ],
       "source": "https://www.google.com/search?q=Outriders%20official%20crossplay%20PS5%20PC",
       "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
-      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg"
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg",
+      "verified": false,
+      "crossProgression": "unknown"
     },
     {
       "id": 66,
@@ -990,7 +1120,9 @@
       ],
       "source": "https://www.google.com/search?q=Aliens%3A%20Fireteam%20Elite%20official%20crossplay%20PS5%20PC",
       "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
-      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg"
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg",
+      "verified": false,
+      "crossProgression": "unknown"
     },
     {
       "id": 67,
@@ -1005,7 +1137,9 @@
       ],
       "source": "https://www.google.com/search?q=Evil%20Dead%3A%20The%20Game%20official%20crossplay%20PS5%20PC",
       "notes": "Requires official platform and mode verification.",
-      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg"
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg",
+      "verified": false,
+      "crossProgression": "unknown"
     },
     {
       "id": 68,
@@ -1020,7 +1154,9 @@
       ],
       "source": "https://www.google.com/search?q=Predator%3A%20Hunting%20Grounds%20official%20crossplay%20PS5%20PC",
       "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
-      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg"
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg",
+      "verified": false,
+      "crossProgression": "unknown"
     },
     {
       "id": 69,
@@ -1035,7 +1171,9 @@
       ],
       "source": "https://www.google.com/search?q=Killer%20Klowns%20from%20Outer%20Space%3A%20The%20Game%20official%20crossplay%20PS5%20PC",
       "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
-      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg"
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg",
+      "verified": false,
+      "crossProgression": "unknown"
     },
     {
       "id": 70,
@@ -1050,7 +1188,9 @@
       ],
       "source": "https://www.google.com/search?q=Texas%20Chain%20Saw%20Massacre%20official%20crossplay%20PS5%20PC",
       "notes": "Requires official platform and mode verification.",
-      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg"
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg",
+      "verified": false,
+      "crossProgression": "unknown"
     },
     {
       "id": 71,
@@ -1065,7 +1205,9 @@
       ],
       "source": "https://www.google.com/search?q=Deceive%20Inc.%20official%20crossplay%20PS5%20PC",
       "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
-      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg"
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg",
+      "verified": false,
+      "crossProgression": "unknown"
     },
     {
       "id": 72,
@@ -1080,7 +1222,9 @@
       ],
       "source": "https://www.google.com/search?q=Rogue%20Company%20official%20crossplay%20PS5%20PC",
       "notes": "Requires official platform and mode verification.",
-      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg"
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg",
+      "verified": false,
+      "crossProgression": "unknown"
     },
     {
       "id": 73,
@@ -1095,7 +1239,9 @@
       ],
       "source": "https://www.google.com/search?q=Realm%20Royale%20Reforged%20official%20crossplay%20PS5%20PC",
       "notes": "Requires official platform and mode verification.",
-      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg"
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg",
+      "verified": false,
+      "crossProgression": "unknown"
     },
     {
       "id": 74,
@@ -1110,7 +1256,9 @@
       ],
       "source": "https://www.google.com/search?q=Super%20Animal%20Royale%20official%20crossplay%20PS5%20PC",
       "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
-      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg"
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg",
+      "verified": false,
+      "crossProgression": "unknown"
     },
     {
       "id": 75,
@@ -1125,7 +1273,9 @@
       ],
       "source": "https://www.google.com/search?q=Omega%20Strikers%20official%20crossplay%20PS5%20PC",
       "notes": "Requires official platform and mode verification.",
-      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg"
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg",
+      "verified": false,
+      "crossProgression": "unknown"
     },
     {
       "id": 76,
@@ -1140,7 +1290,9 @@
       ],
       "source": "https://www.google.com/search?q=Century%3A%20Age%20of%20Ashes%20official%20crossplay%20PS5%20PC",
       "notes": "Requires official platform and mode verification.",
-      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg"
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg",
+      "verified": false,
+      "crossProgression": "unknown"
     },
     {
       "id": 77,
@@ -1155,7 +1307,9 @@
       ],
       "source": "https://www.google.com/search?q=KartRider%3A%20Drift%20official%20crossplay%20PS5%20PC",
       "notes": "Requires official platform and mode verification.",
-      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg"
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg",
+      "verified": false,
+      "crossProgression": "unknown"
     },
     {
       "id": 78,
@@ -1170,7 +1324,9 @@
       ],
       "source": "https://www.google.com/search?q=Riders%20Republic%20official%20crossplay%20PS5%20PC",
       "notes": "Requires official platform and mode verification.",
-      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg"
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg",
+      "verified": false,
+      "crossProgression": "unknown"
     },
     {
       "id": 79,
@@ -1185,7 +1341,9 @@
       ],
       "source": "https://www.google.com/search?q=Skull%20and%20Bones%20official%20crossplay%20PS5%20PC",
       "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
-      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg"
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg",
+      "verified": false,
+      "crossProgression": "unknown"
     },
     {
       "id": 80,
@@ -1200,7 +1358,9 @@
       ],
       "source": "https://www.google.com/search?q=Avatar%3A%20Frontiers%20of%20Pandora%20official%20crossplay%20PS5%20PC",
       "notes": "Requires official platform and mode verification.",
-      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg"
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg",
+      "verified": false,
+      "crossProgression": "unknown"
     },
     {
       "id": 81,
@@ -1215,7 +1375,9 @@
       ],
       "source": "https://www.google.com/search?q=Rainbow%20Six%20Siege%20X%20official%20crossplay%20PS5%20PC",
       "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
-      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg"
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg",
+      "verified": false,
+      "crossProgression": "unknown"
     },
     {
       "id": 82,
@@ -1230,7 +1392,9 @@
       ],
       "source": "https://www.google.com/search?q=The%20First%20Descendant%20official%20crossplay%20PS5%20PC",
       "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
-      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg"
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg",
+      "verified": false,
+      "crossProgression": "unknown"
     },
     {
       "id": 83,
@@ -1245,7 +1409,9 @@
       ],
       "source": "https://www.google.com/search?q=Once%20Human%20official%20crossplay%20PS5%20PC",
       "notes": "Requires official platform and mode verification.",
-      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg"
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg",
+      "verified": false,
+      "crossProgression": "unknown"
     },
     {
       "id": 84,
@@ -1260,7 +1426,9 @@
       ],
       "source": "https://www.google.com/search?q=Dune%3A%20Awakening%20official%20crossplay%20PS5%20PC",
       "notes": "Requires official platform and mode verification.",
-      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg"
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg",
+      "verified": false,
+      "crossProgression": "unknown"
     },
     {
       "id": 85,
@@ -1275,7 +1443,9 @@
       ],
       "source": "https://www.google.com/search?q=Arc%20Raiders%20official%20crossplay%20PS5%20PC",
       "notes": "Requires official platform and mode verification.",
-      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg"
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/header.jpg",
+      "verified": false,
+      "crossProgression": "unknown"
     }
   ]
 }
