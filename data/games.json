@@ -332,18 +332,20 @@
         "PS5",
         "PC"
       ],
-      "source": "https://arrowhead.zendesk.com/hc/en-us/articles/12517679456156-Does-Helldivers-2-have-cross-progression-Can-I-transfer-my-stuff-to-another-account",
-      "notes": "Official PS5–PC crossplay. Cross-progression and cross-save are not supported.",
+      "source": "https://arrowhead.zendesk.com/hc/en-us/articles/12571604061212-Helldivers-2-FAQ",
+      "notes": "Developer FAQ confirms PS5–PC crossplay. Official support states cross-progression and cross-save are not available.",
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/553850/header.jpg",
       "verified": true,
       "crossProgression": "no",
       "gfn": "unknown",
       "gfnSource": "",
       "coverStatus": "url_assigned_unchecked",
-      "crossplayAudit": "source_linked_needs_review",
+      "crossplayAudit": "official_developer_ps5_pc_confirmed",
       "gfnAudit": "not_verified",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
-      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
+      "crossProgressionSource": "https://arrowhead.zendesk.com/hc/en-us/articles/12517679456156-Does-Helldivers-2-have-cross-progression-Can-I-transfer-my-stuff-to-another-account",
+      "crossplayCheckedAt": "2026-10-31"
     },
     {
       "id": 15,
@@ -583,7 +585,8 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
     },
     {
       "id": 25,
@@ -677,7 +680,8 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
     },
     {
       "id": 29,
@@ -939,7 +943,8 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
     },
     {
       "id": 40,
@@ -1010,7 +1015,8 @@
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
       "gfnAudit": "listed_on_geforce_now_partner_catalog",
-      "gfnVerifiedAt": "2026-10-31"
+      "gfnVerifiedAt": "2026-10-31",
+      "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
     },
     {
       "id": 43,
@@ -1032,7 +1038,8 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
     },
     {
       "id": 44,
@@ -1054,7 +1061,8 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
     },
     {
       "id": 45,
@@ -1172,7 +1180,8 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
     },
     {
       "id": 50,
@@ -1218,7 +1227,8 @@
       "gfnSource": "",
       "coverStatus": "url_assigned_unchecked",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
     },
     {
       "id": 52,
@@ -1264,7 +1274,8 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
     },
     {
       "id": 54,
@@ -1286,7 +1297,8 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
     },
     {
       "id": 55,
@@ -1355,7 +1367,8 @@
       "gfnSource": "",
       "coverStatus": "url_assigned_unchecked",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
     },
     {
       "id": 58,
@@ -1424,7 +1437,8 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
     },
     {
       "id": 61,
@@ -1494,7 +1508,8 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
     },
     {
       "id": 64,
@@ -1516,7 +1531,8 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
     },
     {
       "id": 65,
@@ -1538,7 +1554,8 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
     },
     {
       "id": 66,
@@ -1560,7 +1577,8 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
     },
     {
       "id": 67,
@@ -1582,7 +1600,8 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
     },
     {
       "id": 68,
@@ -1604,7 +1623,8 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
     },
     {
       "id": 69,
@@ -1626,7 +1646,8 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
     },
     {
       "id": 70,
@@ -1672,7 +1693,8 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
     },
     {
       "id": 72,
@@ -1718,7 +1740,8 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
     },
     {
       "id": 74,
@@ -1764,7 +1787,8 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
     },
     {
       "id": 76,
@@ -1810,7 +1834,8 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
     },
     {
       "id": 78,
@@ -1979,7 +2004,8 @@
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
       "gfnAudit": "announced_on_nvidia_blog",
-      "gfnVerifiedAt": "2026-10-31"
+      "gfnVerifiedAt": "2026-10-31",
+      "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
     },
     {
       "id": 85,
@@ -2085,7 +2111,8 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
     },
     {
       "id": 90,
@@ -2104,7 +2131,8 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
     },
     {
       "id": 91,
@@ -2123,7 +2151,8 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
     },
     {
       "id": 92,
@@ -2163,7 +2192,8 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
     },
     {
       "id": 94,
@@ -2182,7 +2212,8 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
     },
     {
       "id": 95,
@@ -2244,7 +2275,8 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
     },
     {
       "id": 98,
@@ -2389,7 +2421,8 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
     },
     {
       "id": 105,
@@ -2408,7 +2441,8 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
     },
     {
       "id": 106,
@@ -2428,7 +2462,8 @@
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
       "gfnAudit": "listed_on_geforce_now_partner_catalog",
-      "gfnVerifiedAt": "2026-10-31"
+      "gfnVerifiedAt": "2026-10-31",
+      "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
     },
     {
       "id": 107,
@@ -2447,7 +2482,8 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
     },
     {
       "id": 108,
@@ -2529,7 +2565,8 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
     },
     {
       "id": 112,
@@ -2569,7 +2606,8 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
     },
     {
       "id": 114,
@@ -2588,7 +2626,8 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
     },
     {
       "id": 115,
@@ -2628,7 +2667,8 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
     },
     {
       "id": 117,
@@ -2668,7 +2708,8 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
     },
     {
       "id": 119,
@@ -2708,7 +2749,8 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
     },
     {
       "id": 121,
@@ -2727,7 +2769,8 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
     },
     {
       "id": 122,
@@ -2767,7 +2810,8 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
     },
     {
       "id": 124,
@@ -2807,7 +2851,8 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
     },
     {
       "id": 126,
@@ -2826,7 +2871,8 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
     },
     {
       "id": 127,
@@ -2887,7 +2933,8 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
     },
     {
       "id": 130,
@@ -2906,7 +2953,8 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
     },
     {
       "id": 131,
@@ -2925,7 +2973,8 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
     },
     {
       "id": 132,
@@ -2944,7 +2993,8 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
     },
     {
       "id": 133,
@@ -2984,7 +3034,8 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
     },
     {
       "id": 135,
@@ -3003,7 +3054,8 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
     },
     {
       "id": 136,
@@ -3044,7 +3096,8 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
     },
     {
       "id": 138,
@@ -3063,7 +3116,8 @@
       "gfnSource": "",
       "coverStatus": "url_assigned_unchecked",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
     },
     {
       "id": 139,
@@ -3082,7 +3136,8 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
     },
     {
       "id": 140,
@@ -3122,7 +3177,8 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
     },
     {
       "id": 142,
@@ -3162,7 +3218,8 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
     },
     {
       "id": 144,
@@ -3181,7 +3238,8 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
     },
     {
       "id": 145,
@@ -3222,7 +3280,8 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
     },
     {
       "id": 147,
@@ -3262,7 +3321,8 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
     },
     {
       "id": 149,
@@ -3366,7 +3426,8 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
     },
     {
       "id": 154,
@@ -3385,7 +3446,8 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
     },
     {
       "id": 155,
@@ -3404,7 +3466,8 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
     },
     {
       "id": 156,
@@ -3423,7 +3486,8 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
     },
     {
       "id": 157,
@@ -3442,7 +3506,8 @@
       "gfnSource": "",
       "coverStatus": "url_assigned_unchecked",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
     },
     {
       "id": 158,
@@ -3461,7 +3526,8 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
     },
     {
       "id": 159,
@@ -3501,7 +3567,8 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
     },
     {
       "id": 161,
@@ -3583,7 +3650,8 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
     },
     {
       "id": 165,
@@ -3602,7 +3670,8 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
     },
     {
       "id": 166,
@@ -3621,7 +3690,8 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
     },
     {
       "id": 167,
@@ -3640,7 +3710,8 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
     },
     {
       "id": 168,
@@ -3659,7 +3730,8 @@
       "gfnSource": "",
       "coverStatus": "url_assigned_unchecked",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
     },
     {
       "id": 169,
@@ -3719,7 +3791,8 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
     },
     {
       "id": 172,
@@ -3738,7 +3811,8 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
     },
     {
       "id": 173,
@@ -3757,7 +3831,8 @@
       "gfnSource": "",
       "coverStatus": "url_assigned_unchecked",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
     },
     {
       "id": 174,
@@ -3776,7 +3851,8 @@
       "gfnSource": "",
       "coverStatus": "url_assigned_unchecked",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
     },
     {
       "id": 175,
@@ -3795,7 +3871,8 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
     },
     {
       "id": 176,
@@ -3814,7 +3891,8 @@
       "gfnSource": "",
       "coverStatus": "url_assigned_unchecked",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
     },
     {
       "id": 177,
@@ -3833,7 +3911,8 @@
       "gfnSource": "",
       "coverStatus": "url_assigned_unchecked",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
     },
     {
       "id": 178,
@@ -3852,7 +3931,8 @@
       "gfnSource": "",
       "coverStatus": "url_assigned_unchecked",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
     },
     {
       "id": 179,
@@ -3872,7 +3952,8 @@
       "coverStatus": "url_assigned_unchecked",
       "crossplayAudit": "not_verified",
       "gfnAudit": "listed_on_geforce_now_partner_catalog",
-      "gfnVerifiedAt": "2026-10-31"
+      "gfnVerifiedAt": "2026-10-31",
+      "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
     },
     {
       "id": 180,
@@ -3891,7 +3972,8 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
     },
     {
       "id": 181,
@@ -3910,7 +3992,8 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
     },
     {
       "id": 182,
@@ -3929,7 +4012,8 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
     },
     {
       "id": 183,
@@ -3948,7 +4032,8 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
     },
     {
       "id": 184,
@@ -3968,7 +4053,8 @@
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
       "gfnAudit": "listed_on_geforce_now_partner_catalog",
-      "gfnVerifiedAt": "2026-10-31"
+      "gfnVerifiedAt": "2026-10-31",
+      "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
     },
     {
       "id": 185,
@@ -4029,7 +4115,8 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
     },
     {
       "id": 188,
@@ -4048,7 +4135,8 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
     },
     {
       "id": 189,
@@ -4067,7 +4155,8 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
     },
     {
       "id": 190,
@@ -4086,7 +4175,8 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
     },
     {
       "id": 191,
@@ -4127,7 +4217,8 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
     },
     {
       "id": 193,
@@ -4146,7 +4237,8 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
     },
     {
       "id": 194,
@@ -4165,7 +4257,8 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
     },
     {
       "id": 195,
@@ -4184,7 +4277,8 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
     },
     {
       "id": 196,
@@ -4203,7 +4297,8 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
     },
     {
       "id": 197,
@@ -4222,7 +4317,8 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
     },
     {
       "id": 198,
@@ -4241,7 +4337,8 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
     },
     {
       "id": 199,
@@ -4260,7 +4357,8 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
     },
     {
       "id": 200,
@@ -4279,7 +4377,8 @@
       "gfnSource": "",
       "coverStatus": "missing",
       "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "gfnAudit": "not_verified",
+      "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
     }
   ]
 }
