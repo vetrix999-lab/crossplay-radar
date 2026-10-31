@@ -21,10 +21,16 @@
       "gfn": "unknown",
       "gfnSource": "",
       "coverStatus": "missing",
-      "crossplayAudit": "source_linked_needs_review",
+      "crossplayAudit": "independent_sources_agree_ps5_pc",
       "gfnAudit": "not_verified",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
-      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
+      "crossplayConsensusSources": [
+        "https://crossplaygames.com/crossplay?p1=playstation-5&p2=windows-pc",
+        "https://crossplayguide.com/crossplay/pc-and-playstation/"
+      ],
+      "crossplayConsensusCount": 2,
+      "crossplayCheckedAt": "2026-10-31"
     },
     {
       "id": 2,
@@ -45,11 +51,17 @@
       "gfn": "yes",
       "gfnSource": "https://gfn.am/en/games/",
       "coverStatus": "missing",
-      "crossplayAudit": "source_linked_needs_review",
+      "crossplayAudit": "independent_sources_agree_ps5_pc",
       "gfnAudit": "listed_on_geforce_now_partner_catalog",
       "gfnVerifiedAt": "2026-10-31",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
-      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
+      "crossplayConsensusSources": [
+        "https://crossplayguide.com/crossplay/pc-and-playstation/",
+        "https://pickthe.games/games/crossplay/pc-ps5"
+      ],
+      "crossplayConsensusCount": 2,
+      "crossplayCheckedAt": "2026-10-31"
     },
     {
       "id": 3,
@@ -70,10 +82,16 @@
       "gfn": "unknown",
       "gfnSource": "",
       "coverStatus": "missing",
-      "crossplayAudit": "source_linked_needs_review",
+      "crossplayAudit": "independent_sources_agree_ps5_pc",
       "gfnAudit": "not_verified",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
-      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
+      "crossplayConsensusSources": [
+        "https://crossplaygames.com/crossplay?p1=playstation-5&p2=windows-pc",
+        "https://crossplayguide.com/crossplay/pc-and-playstation/"
+      ],
+      "crossplayConsensusCount": 2,
+      "crossplayCheckedAt": "2026-10-31"
     },
     {
       "id": 4,
@@ -94,11 +112,18 @@
       "gfn": "yes",
       "gfnSource": "https://gfn.am/en/games/",
       "coverStatus": "url_assigned_unchecked",
-      "crossplayAudit": "source_linked_needs_review",
+      "crossplayAudit": "independent_sources_agree_ps5_pc",
       "gfnAudit": "listed_on_geforce_now_partner_catalog",
       "gfnVerifiedAt": "2026-10-31",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
-      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
+      "crossplayConsensusSources": [
+        "https://crossplaygames.com/crossplay?p1=playstation-5&p2=windows-pc",
+        "https://crossplayguide.com/crossplay/pc-and-playstation/",
+        "https://pickthe.games/games/crossplay/pc-ps5"
+      ],
+      "crossplayConsensusCount": 3,
+      "crossplayCheckedAt": "2026-10-31"
     },
     {
       "id": 5,
@@ -106,23 +131,29 @@
       "genre": "Shooter",
       "price": "Free",
       "studio": "Activision",
-      "status": "review",
+      "status": "available",
       "platforms": [
         "PS5",
         "PC"
       ],
       "source": "https://www.google.com/search?q=Call%20of%20Duty%3A%20Warzone%20official%20crossplay%20PS5%20PC",
-      "notes": "PS5–PC crossplay has not yet been confirmed against a game-specific official source.",
+      "notes": "PS5–PC crossplay is listed by 2 independent crossplay directories. Secondary-source consensus, not official developer verification.",
       "image": "",
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
       "coverStatus": "missing",
-      "crossplayAudit": "not_verified",
+      "crossplayAudit": "independent_sources_agree_ps5_pc",
       "gfnAudit": "not_verified",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
-      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
+      "crossplayConsensusSources": [
+        "https://crossplaygames.com/crossplay?p1=playstation-5&p2=windows-pc",
+        "https://pickthe.games/games/crossplay/pc-ps5"
+      ],
+      "crossplayConsensusCount": 2,
+      "crossplayCheckedAt": "2026-10-31"
     },
     {
       "id": 6,
@@ -143,11 +174,17 @@
       "gfn": "yes",
       "gfnSource": "https://gfn.am/en/games/",
       "coverStatus": "url_assigned_unchecked",
-      "crossplayAudit": "source_linked_needs_review",
+      "crossplayAudit": "independent_sources_agree_ps5_pc",
       "gfnAudit": "listed_on_geforce_now_partner_catalog",
       "gfnVerifiedAt": "2026-10-31",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
-      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
+      "crossplayConsensusSources": [
+        "https://crossplaygames.com/crossplay?p1=playstation-5&p2=windows-pc",
+        "https://crossplayguide.com/crossplay/pc-and-playstation/"
+      ],
+      "crossplayConsensusCount": 2,
+      "crossplayCheckedAt": "2026-10-31"
     },
     {
       "id": 7,
@@ -155,23 +192,31 @@
       "genre": "Shooter",
       "price": "Free",
       "studio": "Bungie",
-      "status": "review",
+      "status": "available",
       "platforms": [
         "PS5",
         "PC"
       ],
       "source": "https://www.google.com/search?q=Destiny%202%20official%20crossplay%20PS5%20PC",
-      "notes": "PS5–PC crossplay has not yet been confirmed against a game-specific official source.",
+      "notes": "PS5–PC crossplay is listed by 4 independent crossplay directories. Secondary-source consensus, not official developer verification.",
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1085660/header.jpg",
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "yes",
       "gfnSource": "https://nvidia.custhelp.com/app/answers/detail/a_id/4812/",
       "coverStatus": "url_assigned_unchecked",
-      "crossplayAudit": "not_verified",
+      "crossplayAudit": "independent_sources_agree_ps5_pc",
       "gfnAudit": "source_linked_needs_review",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
-      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
+      "crossplayConsensusSources": [
+        "https://crossplaygames.com/crossplay?p1=playstation-5&p2=windows-pc",
+        "https://crossplayguide.com/crossplay/pc-and-playstation/",
+        "https://partyqueue.games/discover/pc-playstation",
+        "https://pickthe.games/games/crossplay/pc-ps5"
+      ],
+      "crossplayConsensusCount": 4,
+      "crossplayCheckedAt": "2026-10-31"
     },
     {
       "id": 8,
@@ -192,11 +237,17 @@
       "gfn": "yes",
       "gfnSource": "https://gfn.am/en/games/",
       "coverStatus": "url_assigned_unchecked",
-      "crossplayAudit": "source_linked_needs_review",
+      "crossplayAudit": "independent_sources_agree_ps5_pc",
       "gfnAudit": "listed_on_geforce_now_partner_catalog",
       "gfnVerifiedAt": "2026-10-31",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
-      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
+      "crossplayConsensusSources": [
+        "https://crossplayguide.com/crossplay/pc-and-playstation/",
+        "https://partyqueue.games/discover/pc-playstation"
+      ],
+      "crossplayConsensusCount": 2,
+      "crossplayCheckedAt": "2026-10-31"
     },
     {
       "id": 9,
@@ -267,11 +318,17 @@
       "gfn": "yes",
       "gfnSource": "https://gfn.am/en/games/",
       "coverStatus": "url_assigned_unchecked",
-      "crossplayAudit": "source_linked_needs_review",
+      "crossplayAudit": "independent_sources_agree_ps5_pc",
       "gfnAudit": "listed_on_geforce_now_partner_catalog",
       "gfnVerifiedAt": "2026-10-31",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
-      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
+      "crossplayConsensusSources": [
+        "https://crossplaygames.com/crossplay?p1=playstation-5&p2=windows-pc",
+        "https://crossplayguide.com/crossplay/pc-and-playstation/"
+      ],
+      "crossplayConsensusCount": 2,
+      "crossplayCheckedAt": "2026-10-31"
     },
     {
       "id": 12,
@@ -292,10 +349,16 @@
       "gfn": "unknown",
       "gfnSource": "",
       "coverStatus": "url_assigned_unchecked",
-      "crossplayAudit": "source_linked_needs_review",
+      "crossplayAudit": "independent_sources_agree_ps5_pc",
       "gfnAudit": "not_verified",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
-      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
+      "crossplayConsensusSources": [
+        "https://crossplayguide.com/crossplay/pc-and-playstation/",
+        "https://partyqueue.games/discover/pc-playstation"
+      ],
+      "crossplayConsensusCount": 2,
+      "crossplayCheckedAt": "2026-10-31"
     },
     {
       "id": 13,
@@ -303,23 +366,29 @@
       "genre": "Survival",
       "price": "Paid",
       "studio": "Hello Games",
-      "status": "review",
+      "status": "available",
       "platforms": [
         "PS5",
         "PC"
       ],
       "source": "https://www.google.com/search?q=No%20Man's%20Sky%20official%20crossplay%20PS5%20PC",
-      "notes": "PS5–PC crossplay has not yet been confirmed against a game-specific official source.",
+      "notes": "PS5–PC crossplay is listed by 2 independent crossplay directories. Secondary-source consensus, not official developer verification.",
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/275850/header.jpg",
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "yes",
       "gfnSource": "https://blogs.nvidia.com/blog/geforce-now-thursday-september-2026-games-list/",
       "coverStatus": "url_assigned_unchecked",
-      "crossplayAudit": "not_verified",
+      "crossplayAudit": "independent_sources_agree_ps5_pc",
       "gfnAudit": "source_linked_needs_review",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
-      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
+      "crossplayConsensusSources": [
+        "https://crossplaygames.com/crossplay?p1=playstation-5&p2=windows-pc",
+        "https://partyqueue.games/discover/pc-playstation"
+      ],
+      "crossplayConsensusCount": 2,
+      "crossplayCheckedAt": "2026-10-31"
     },
     {
       "id": 14,
@@ -353,23 +422,31 @@
       "genre": "RPG",
       "price": "Paid",
       "studio": "Blizzard",
-      "status": "review",
+      "status": "available",
       "platforms": [
         "PS5",
         "PC"
       ],
       "source": "https://www.google.com/search?q=Diablo%20IV%20official%20crossplay%20PS5%20PC",
-      "notes": "PS5–PC crossplay has not yet been confirmed against a game-specific official source.",
+      "notes": "PS5–PC crossplay is listed by 4 independent crossplay directories. Secondary-source consensus, not official developer verification.",
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2344520/header.jpg",
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
       "coverStatus": "url_assigned_unchecked",
-      "crossplayAudit": "not_verified",
+      "crossplayAudit": "independent_sources_agree_ps5_pc",
       "gfnAudit": "not_verified",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
-      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
+      "crossplayConsensusSources": [
+        "https://crossplaygames.com/crossplay?p1=playstation-5&p2=windows-pc",
+        "https://crossplayguide.com/crossplay/pc-and-playstation/",
+        "https://partyqueue.games/discover/pc-playstation",
+        "https://pickthe.games/games/crossplay/pc-ps5"
+      ],
+      "crossplayConsensusCount": 4,
+      "crossplayCheckedAt": "2026-10-31"
     },
     {
       "id": 16,
@@ -377,23 +454,29 @@
       "genre": "Sandbox",
       "price": "Paid",
       "studio": "Mojang",
-      "status": "review",
+      "status": "available",
       "platforms": [
         "PS5",
         "PC"
       ],
       "source": "https://www.google.com/search?q=Minecraft%20Bedrock%20official%20crossplay%20PS5%20PC",
-      "notes": "PS5–PC crossplay has not yet been confirmed against a game-specific official source.",
+      "notes": "PS5–PC crossplay is listed by 2 independent crossplay directories. Secondary-source consensus, not official developer verification.",
       "image": "",
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
       "coverStatus": "missing",
-      "crossplayAudit": "not_verified",
+      "crossplayAudit": "independent_sources_agree_ps5_pc",
       "gfnAudit": "not_verified",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
-      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
+      "crossplayConsensusSources": [
+        "https://crossplayguide.com/crossplay/pc-and-playstation/",
+        "https://partyqueue.games/discover/pc-playstation"
+      ],
+      "crossplayConsensusCount": 2,
+      "crossplayCheckedAt": "2026-10-31"
     },
     {
       "id": 17,
@@ -449,23 +532,30 @@
       "genre": "Party",
       "price": "Paid",
       "studio": "Innersloth",
-      "status": "review",
+      "status": "available",
       "platforms": [
         "PS5",
         "PC"
       ],
       "source": "https://www.google.com/search?q=Among%20Us%20official%20crossplay%20PS5%20PC",
-      "notes": "PS5–PC crossplay has not yet been confirmed against a game-specific official source.",
+      "notes": "PS5–PC crossplay is listed by 3 independent crossplay directories. Secondary-source consensus, not official developer verification.",
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/945360/header.jpg",
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
       "coverStatus": "url_assigned_unchecked",
-      "crossplayAudit": "not_verified",
+      "crossplayAudit": "independent_sources_agree_ps5_pc",
       "gfnAudit": "not_verified",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
-      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
+      "crossplayConsensusSources": [
+        "https://crossplaygames.com/crossplay?p1=playstation-5&p2=windows-pc",
+        "https://crossplayguide.com/crossplay/pc-and-playstation/",
+        "https://pickthe.games/games/crossplay/pc-ps5"
+      ],
+      "crossplayConsensusCount": 3,
+      "crossplayCheckedAt": "2026-10-31"
     },
     {
       "id": 20,
@@ -618,23 +708,31 @@
       "genre": "Shooter",
       "price": "Paid",
       "studio": "Gearbox Software",
-      "status": "review",
+      "status": "available",
       "platforms": [
         "PS5",
         "PC"
       ],
       "source": "https://www.google.com/search?q=Borderlands%203%20official%20crossplay%20PS5%20PC",
-      "notes": "PS5–PC crossplay has not yet been confirmed against a game-specific official source.",
+      "notes": "PS5–PC crossplay is listed by 4 independent crossplay directories. Secondary-source consensus, not official developer verification.",
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/397540/header.jpg",
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
       "coverStatus": "url_assigned_unchecked",
-      "crossplayAudit": "not_verified",
+      "crossplayAudit": "independent_sources_agree_ps5_pc",
       "gfnAudit": "not_verified",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
-      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
+      "crossplayConsensusSources": [
+        "https://crossplaygames.com/crossplay?p1=playstation-5&p2=windows-pc",
+        "https://crossplayguide.com/crossplay/pc-and-playstation/",
+        "https://partyqueue.games/discover/pc-playstation",
+        "https://pickthe.games/games/crossplay/pc-ps5"
+      ],
+      "crossplayConsensusCount": 4,
+      "crossplayCheckedAt": "2026-10-31"
     },
     {
       "id": 27,
@@ -761,23 +859,29 @@
       "genre": "Fighting",
       "price": "Paid",
       "studio": "Capcom",
-      "status": "review",
+      "status": "available",
       "platforms": [
         "PS5",
         "PC"
       ],
       "source": "https://www.google.com/search?q=Street%20Fighter%206%20official%20crossplay%20PS5%20PC",
-      "notes": "PS5–PC crossplay has not yet been confirmed against a game-specific official source.",
+      "notes": "PS5–PC crossplay is listed by 2 independent crossplay directories. Secondary-source consensus, not official developer verification.",
       "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1364780/header.jpg",
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
       "coverStatus": "url_assigned_unchecked",
-      "crossplayAudit": "not_verified",
+      "crossplayAudit": "independent_sources_agree_ps5_pc",
       "gfnAudit": "not_verified",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
-      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
+      "crossplayConsensusSources": [
+        "https://crossplaygames.com/crossplay?p1=playstation-5&p2=windows-pc",
+        "https://pickthe.games/games/crossplay/pc-ps5"
+      ],
+      "crossplayConsensusCount": 2,
+      "crossplayCheckedAt": "2026-10-31"
     },
     {
       "id": 33,
@@ -785,23 +889,29 @@
       "genre": "Fighting",
       "price": "Paid",
       "studio": "Bandai Namco",
-      "status": "review",
+      "status": "available",
       "platforms": [
         "PS5",
         "PC"
       ],
       "source": "https://www.google.com/search?q=Tekken%208%20official%20crossplay%20PS5%20PC",
-      "notes": "PS5–PC crossplay has not yet been confirmed against a game-specific official source.",
+      "notes": "PS5–PC crossplay is listed by 2 independent crossplay directories. Secondary-source consensus, not official developer verification.",
       "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1778820/header.jpg",
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
       "coverStatus": "url_assigned_unchecked",
-      "crossplayAudit": "not_verified",
+      "crossplayAudit": "independent_sources_agree_ps5_pc",
       "gfnAudit": "not_verified",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
-      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
+      "crossplayConsensusSources": [
+        "https://crossplaygames.com/crossplay?p1=playstation-5&p2=windows-pc",
+        "https://pickthe.games/games/crossplay/pc-ps5"
+      ],
+      "crossplayConsensusCount": 2,
+      "crossplayCheckedAt": "2026-10-31"
     },
     {
       "id": 34,
@@ -989,10 +1099,16 @@
       "gfn": "unknown",
       "gfnSource": "",
       "coverStatus": "missing",
-      "crossplayAudit": "source_linked_needs_review",
+      "crossplayAudit": "independent_sources_agree_ps5_pc",
       "gfnAudit": "not_verified",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
-      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
+      "crossplayConsensusSources": [
+        "https://partyqueue.games/discover/pc-playstation",
+        "https://pickthe.games/games/crossplay/pc-ps5"
+      ],
+      "crossplayConsensusCount": 2,
+      "crossplayCheckedAt": "2026-10-31"
     },
     {
       "id": 42,
@@ -2717,20 +2833,26 @@
       "genre": "Shooter",
       "price": "Unknown",
       "studio": "Unknown",
-      "status": "review",
+      "status": "available",
       "platforms": [],
       "source": "",
-      "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
+      "notes": "PS5–PC crossplay is listed by 2 independent crossplay directories. Secondary-source consensus, not official developer verification.",
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1272080/header.jpg",
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
       "coverStatus": "url_assigned_unchecked",
-      "crossplayAudit": "not_verified",
+      "crossplayAudit": "independent_sources_agree_ps5_pc",
       "gfnAudit": "not_verified",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
-      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
+      "crossplayConsensusSources": [
+        "https://crossplaygames.com/crossplay?p1=playstation-5&p2=windows-pc",
+        "https://partyqueue.games/discover/pc-playstation"
+      ],
+      "crossplayConsensusCount": 2,
+      "crossplayCheckedAt": "2026-10-31"
     },
     {
       "id": 120,
@@ -3351,21 +3473,27 @@
       "genre": "RPG",
       "price": "Unknown",
       "studio": "Unknown",
-      "status": "review",
+      "status": "available",
       "platforms": [],
       "source": "",
-      "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
+      "notes": "PS5–PC crossplay is listed by 2 independent crossplay directories. Secondary-source consensus, not official developer verification.",
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1086940/header.jpg",
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "yes",
       "gfnSource": "https://gfn.am/en/games/",
       "coverStatus": "url_assigned_unchecked",
-      "crossplayAudit": "not_verified",
+      "crossplayAudit": "independent_sources_agree_ps5_pc",
       "gfnAudit": "listed_on_geforce_now_partner_catalog",
       "gfnVerifiedAt": "2026-10-31",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
-      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
+      "crossplayConsensusSources": [
+        "https://crossplayguide.com/crossplay/pc-and-playstation/",
+        "https://partyqueue.games/discover/pc-playstation"
+      ],
+      "crossplayConsensusCount": 2,
+      "crossplayCheckedAt": "2026-10-31"
     },
     {
       "id": 151,
