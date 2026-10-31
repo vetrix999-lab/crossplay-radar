@@ -1335,7 +1335,7 @@
         "PC"
       ],
       "source": "https://www.ea.com/games/split-fiction/split-fiction/features/friends-pass-playstation",
-      "notes": "EA explicitly confirms PS5 players can invite PC players through cross-play.",
+      "notes": "EA explicitly confirms PS5 and PC crossplay via EA Friends List; EA account and online access required.",
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2001120/header.jpg",
       "verified": true,
       "crossProgression": "unknown",
@@ -1359,8 +1359,8 @@
         "PS5",
         "PC"
       ],
-      "source": "https://news.ea.com/press-releases/press-releases-details/2026/It-Takes-Two-Launches-on-Nintendo-Switch-2-with-Free-Upgrade-Available-for-Nintendo-Switch-Players-October-15/",
-      "notes": "EA confirms PS5-PC cross-play launched October 15, 2026; Friend's Pass supported.",
+      "source": "https://www.ea.com/games/it-takes-two/it-takes-two/faq",
+      "notes": "EA official FAQ explicitly lists cross-platform play on PS4/PS5 and Steam PC; October 2026 update. Requires up-to-date game.",
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1426210/header.jpg",
       "verified": true,
       "crossProgression": "unknown",
@@ -3627,8 +3627,8 @@
         "PS5",
         "PC"
       ],
-      "source": "https://blog.playstation.com/2024/12/04/civilization-vii-first-look-at-ps5-gameplay-ahead-of-february-11-launch/",
-      "notes": "PlayStation and Firaxis confirm multiplayer cross-play between PC and consoles including PS5; some lobby size/map restrictions.",
+      "source": "https://store.2k.com/game/buy-civilization-7?drm=PlayStation+5",
+      "notes": "2K official PlayStation 5 store page confirms cross-play between PC and consoles; multiplayer match-size restrictions may apply.",
       "image": "",
       "verified": true,
       "crossProgression": "unknown",
