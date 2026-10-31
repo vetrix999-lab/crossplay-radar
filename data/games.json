@@ -4954,22 +4954,20 @@
         "PC"
       ],
       "source": "",
-      "notes": "Listed by two independent PS5–PC crossplay directories; verify platform pairing, mode restrictions, current online service and publisher statement before marking officially verified.",
+      "notes": "Listed in Party Queue; a second independent PS5–PC source is not established. Official verification required.",
       "image": "",
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
       "coverStatus": "missing",
-      "crossplayAudit": "directory_consensus_needs_official_verification",
+      "crossplayAudit": "single_source_review",
       "gfnAudit": "not_verified",
       "crossplayConsensusSources": [
-        "https://crossplayguide.com/crossplay/pc-and-playstation/",
         "https://partyqueue.games/discover/pc-playstation"
       ],
-      "crossplayConsensusCount": 2,
+      "crossplayConsensusCount": 1,
       "crossplayConsensusProviders": [
-        "crossplayguide",
         "partyqueue"
       ]
     },
@@ -5078,22 +5076,20 @@
         "PC"
       ],
       "source": "",
-      "notes": "Listed by two independent PS5–PC crossplay directories; verify platform pairing, mode restrictions, current online service and publisher statement before marking officially verified.",
+      "notes": "Listed in Party Queue; a second independent PS5–PC source is not established. Official verification required.",
       "image": "",
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
       "coverStatus": "missing",
-      "crossplayAudit": "directory_consensus_needs_official_verification",
+      "crossplayAudit": "single_source_review",
       "gfnAudit": "not_verified",
       "crossplayConsensusSources": [
-        "https://crossplayguide.com/crossplay/pc-and-playstation/",
         "https://partyqueue.games/discover/pc-playstation"
       ],
-      "crossplayConsensusCount": 2,
+      "crossplayConsensusCount": 1,
       "crossplayConsensusProviders": [
-        "crossplayguide",
         "partyqueue"
       ]
     },
@@ -5140,22 +5136,20 @@
         "PC"
       ],
       "source": "",
-      "notes": "Listed by two independent PS5–PC crossplay directories; verify platform pairing, mode restrictions, current online service and publisher statement before marking officially verified.",
+      "notes": "Listed in Party Queue; a second independent PS5–PC source is not established. Official verification required.",
       "image": "",
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
       "coverStatus": "missing",
-      "crossplayAudit": "directory_consensus_needs_official_verification",
+      "crossplayAudit": "single_source_review",
       "gfnAudit": "not_verified",
       "crossplayConsensusSources": [
-        "https://crossplayguide.com/crossplay/pc-and-playstation/",
         "https://partyqueue.games/discover/pc-playstation"
       ],
-      "crossplayConsensusCount": 2,
+      "crossplayConsensusCount": 1,
       "crossplayConsensusProviders": [
-        "crossplayguide",
         "partyqueue"
       ]
     }
