@@ -1,6 +1,9 @@
 name: Refresh and validate game covers
 on:
   workflow_dispatch:
+  workflow_run:
+    workflows: ["Discover PS5-PC crossplay candidates"]
+    types: [completed]
   schedule:
     - cron: '17 4 * * 1'
   push:
@@ -9,12 +12,18 @@ on:
       - '.github/workflows/refresh-covers.yml'
 permissions:
   contents: write
+concurrency:
+  group: crossplay-catalog-writer
+  cancel-in-progress: false
 jobs:
   refresh:
+    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
     runs-on: ubuntu-latest
-    timeout-minutes: 25
+    timeout-minutes: 60
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
