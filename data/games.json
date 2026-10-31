@@ -76,7 +76,7 @@
       "verified": true,
       "crossProgression": "unknown",
       "gfn": "yes",
-      "gfnSource": "https://nvidia.custhelp.com/app/answers/detail/a_id/4812"
+      "gfnSource": "https://nvidia.custhelp.com/app/answers/detail/a_id/4812/"
     },
     {
       "id": 5,
@@ -133,7 +133,7 @@
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "yes",
-      "gfnSource": "https://nvidia.custhelp.com/app/answers/detail/a_id/4812"
+      "gfnSource": "https://nvidia.custhelp.com/app/answers/detail/a_id/4812/"
     },
     {
       "id": 8,
