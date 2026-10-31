@@ -1,13 +1,13 @@
 {
   "stats": {
-    "total": 250,
-    "existing_checked": 185,
-    "existing_passed": 183,
+    "total": 403,
+    "existing_checked": 199,
+    "existing_passed": 197,
     "existing_failed": 2,
-    "steam_added": 0,
-    "fallback_added": 14,
-    "missing": 51,
-    "http_content_verified": 197
+    "steam_added": 125,
+    "fallback_added": 2,
+    "missing": 77,
+    "http_content_verified": 324
   },
   "unresolved": [
     {
@@ -49,11 +49,6 @@
       "name": "PEAK",
       "reason": "No validated image from exact-title sources",
       "existing_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3527290/header.jpg"
-    },
-    {
-      "name": "Evil Dead: The Game",
-      "reason": "No validated image from exact-title sources",
-      "existing_url": ""
     },
     {
       "name": "Texas Chain Saw Massacre",
@@ -272,6 +267,141 @@
     },
     {
       "name": "Warlander",
+      "reason": "No validated image from exact-title sources",
+      "existing_url": ""
+    },
+    {
+      "name": "Dungeons & Dragons: Dark Alliance",
+      "reason": "No validated image from exact-title sources",
+      "existing_url": ""
+    },
+    {
+      "name": "Outbreak",
+      "reason": "No validated image from exact-title sources",
+      "existing_url": ""
+    },
+    {
+      "name": "Secret Neighbor",
+      "reason": "No validated image from exact-title sources",
+      "existing_url": ""
+    },
+    {
+      "name": "Wuthering Waves",
+      "reason": "No validated image from exact-title sources",
+      "existing_url": ""
+    },
+    {
+      "name": "Age of Empires II: Definitive Edition",
+      "reason": "No validated image from exact-title sources",
+      "existing_url": ""
+    },
+    {
+      "name": "Call of Duty: Black Ops 7",
+      "reason": "No validated image from exact-title sources",
+      "existing_url": ""
+    },
+    {
+      "name": "EA Sports FC 24",
+      "reason": "No validated image from exact-title sources",
+      "existing_url": ""
+    },
+    {
+      "name": "Lords of the Fallen (2023)",
+      "reason": "No validated image from exact-title sources",
+      "existing_url": ""
+    },
+    {
+      "name": "Rematch",
+      "reason": "No validated image from exact-title sources",
+      "existing_url": ""
+    },
+    {
+      "name": "Skate.",
+      "reason": "No validated image from exact-title sources",
+      "existing_url": ""
+    },
+    {
+      "name": "Battlefield REDSEC",
+      "reason": "No validated image from exact-title sources",
+      "existing_url": ""
+    },
+    {
+      "name": "Path of Titans",
+      "reason": "No validated image from exact-title sources",
+      "existing_url": ""
+    },
+    {
+      "name": "Madden NFL 26",
+      "reason": "No validated image from exact-title sources",
+      "existing_url": ""
+    },
+    {
+      "name": "Minecraft",
+      "reason": "No validated image from exact-title sources",
+      "existing_url": ""
+    },
+    {
+      "name": "2XKO",
+      "reason": "No validated image from exact-title sources",
+      "existing_url": ""
+    },
+    {
+      "name": "Daemon X Machina: Titanic Scion",
+      "reason": "No validated image from exact-title sources",
+      "existing_url": ""
+    },
+    {
+      "name": "Off The Grid",
+      "reason": "No validated image from exact-title sources",
+      "existing_url": ""
+    },
+    {
+      "name": "Planted!",
+      "reason": "No validated image from exact-title sources",
+      "existing_url": ""
+    },
+    {
+      "name": "Street Fighter V",
+      "reason": "No validated image from exact-title sources",
+      "existing_url": ""
+    },
+    {
+      "name": "The Jackbox Party Pack 12",
+      "reason": "No validated image from exact-title sources",
+      "existing_url": ""
+    },
+    {
+      "name": "LEGO Party!",
+      "reason": "No validated image from exact-title sources",
+      "existing_url": ""
+    },
+    {
+      "name": "LEGO Voyagers",
+      "reason": "No validated image from exact-title sources",
+      "existing_url": ""
+    },
+    {
+      "name": "Minecraft Dungeons II",
+      "reason": "No validated image from exact-title sources",
+      "existing_url": ""
+    },
+    {
+      "name": "The Jackbox Party Pack 11",
+      "reason": "No validated image from exact-title sources",
+      "existing_url": ""
+    },
+    {
+      "name": "Tony Hawk's Pro Skater 3 + 4",
+      "reason": "No validated image from exact-title sources",
+      "existing_url": ""
+    },
+    {
+      "name": "Walkabout Mini Golf",
+      "reason": "No validated image from exact-title sources",
+      "existing_url": ""
+    },
+    {
+      "name": "Hot Wheels Unleashed 2 - Turbocharged",
       "reason": "No validated image from exact-title sources",
       "existing_url": ""
     }
