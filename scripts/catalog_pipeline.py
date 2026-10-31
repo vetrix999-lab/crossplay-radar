@@ -56,7 +56,7 @@ def collect():
      if len(row)<3:continue
      name,mode,platforms=row[:3]
      if mode.lower().strip() not in ("yes","mostly","partly"):continue
-     if not re.search(r"\\bPC\\b",platforms) or not re.search(r"\\bPS5\\b",platforms):continue
+     if not re.search(r"\bPC\b",platforms) or not re.search(r"\bPS5\b",platforms):continue
      games[canonical(name)]={"name":name,"url":url,"mode":mode}
    else:
     # The collection is PC+PlayStation, so require an exact PS5 detail to avoid PS4-only entries.
@@ -93,11 +93,11 @@ def main():
    g["crossplayAudit"]="directory_consensus_needs_official_verification"
  # Never demote existing official verification, and never delete when a source fails.
  db["games"]=games
- REPORT.write_text(json.dumps({"original":original,"total":len(games),"new":new,"sources":{s:len(x) for s,x in sources.items()},"errors":errors,"two_source_matches":sum(len({s for s,_ in h})>=2 for h in evidence.values()),"unverified":sum(not g.get("verified") for g in games)},ensure_ascii=False,indent=2)+"\\n")
- DB.write_text(json.dumps(db,ensure_ascii=False,indent=2)+"\\n")
- page=PAGE.read_text();m=re.search(r"const EMBEDDED_CATALOG=([\\s\\S]*?);\\nlet all=",page)
+ REPORT.write_text(json.dumps({"original":original,"total":len(games),"new":new,"sources":{s:len(x) for s,x in sources.items()},"errors":errors,"two_source_matches":sum(len({s for s,_ in h})>=2 for h in evidence.values()),"unverified":sum(not g.get("verified") for g in games)},ensure_ascii=False,indent=2)+"\n")
+ DB.write_text(json.dumps(db,ensure_ascii=False,indent=2)+"\n")
+ page=PAGE.read_text();m=re.search(r"const EMBEDDED_CATALOG=([\s\S]*?);\nlet all=",page)
  if not m:raise RuntimeError("Embedded catalog marker missing")
- page=page[:m.start()]+"const EMBEDDED_CATALOG="+json.dumps(db,ensure_ascii=False,separators=(",",":")).replace("<","\\u003c")+";\\nlet all="+page[m.end():]
+ page=page[:m.start()]+"const EMBEDDED_CATALOG="+json.dumps(db,ensure_ascii=False,separators=(",",":")).replace("<","\\u003c")+";\nlet all="+page[m.end():]
  PAGE.write_text(page)
  print(REPORT.read_text())
 if __name__=="__main__":main()
