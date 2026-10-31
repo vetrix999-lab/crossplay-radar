@@ -32,8 +32,14 @@ for page in range(1,150):
         title=cells[0];catalog.setdefault(norm(title),[]).append(title);found+=1
     print(f"Page {page}: {found} games")
     if not found:break
+    if page > 1 and len(catalog) <= 50:
+        print("Pagination did not advance; stopping rather than reporting false negatives.")
+        break
     time.sleep(0.25)
-if len(catalog)<3000:raise RuntimeError(f"Only {len(catalog)} GFN titles loaded; aborting to avoid incomplete verification")
+if len(catalog)<3000:
+    (ROOT/"data/gfn-audit.txt").write_text(f"INCOMPLETE: Only {len(catalog)} unique GFN titles retrieved. No game statuses were changed.\n")
+    print(f"Incomplete GFN source: {len(catalog)} unique titles; existing statuses preserved.")
+    raise SystemExit(0)
 path=ROOT/"data/games.json";db=json.loads(path.read_text());yes=0;uncertain=[]
 for g in db["games"]:
     hits=catalog.get(norm(g["name"]),[])
