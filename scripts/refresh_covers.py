@@ -19,7 +19,7 @@ db=json.loads(DB.read_text())
 games=db["games"]
 changed=0; checked=0; failures=[]
 for i,g in enumerate(games):
-    if g.get("steamAppId") and g.get("image"):continue
+    if g.get("image") and image_ok(g["image"]):\n        g["coverStatus"]="http_verified"\n        continue\n    if g.get("image"):\n        g["image"]=""\n        g["coverStatus"]="missing"
     name=g["name"]
     try:
         query=urllib.parse.urlencode({"term":name,"l":"en","cc":"us"})
@@ -35,11 +35,11 @@ for i,g in enumerate(games):
         if not image_ok(cover):
             failures.append(name+": cover unavailable")
             continue
-        g["steamAppId"]=appid
+        g["coverStatus"]="http_verified"\n        g["steamAppId"]=appid
         g["image"]=cover
         g["imageSource"]=f"https://store.steampowered.com/app/{appid}/"
         changed+=1
-    except Exception as exc:failures.append(name+": "+str(exc)[:80])
+    except Exception as exc:\n        g["coverStatus"]="missing"\n        failures.append(name+": "+str(exc)[:80])
     checked+=1
     time.sleep(0.5)
 # Keep embedded catalog in sync so GitHub Pages works without separate JSON fetch.
@@ -53,4 +53,4 @@ page=page[:start]+payload+page[end:]
 PAGE.write_text(page)
 print(f"Total {len(games)}; covers {sum(bool(g.get('image')) for g in games)}; newly matched {changed}; requests {checked}")
 print("Unmatched (review manually):")
-print("\n".join(failures))
+print("\n".join(failures))\n(ROOT/"data/cover-audit.txt").write_text("\n".join(failures)+"\n")
