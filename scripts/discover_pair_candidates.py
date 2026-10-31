@@ -66,6 +66,42 @@ def guide_candidates(raw,base):
   records.append((name,url,"crossplayguide",section,status))
  return records,{"table_rows":len(parser.rows),"valid_pair_records":len(records),"checked":sum(x[3]=="checked" for x in records),"unverified":sum(x[3]=="unverified" for x in records)}
 
+
+class PairPageParser(HTMLParser):
+ def __init__(self):
+  super().__init__();self.section="";self.heading=None;self.heading_text=[];self.record=None;self.records=[];self.capture_depth=0
+ def handle_starttag(self,tag,attrs):
+  if tag in ("h2","h3"):self.heading=tag;self.heading_text=[]
+ def handle_data(self,data):
+  if self.heading:self.heading_text.append(data)
+  elif self.record is not None:self.record["text"].append(data)
+ def handle_endtag(self,tag):
+  if self.heading==tag:
+   title=" ".join(" ".join(self.heading_text).split())
+   if tag=="h2":
+    if "Confirmed crossplay for this pair" in title:self.section="confirmed"
+    elif self.section=="confirmed":self.section="other"
+   elif tag=="h3" and self.section=="confirmed":
+    if self.record:self.records.append(self.record)
+    self.record={"name":title,"text":[]}
+   self.heading=None
+ def finish(self):
+  if self.record:self.records.append(self.record)
+  result=[]
+  for record in self.records:
+   name=record["name"];body=" ".join(" ".join(record["text"]).split())
+   if not 3<=len(name)<=95 or len(body)<100:continue
+   if not re.search(r"PC\s*\(Steam\s*/\s*Epic\).{0,120}\bPS5\b",body,re.I):continue
+   if not re.search(r"Plays together:.{0,200}\b(?:PC|Steam)\b.{0,200}\bPS5\b|Plays together:.{0,200}\bPS5\b.{0,200}\b(?:PC|Steam)\b",body,re.I):continue
+   if "Sold on both" in body[:150]:continue
+   if not re.search(r"Last verified",body,re.I) or not re.search(r"Official sources",body,re.I):continue
+   result.append((name,body[:650]))
+  return result
+def crossplayable_candidates(raw,base):
+ parser=PairPageParser();parser.feed(raw);entries=parser.finish()
+ if len(entries)<60:raise RuntimeError("Crossplayable structured extraction below 60; refusing to import "+str(len(entries)))
+ return [(name,base,"crossplayable","confirmed","yes") for name,_ in entries],{"headings":len(parser.records),"pair_records":len(entries),"examples":[x[0] for x in entries[:12]]}
+
 SECONDARY_LISTS=[
  ("crossplayguide","https://crossplayguide.com/crossplay/pc-and-playstation/"),
  ("crossplayable","https://crossplayable.com/")
@@ -83,7 +119,9 @@ def secondary_candidates():
    else:
     # Crossplayable requires a separate verified card parser; do not import navigation.
     raw=request("https://crossplayable.com/pairs/steam-ps5")
-    reports.append({"source":label,"status":"reachable_not_imported","url":"https://crossplayable.com/pairs/steam-ps5","bytes":len(raw),"reason":"No validated record-level extractor; navigation excluded"})
+    entries,counts=crossplayable_candidates(raw,"https://crossplayable.com/pairs/steam-ps5")
+    candidates.extend(entries)
+    reports.append({"source":label,"status":"parsed","url":"https://crossplayable.com/pairs/steam-ps5","bytes":len(raw),**counts})
   except Exception as e:reports.append({"source":label,"status":"failed","url":url,"error":str(e)[:160]})
  return candidates,reports
 
@@ -101,13 +139,13 @@ def main():
    plain=html.unescape(plain)
    if not re.search(r"supports crossplay across the following platforms.{0,260}PS5",plain,re.I|re.S):continue
    if not re.search(r"supports crossplay across the following platforms.{0,260}(?:Windows PC|Steam)",plain,re.I|re.S):continue
-   record={"id":nextid,"name":name,"genre":"Unknown","price":"Unknown","studio":"Unknown","status":"review","platforms":["PS5","PC"],"ps5Availability":"secondary_listing_pending_official","pcAvailability":"secondary_listing_pending_official","source":url,"notes":"PS5-PC platform-pair candidate from CrossplayGames; official platform availability, service status and crossplay evidence not yet verified.","image":"","verified":False,"crossProgression":"unknown","gfn":"unknown","gfnSource":"","gfnCheckedAt":None,"coverStatus":"missing","crossplayAudit":"secondary_pair_listing_pending_official","crossplaySourceSection":section,"crossplaySourceStatus":pair_status,"crossplayCheckedAt":dt.date.today().isoformat()}
+   record={"id":nextid,"name":name,"genre":"Unknown","price":"Unknown","studio":"Unknown","status":"review","platforms":["PS5","PC"],"ps5Availability":"secondary_listing_pending_official","pcAvailability":"secondary_listing_pending_official","source":url,"notes":"PS5-PC platform-pair candidate from CrossplayGames; official platform availability, service status and crossplay evidence not yet verified.","image":"","verified":False,"crossProgression":"unknown","gfn":"unknown","gfnSource":"","gfnCheckedAt":None,"coverStatus":"missing","crossplayAudit":"secondary_pair_listing_pending_official","crossplayCheckedAt":dt.date.today().isoformat()}
    games.append(record);existing.add(canonical(name));nextid+=1;added.append(name)
   except Exception as e:errors.append({"name":name,"error":str(e)[:150]})
   if len(added)%25==0 and added:print("New candidates",len(added),flush=True)
   time.sleep(.1)
  for name,url,provider,section,pair_status in secondary:
-  if section!="checked":continue
+  if section not in ("checked","confirmed"):continue
   if canonical(name) in existing or canonical(name) in EXCLUDE:continue
   record={"id":nextid,"name":name,"genre":"Unknown","price":"Unknown","studio":"Unknown","status":"review","platforms":["PS5","PC"],"ps5Availability":"secondary_listing_pending_official","pcAvailability":"secondary_listing_pending_official","source":url,"notes":"PS5-PC crossplay candidate from "+provider+" ("+section+", "+pair_status+"); official confirmation pending.","image":"","verified":False,"crossProgression":"unknown","gfn":"unknown","gfnSource":"","coverStatus":"missing","crossplayAudit":"secondary_pair_listing_pending_official","crossplayCheckedAt":dt.date.today().isoformat()}
   games.append(record);existing.add(canonical(name));nextid+=1;added.append(name)
