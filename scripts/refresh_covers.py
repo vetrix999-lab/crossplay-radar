@@ -54,8 +54,7 @@ DB.write_text(json.dumps(db,ensure_ascii=False,indent=2)+"\n")
 page=PAGE.read_text()
 prefix="const EMBEDDED_CATALOG="
 start=page.index(prefix)+len(prefix)
-end=page.index(";
-let all=",start)
+end=page.index(";\nlet all=",start)
 payload=json.dumps(db,ensure_ascii=False,separators=(",",":")).replace("<","\\u003c")
 page=page[:start]+payload+page[end:]
 PAGE.write_text(page)
