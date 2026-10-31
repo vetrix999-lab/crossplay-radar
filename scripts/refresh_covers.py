@@ -50,8 +50,7 @@ for i,g in enumerate(games):
     checked+=1
     time.sleep(0.5)
 # Keep embedded catalog in sync so GitHub Pages works without separate JSON fetch.
-DB.write_text(json.dumps(db,ensure_ascii=False,indent=2)+"
-")
+DB.write_text(json.dumps(db,ensure_ascii=False,indent=2)+"\n")
 page=PAGE.read_text()
 prefix="const EMBEDDED_CATALOG="
 start=page.index(prefix)+len(prefix)
@@ -62,8 +61,6 @@ page=page[:start]+payload+page[end:]
 PAGE.write_text(page)
 print(f"Total {len(games)}; covers {sum(bool(g.get('image')) for g in games)}; newly matched {changed}; requests {checked}")
 print("Unmatched (review manually):")
-print("
-".join(failures))
+print("\n".join(failures))
 (ROOT/"data/cover-audit.txt").write_text("
-".join(failures)+"
-")
+".join(failures)+"\n")
