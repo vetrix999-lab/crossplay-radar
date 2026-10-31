@@ -1295,21 +1295,22 @@
       "genre": "Shooter",
       "price": "Paid",
       "studio": "Ghost Ship Games",
-      "status": "review",
+      "status": "unsupported",
       "platforms": [
         "PS5",
         "PC"
       ],
-      "source": "https://www.google.com/search?q=Deep%20Rock%20Galactic%20official%20crossplay%20PS5%20PC",
-      "notes": "Requires official platform and mode verification.",
+      "source": "https://www.deeprockgalactic.com/roadmap",
+      "notes": "Developer confirms PlayStation cannot cross-play with Steam or Xbox; PS4 and PS5 cross-generation only.",
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/548430/header.jpg",
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
       "coverStatus": "url_assigned_unchecked",
-      "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "crossplayAudit": "ps5_pc_not_supported",
+      "gfnAudit": "not_verified",
+      "crossplayCheckedAt": "2026-10-31"
     },
     {
       "id": 60,
@@ -3493,18 +3494,19 @@
       "genre": "Survival",
       "price": "Unknown",
       "studio": "Unknown",
-      "status": "review",
+      "status": "unsupported",
       "platforms": [],
-      "source": "",
-      "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
+      "source": "https://pindrop.gg/the-forest/crossplay",
+      "notes": "PS4 version playable on PS5, but PC and PlayStation multiplayer are separate. Independent crossplay analysis; not a publisher statement.",
       "image": "",
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
       "coverStatus": "missing",
-      "crossplayAudit": "not_verified",
-      "gfnAudit": "not_verified"
+      "crossplayAudit": "ps5_pc_not_supported",
+      "gfnAudit": "not_verified",
+      "crossplayCheckedAt": "2026-10-31"
     },
     {
       "id": 171,
