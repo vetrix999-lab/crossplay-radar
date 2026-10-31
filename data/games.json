@@ -17,7 +17,9 @@
       "notes": "PS5–PC crossplay supported according to linked official source.",
       "image": "",
       "verified": true,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 2,
@@ -34,7 +36,9 @@
       "notes": "PS5–PC crossplay supported according to linked official source.",
       "image": "",
       "verified": true,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 3,
@@ -51,7 +55,9 @@
       "notes": "PS5–PC crossplay supported according to linked official source.",
       "image": "",
       "verified": true,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 4,
@@ -68,7 +74,9 @@
       "notes": "Publisher/platform official information confirms cross-platform play.",
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1172470/header.jpg",
       "verified": true,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "yes",
+      "gfnSource": "https://nvidia.custhelp.com/app/answers/detail/a_id/4812"
     },
     {
       "id": 5,
@@ -85,7 +93,9 @@
       "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 6,
@@ -102,7 +112,9 @@
       "notes": "Official crossplay; PC–console parties have competitive matchmaking restrictions.",
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2357570/header.jpg",
       "verified": true,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 7,
@@ -119,7 +131,9 @@
       "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1085660/header.jpg",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "yes",
+      "gfnSource": "https://nvidia.custhelp.com/app/answers/detail/a_id/4812"
     },
     {
       "id": 8,
@@ -136,7 +150,9 @@
       "notes": "Publisher/platform official information confirms cross-platform play.",
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/230410/header.jpg",
       "verified": true,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 9,
@@ -153,7 +169,9 @@
       "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2073850/header.jpg",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 10,
@@ -170,7 +188,9 @@
       "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2767030/header.jpg",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 11,
@@ -187,7 +207,9 @@
       "notes": "PS5–PC crossplay supported according to linked official source.",
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/381210/header.jpg",
       "verified": true,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 12,
@@ -204,7 +226,9 @@
       "notes": "Official PS5–PC crossplay. Microsoft account syncs progress, except certain platform-exclusive cosmetics.",
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1172620/header.jpg",
       "verified": true,
-      "crossProgression": "yes"
+      "crossProgression": "yes",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 13,
@@ -221,7 +245,9 @@
       "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/275850/header.jpg",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "yes",
+      "gfnSource": "https://blogs.nvidia.com/blog/geforce-now-thursday-september-2026-games-list/"
     },
     {
       "id": 14,
@@ -238,7 +264,9 @@
       "notes": "Official PS5–PC crossplay. Cross-progression and cross-save are not supported.",
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/553850/header.jpg",
       "verified": true,
-      "crossProgression": "no"
+      "crossProgression": "no",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 15,
@@ -255,7 +283,9 @@
       "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2344520/header.jpg",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 16,
@@ -272,7 +302,9 @@
       "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 17,
@@ -289,7 +321,9 @@
       "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 18,
@@ -306,7 +340,9 @@
       "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/962130/header.jpg",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 19,
@@ -323,7 +359,9 @@
       "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/945360/header.jpg",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 20,
@@ -340,7 +378,9 @@
       "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
       "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/291550/header.jpg",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 21,
@@ -357,7 +397,9 @@
       "notes": "Requires official platform and mode verification.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 22,
@@ -374,7 +416,9 @@
       "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/304390/header.jpg",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 23,
@@ -391,7 +435,9 @@
       "notes": "Official PS5–PC crossplay. PC-origin accounts cannot transfer to PlayStation; PlayStation-origin accounts can link to PC.",
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/236390/header.jpg",
       "verified": true,
-      "crossProgression": "limited"
+      "crossProgression": "limited",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 24,
@@ -408,7 +454,9 @@
       "notes": "Requires official platform and mode verification.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 25,
@@ -425,7 +473,9 @@
       "notes": "Requires official platform and mode verification.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 26,
@@ -442,7 +492,9 @@
       "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/397540/header.jpg",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 27,
@@ -459,7 +511,9 @@
       "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 28,
@@ -476,7 +530,9 @@
       "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 29,
@@ -493,7 +549,9 @@
       "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1282100/header.jpg",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 30,
@@ -510,7 +568,9 @@
       "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1824220/header.jpg",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 31,
@@ -527,7 +587,9 @@
       "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 32,
@@ -544,7 +606,9 @@
       "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
       "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1364780/header.jpg",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 33,
@@ -561,7 +625,9 @@
       "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
       "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1778820/header.jpg",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 34,
@@ -578,7 +644,9 @@
       "notes": "Requires official platform and mode verification.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 35,
@@ -595,7 +663,9 @@
       "notes": "Requires official platform and mode verification.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 36,
@@ -612,7 +682,9 @@
       "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 37,
@@ -629,7 +701,9 @@
       "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 38,
@@ -646,7 +720,9 @@
       "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 39,
@@ -663,7 +739,9 @@
       "notes": "Requires official platform and mode verification.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 40,
@@ -680,7 +758,9 @@
       "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 41,
@@ -697,7 +777,9 @@
       "notes": "Publisher/platform official information confirms cross-platform play.",
       "image": "",
       "verified": true,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 42,
@@ -714,7 +796,9 @@
       "notes": "Requires official platform and mode verification.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 43,
@@ -731,7 +815,9 @@
       "notes": "Requires official platform and mode verification.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 44,
@@ -748,7 +834,9 @@
       "notes": "Requires official platform and mode verification.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 45,
@@ -765,7 +853,9 @@
       "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
       "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2399830/header.jpg",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 46,
@@ -782,7 +872,9 @@
       "notes": "Requires official platform and mode verification.",
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2694490/header.jpg",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 47,
@@ -799,7 +891,9 @@
       "notes": "Requires official platform and mode verification.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 48,
@@ -816,7 +910,9 @@
       "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/739630/header.jpg",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 49,
@@ -833,7 +929,9 @@
       "notes": "Requires official platform and mode verification.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 50,
@@ -850,7 +948,9 @@
       "notes": "Publisher/platform official information confirms cross-platform play.",
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2001120/header.jpg",
       "verified": true,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 51,
@@ -867,7 +967,9 @@
       "notes": "Requires official platform and mode verification.",
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1426210/header.jpg",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 52,
@@ -884,7 +986,9 @@
       "notes": "Requires official platform and mode verification.",
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2807960/header.jpg",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 53,
@@ -901,7 +1005,9 @@
       "notes": "Requires official platform and mode verification.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 54,
@@ -918,7 +1024,9 @@
       "notes": "Requires official platform and mode verification.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 55,
@@ -935,7 +1043,9 @@
       "notes": "Developer confirms no crossplay at 1.0 launch and no estimated release date for crossplay.",
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1203620/header.jpg",
       "verified": true,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 56,
@@ -952,7 +1062,9 @@
       "notes": "Requires official platform and mode verification.",
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3527290/header.jpg",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 57,
@@ -969,7 +1081,9 @@
       "notes": "Requires official platform and mode verification.",
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/815370/header.jpg",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 58,
@@ -986,7 +1100,9 @@
       "notes": "Requires official platform and mode verification.",
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/892970/header.jpg",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 59,
@@ -1003,7 +1119,9 @@
       "notes": "Requires official platform and mode verification.",
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/548430/header.jpg",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 60,
@@ -1020,7 +1138,9 @@
       "notes": "Requires official platform and mode verification.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 61,
@@ -1037,7 +1157,9 @@
       "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2246340/header.jpg",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 62,
@@ -1054,7 +1176,9 @@
       "notes": "Requires official platform and mode verification.",
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1446780/header.jpg",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 63,
@@ -1071,7 +1195,9 @@
       "notes": "Requires official platform and mode verification.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 64,
@@ -1088,7 +1214,9 @@
       "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 65,
@@ -1105,7 +1233,9 @@
       "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 66,
@@ -1122,7 +1252,9 @@
       "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 67,
@@ -1139,7 +1271,9 @@
       "notes": "Requires official platform and mode verification.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 68,
@@ -1156,7 +1290,9 @@
       "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 69,
@@ -1173,7 +1309,9 @@
       "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 70,
@@ -1190,7 +1328,9 @@
       "notes": "Requires official platform and mode verification.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 71,
@@ -1207,7 +1347,9 @@
       "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 72,
@@ -1224,7 +1366,9 @@
       "notes": "Requires official platform and mode verification.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 73,
@@ -1241,7 +1385,9 @@
       "notes": "Requires official platform and mode verification.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 74,
@@ -1258,7 +1404,9 @@
       "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 75,
@@ -1275,7 +1423,9 @@
       "notes": "Requires official platform and mode verification.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 76,
@@ -1292,7 +1442,9 @@
       "notes": "Requires official platform and mode verification.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 77,
@@ -1309,7 +1461,9 @@
       "notes": "Requires official platform and mode verification.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 78,
@@ -1326,7 +1480,9 @@
       "notes": "Requires official platform and mode verification.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 79,
@@ -1343,7 +1499,9 @@
       "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 80,
@@ -1360,7 +1518,9 @@
       "notes": "Requires official platform and mode verification.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 81,
@@ -1377,7 +1537,9 @@
       "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 82,
@@ -1394,7 +1556,9 @@
       "notes": "Listed as supporting PS5–PC crossplay; check game-specific restrictions.",
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2074920/header.jpg",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 83,
@@ -1411,7 +1575,9 @@
       "notes": "Requires official platform and mode verification.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 84,
@@ -1428,7 +1594,9 @@
       "notes": "Requires official platform and mode verification.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 85,
@@ -1445,7 +1613,9 @@
       "notes": "Requires official platform and mode verification.",
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1808500/header.jpg",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 86,
@@ -1459,7 +1629,9 @@
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 87,
@@ -1473,7 +1645,9 @@
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 88,
@@ -1487,7 +1661,9 @@
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 89,
@@ -1501,7 +1677,9 @@
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 90,
@@ -1515,7 +1693,9 @@
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 91,
@@ -1529,7 +1709,9 @@
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 92,
@@ -1543,7 +1725,9 @@
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1517290/header.jpg",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 93,
@@ -1557,7 +1741,9 @@
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 94,
@@ -1571,7 +1757,9 @@
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 95,
@@ -1585,7 +1773,9 @@
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 96,
@@ -1599,7 +1789,9 @@
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2536520/header.jpg",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 97,
@@ -1613,7 +1805,9 @@
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 98,
@@ -1627,7 +1821,9 @@
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 99,
@@ -1641,7 +1837,9 @@
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2622380/header.jpg",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 100,
@@ -1655,7 +1853,9 @@
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1248130/header.jpg",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 101,
@@ -1669,7 +1869,9 @@
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2300320/header.jpg",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 102,
@@ -1683,7 +1885,9 @@
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 103,
@@ -1697,7 +1901,9 @@
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1551360/header.jpg",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 104,
@@ -1711,7 +1917,9 @@
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 105,
@@ -1725,7 +1933,9 @@
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 106,
@@ -1739,7 +1949,9 @@
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 107,
@@ -1753,7 +1965,9 @@
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 108,
@@ -1767,7 +1981,9 @@
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/477160/header.jpg",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 109,
@@ -1781,7 +1997,9 @@
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/594650/header.jpg",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 110,
@@ -1795,7 +2013,9 @@
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 111,
@@ -1809,7 +2029,9 @@
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 112,
@@ -1823,7 +2045,9 @@
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 113,
@@ -1837,7 +2061,9 @@
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 114,
@@ -1851,7 +2077,9 @@
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 115,
@@ -1865,7 +2093,9 @@
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 116,
@@ -1879,7 +2109,9 @@
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 117,
@@ -1893,7 +2125,9 @@
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1063730/header.jpg",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 118,
@@ -1907,7 +2141,9 @@
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 119,
@@ -1921,7 +2157,9 @@
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1272080/header.jpg",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 120,
@@ -1935,7 +2173,9 @@
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 121,
@@ -1949,7 +2189,9 @@
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 122,
@@ -1963,7 +2205,9 @@
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 123,
@@ -1977,7 +2221,9 @@
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 124,
@@ -1991,7 +2237,9 @@
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 125,
@@ -2005,7 +2253,9 @@
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 126,
@@ -2019,7 +2269,9 @@
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 127,
@@ -2033,7 +2285,9 @@
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1465360/header.jpg",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 128,
@@ -2047,7 +2301,9 @@
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 129,
@@ -2061,7 +2317,9 @@
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 130,
@@ -2075,7 +2333,9 @@
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 131,
@@ -2089,7 +2349,9 @@
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 132,
@@ -2103,7 +2365,9 @@
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 133,
@@ -2117,7 +2381,9 @@
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1304930/header.jpg",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 134,
@@ -2131,7 +2397,9 @@
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 135,
@@ -2145,7 +2413,9 @@
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 136,
@@ -2159,7 +2429,9 @@
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 137,
@@ -2173,7 +2445,9 @@
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 138,
@@ -2187,7 +2461,9 @@
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1604030/header.jpg",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 139,
@@ -2201,7 +2477,9 @@
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 140,
@@ -2215,7 +2493,9 @@
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 141,
@@ -2229,7 +2509,9 @@
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 142,
@@ -2243,7 +2525,9 @@
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 143,
@@ -2257,7 +2541,9 @@
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 144,
@@ -2271,7 +2557,9 @@
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 145,
@@ -2285,7 +2573,9 @@
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 146,
@@ -2299,7 +2589,9 @@
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 147,
@@ -2313,7 +2605,9 @@
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2183900/header.jpg",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 148,
@@ -2327,7 +2621,9 @@
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 149,
@@ -2341,7 +2637,9 @@
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/582010/header.jpg",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 150,
@@ -2355,7 +2653,9 @@
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1086940/header.jpg",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "yes",
+      "gfnSource": "https://blogs.nvidia.com/blog/geforce-now-thursday-september-2026-games-list/"
     },
     {
       "id": 151,
@@ -2369,7 +2669,9 @@
       "notes": "Publisher/platform official information confirms cross-platform play.",
       "image": "",
       "verified": true,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 152,
@@ -2383,7 +2685,9 @@
       "notes": "Publisher/platform official information confirms cross-platform play.",
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1285190/header.jpg",
       "verified": true,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 153,
@@ -2397,7 +2701,9 @@
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 154,
@@ -2411,7 +2717,9 @@
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 155,
@@ -2425,7 +2733,9 @@
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 156,
@@ -2439,7 +2749,9 @@
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 157,
@@ -2453,7 +2765,9 @@
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/534380/header.jpg",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 158,
@@ -2467,7 +2781,9 @@
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 159,
@@ -2481,7 +2797,9 @@
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 160,
@@ -2495,7 +2813,9 @@
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 161,
@@ -2509,7 +2829,9 @@
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1144200/header.jpg",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 162,
@@ -2523,7 +2845,9 @@
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2707930/header.jpg",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 163,
@@ -2537,7 +2861,9 @@
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 164,
@@ -2551,7 +2877,9 @@
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 165,
@@ -2565,7 +2893,9 @@
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 166,
@@ -2579,7 +2909,9 @@
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 167,
@@ -2593,7 +2925,9 @@
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 168,
@@ -2607,7 +2941,9 @@
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/526870/header.jpg",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 169,
@@ -2621,7 +2957,9 @@
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 170,
@@ -2635,7 +2973,9 @@
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 171,
@@ -2649,7 +2989,9 @@
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 172,
@@ -2663,7 +3005,9 @@
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 173,
@@ -2677,7 +3021,9 @@
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/264710/header.jpg",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 174,
@@ -2691,7 +3037,9 @@
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/848450/header.jpg",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 175,
@@ -2705,7 +3053,9 @@
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 176,
@@ -2719,7 +3069,9 @@
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/346110/header.jpg",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 177,
@@ -2733,7 +3085,9 @@
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/440900/header.jpg",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 178,
@@ -2747,7 +3101,9 @@
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/252490/header.jpg",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 179,
@@ -2761,7 +3117,9 @@
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/221100/header.jpg",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "yes",
+      "gfnSource": "https://blogs.nvidia.com/blog/geforce-now-thursday-may-2026-games-list/"
     },
     {
       "id": 180,
@@ -2775,7 +3133,9 @@
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 181,
@@ -2789,7 +3149,9 @@
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 182,
@@ -2803,7 +3165,9 @@
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 183,
@@ -2817,7 +3181,9 @@
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 184,
@@ -2831,7 +3197,9 @@
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 185,
@@ -2845,7 +3213,9 @@
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "yes",
+      "gfnSource": "https://blogs.nvidia.com/blog/geforce-now-thursday-august-2026-games-list/"
     },
     {
       "id": 186,
@@ -2859,7 +3229,9 @@
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 187,
@@ -2873,7 +3245,9 @@
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 188,
@@ -2887,7 +3261,9 @@
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 189,
@@ -2901,7 +3277,9 @@
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 190,
@@ -2915,7 +3293,9 @@
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 191,
@@ -2929,7 +3309,9 @@
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 192,
@@ -2943,7 +3325,9 @@
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 193,
@@ -2957,7 +3341,9 @@
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 194,
@@ -2971,7 +3357,9 @@
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 195,
@@ -2985,7 +3373,9 @@
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 196,
@@ -2999,7 +3389,9 @@
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 197,
@@ -3013,7 +3405,9 @@
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 198,
@@ -3027,7 +3421,9 @@
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 199,
@@ -3041,7 +3437,9 @@
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     },
     {
       "id": 200,
@@ -3055,7 +3453,9 @@
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
       "image": "",
       "verified": false,
-      "crossProgression": "unknown"
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": ""
     }
   ]
 }
