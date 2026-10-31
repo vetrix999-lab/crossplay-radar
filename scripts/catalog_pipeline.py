@@ -46,10 +46,10 @@ def collect():
    p=Parser();p.feed(fetch(url));games={}
    if source=="crossplaygames":
     # This page separates positive and negative sections; only the positive section is valid.
-    raw=fetch(url);positive=raw.split("Cross-Platform Games for PS5 and Windows PC",1)[-1].split("Games Which Are Compatible With PS5 and Windows PC",1)[0]
+    raw=fetch(url);positive=raw.split("## Cross-Platform Games for PS5 and Windows PC",1)[-1].split("Games Which Are Compatible With PS5 and Windows PC",1)[0]
     q=Parser();q.feed(positive)
     for title,href in q.links:
-     if href and title and not href.startswith("#") and len(title)<90 and len(title)>2:games.setdefault(canonical(title),{"name":title,"url":urllib.parse.urljoin(url,href)})
+     if href and title and href.startswith("/") and len(title)<90 and len(title)>2:games.setdefault(canonical(title),{"name":title,"url":urllib.parse.urljoin(url,href)})
    elif source=="crossplayguide":
     # Table rows explicitly indicate PC and PS5 in the same plays-together group.
     for row in p.rows:
