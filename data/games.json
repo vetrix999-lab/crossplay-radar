@@ -4507,6 +4507,657 @@
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
+    },
+    {
+      "id": 201,
+      "name": "Call of Duty: Black Ops Cold War",
+      "genre": "Shooter",
+      "price": "Unknown",
+      "studio": "Unknown",
+      "status": "review",
+      "platforms": [
+        "PS5",
+        "PC"
+      ],
+      "source": "",
+      "notes": "Listed by two independent PS5–PC crossplay directories; verify platform pairing, mode restrictions, current online service and publisher statement before marking officially verified.",
+      "image": "",
+      "verified": false,
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "directory_consensus_needs_official_verification",
+      "gfnAudit": "not_verified",
+      "crossplayConsensusSources": [
+        "https://crossplaygames.com/crossplay?p1=playstation-5&p2=windows-pc",
+        "https://crossplayguide.com/crossplay/pc-and-playstation/"
+      ],
+      "crossplayConsensusCount": 2,
+      "crossplayConsensusProviders": [
+        "crossplaygames",
+        "crossplayguide"
+      ]
+    },
+    {
+      "id": 202,
+      "name": "Call of Duty: Modern Warfare II",
+      "genre": "Shooter",
+      "price": "Unknown",
+      "studio": "Unknown",
+      "status": "review",
+      "platforms": [
+        "PS5",
+        "PC"
+      ],
+      "source": "",
+      "notes": "Listed by two independent PS5–PC crossplay directories; verify platform pairing, mode restrictions, current online service and publisher statement before marking officially verified.",
+      "image": "",
+      "verified": false,
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "directory_consensus_needs_official_verification",
+      "gfnAudit": "not_verified",
+      "crossplayConsensusSources": [
+        "https://crossplaygames.com/crossplay?p1=playstation-5&p2=windows-pc",
+        "https://crossplayguide.com/crossplay/pc-and-playstation/"
+      ],
+      "crossplayConsensusCount": 2,
+      "crossplayConsensusProviders": [
+        "crossplaygames",
+        "crossplayguide"
+      ]
+    },
+    {
+      "id": 203,
+      "name": "Call of Duty: Vanguard",
+      "genre": "Shooter",
+      "price": "Unknown",
+      "studio": "Unknown",
+      "status": "review",
+      "platforms": [
+        "PS5",
+        "PC"
+      ],
+      "source": "",
+      "notes": "Listed by two independent PS5–PC crossplay directories; verify platform pairing, mode restrictions, current online service and publisher statement before marking officially verified.",
+      "image": "",
+      "verified": false,
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "directory_consensus_needs_official_verification",
+      "gfnAudit": "not_verified",
+      "crossplayConsensusSources": [
+        "https://crossplaygames.com/crossplay?p1=playstation-5&p2=windows-pc",
+        "https://crossplayguide.com/crossplay/pc-and-playstation/"
+      ],
+      "crossplayConsensusCount": 2,
+      "crossplayConsensusProviders": [
+        "crossplaygames",
+        "crossplayguide"
+      ]
+    },
+    {
+      "id": 204,
+      "name": "DIRT 5",
+      "genre": "Racing",
+      "price": "Unknown",
+      "studio": "Unknown",
+      "status": "review",
+      "platforms": [
+        "PS5",
+        "PC"
+      ],
+      "source": "",
+      "notes": "Listed by two independent PS5–PC crossplay directories; verify platform pairing, mode restrictions, current online service and publisher statement before marking officially verified.",
+      "image": "",
+      "verified": false,
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "directory_consensus_needs_official_verification",
+      "gfnAudit": "not_verified",
+      "crossplayConsensusSources": [
+        "https://crossplaygames.com/crossplay?p1=playstation-5&p2=windows-pc",
+        "https://crossplayguide.com/crossplay/pc-and-playstation/"
+      ],
+      "crossplayConsensusCount": 2,
+      "crossplayConsensusProviders": [
+        "crossplaygames",
+        "crossplayguide"
+      ]
+    },
+    {
+      "id": 205,
+      "name": "Crash Drive 3",
+      "genre": "Racing",
+      "price": "Unknown",
+      "studio": "Unknown",
+      "status": "review",
+      "platforms": [
+        "PS5",
+        "PC"
+      ],
+      "source": "",
+      "notes": "Listed by two independent PS5–PC crossplay directories; verify platform pairing, mode restrictions, current online service and publisher statement before marking officially verified.",
+      "image": "",
+      "verified": false,
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "directory_consensus_needs_official_verification",
+      "gfnAudit": "not_verified",
+      "crossplayConsensusSources": [
+        "https://crossplaygames.com/crossplay?p1=playstation-5&p2=windows-pc",
+        "https://crossplayguide.com/crossplay/pc-and-playstation/"
+      ],
+      "crossplayConsensusCount": 2,
+      "crossplayConsensusProviders": [
+        "crossplaygames",
+        "crossplayguide"
+      ]
+    },
+    {
+      "id": 206,
+      "name": "GRID Legends",
+      "genre": "Racing",
+      "price": "Unknown",
+      "studio": "Unknown",
+      "status": "review",
+      "platforms": [
+        "PS5",
+        "PC"
+      ],
+      "source": "",
+      "notes": "Listed by two independent PS5–PC crossplay directories; verify platform pairing, mode restrictions, current online service and publisher statement before marking officially verified.",
+      "image": "",
+      "verified": false,
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "directory_consensus_needs_official_verification",
+      "gfnAudit": "not_verified",
+      "crossplayConsensusSources": [
+        "https://crossplaygames.com/crossplay?p1=playstation-5&p2=windows-pc",
+        "https://crossplayguide.com/crossplay/pc-and-playstation/"
+      ],
+      "crossplayConsensusCount": 2,
+      "crossplayConsensusProviders": [
+        "crossplaygames",
+        "crossplayguide"
+      ]
+    },
+    {
+      "id": 207,
+      "name": "Guilty Gear Strive",
+      "genre": "Fighting",
+      "price": "Unknown",
+      "studio": "Unknown",
+      "status": "review",
+      "platforms": [
+        "PS5",
+        "PC"
+      ],
+      "source": "",
+      "notes": "Listed by two independent PS5–PC crossplay directories; verify platform pairing, mode restrictions, current online service and publisher statement before marking officially verified.",
+      "image": "",
+      "verified": false,
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "directory_consensus_needs_official_verification",
+      "gfnAudit": "not_verified",
+      "crossplayConsensusSources": [
+        "https://crossplaygames.com/crossplay?p1=playstation-5&p2=windows-pc",
+        "https://crossplayguide.com/crossplay/pc-and-playstation/"
+      ],
+      "crossplayConsensusCount": 2,
+      "crossplayConsensusProviders": [
+        "crossplaygames",
+        "crossplayguide"
+      ]
+    },
+    {
+      "id": 208,
+      "name": "Operation: Tango",
+      "genre": "Puzzle",
+      "price": "Unknown",
+      "studio": "Unknown",
+      "status": "review",
+      "platforms": [
+        "PS5",
+        "PC"
+      ],
+      "source": "",
+      "notes": "Listed by two independent PS5–PC crossplay directories; verify platform pairing, mode restrictions, current online service and publisher statement before marking officially verified.",
+      "image": "",
+      "verified": false,
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "directory_consensus_needs_official_verification",
+      "gfnAudit": "not_verified",
+      "crossplayConsensusSources": [
+        "https://crossplaygames.com/crossplay?p1=playstation-5&p2=windows-pc",
+        "https://crossplayguide.com/crossplay/pc-and-playstation/"
+      ],
+      "crossplayConsensusCount": 2,
+      "crossplayConsensusProviders": [
+        "crossplaygames",
+        "crossplayguide"
+      ]
+    },
+    {
+      "id": 209,
+      "name": "Overcooked! All You Can Eat",
+      "genre": "Party",
+      "price": "Unknown",
+      "studio": "Unknown",
+      "status": "review",
+      "platforms": [
+        "PS5",
+        "PC"
+      ],
+      "source": "",
+      "notes": "Listed by two independent PS5–PC crossplay directories; verify platform pairing, mode restrictions, current online service and publisher statement before marking officially verified.",
+      "image": "",
+      "verified": false,
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "directory_consensus_needs_official_verification",
+      "gfnAudit": "not_verified",
+      "crossplayConsensusSources": [
+        "https://crossplaygames.com/crossplay?p1=playstation-5&p2=windows-pc",
+        "https://crossplayguide.com/crossplay/pc-and-playstation/"
+      ],
+      "crossplayConsensusCount": 2,
+      "crossplayConsensusProviders": [
+        "crossplaygames",
+        "crossplayguide"
+      ]
+    },
+    {
+      "id": 210,
+      "name": "Project Winter",
+      "genre": "Survival",
+      "price": "Unknown",
+      "studio": "Unknown",
+      "status": "review",
+      "platforms": [
+        "PS5",
+        "PC"
+      ],
+      "source": "",
+      "notes": "Listed by two independent PS5–PC crossplay directories; verify platform pairing, mode restrictions, current online service and publisher statement before marking officially verified.",
+      "image": "",
+      "verified": false,
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "directory_consensus_needs_official_verification",
+      "gfnAudit": "not_verified",
+      "crossplayConsensusSources": [
+        "https://crossplaygames.com/crossplay?p1=playstation-5&p2=windows-pc",
+        "https://crossplayguide.com/crossplay/pc-and-playstation/"
+      ],
+      "crossplayConsensusCount": 2,
+      "crossplayConsensusProviders": [
+        "crossplaygames",
+        "crossplayguide"
+      ]
+    },
+    {
+      "id": 211,
+      "name": "Quake",
+      "genre": "Shooter",
+      "price": "Unknown",
+      "studio": "Unknown",
+      "status": "review",
+      "platforms": [
+        "PS5",
+        "PC"
+      ],
+      "source": "",
+      "notes": "Listed by two independent PS5–PC crossplay directories; verify platform pairing, mode restrictions, current online service and publisher statement before marking officially verified.",
+      "image": "",
+      "verified": false,
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "directory_consensus_needs_official_verification",
+      "gfnAudit": "not_verified",
+      "crossplayConsensusSources": [
+        "https://crossplaygames.com/crossplay?p1=playstation-5&p2=windows-pc",
+        "https://crossplayguide.com/crossplay/pc-and-playstation/"
+      ],
+      "crossplayConsensusCount": 2,
+      "crossplayConsensusProviders": [
+        "crossplaygames",
+        "crossplayguide"
+      ]
+    },
+    {
+      "id": 212,
+      "name": "Sniper Elite 5",
+      "genre": "Shooter",
+      "price": "Unknown",
+      "studio": "Unknown",
+      "status": "review",
+      "platforms": [
+        "PS5",
+        "PC"
+      ],
+      "source": "",
+      "notes": "Listed by two independent PS5–PC crossplay directories; verify platform pairing, mode restrictions, current online service and publisher statement before marking officially verified.",
+      "image": "",
+      "verified": false,
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "directory_consensus_needs_official_verification",
+      "gfnAudit": "not_verified",
+      "crossplayConsensusSources": [
+        "https://crossplaygames.com/crossplay?p1=playstation-5&p2=windows-pc",
+        "https://crossplayguide.com/crossplay/pc-and-playstation/"
+      ],
+      "crossplayConsensusCount": 2,
+      "crossplayConsensusProviders": [
+        "crossplaygames",
+        "crossplayguide"
+      ]
+    },
+    {
+      "id": 213,
+      "name": "Spelunky 2",
+      "genre": "Platformer",
+      "price": "Unknown",
+      "studio": "Unknown",
+      "status": "review",
+      "platforms": [
+        "PS5",
+        "PC"
+      ],
+      "source": "",
+      "notes": "Listed by two independent PS5–PC crossplay directories; verify platform pairing, mode restrictions, current online service and publisher statement before marking officially verified.",
+      "image": "",
+      "verified": false,
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "directory_consensus_needs_official_verification",
+      "gfnAudit": "not_verified",
+      "crossplayConsensusSources": [
+        "https://crossplaygames.com/crossplay?p1=playstation-5&p2=windows-pc",
+        "https://crossplayguide.com/crossplay/pc-and-playstation/"
+      ],
+      "crossplayConsensusCount": 2,
+      "crossplayConsensusProviders": [
+        "crossplaygames",
+        "crossplayguide"
+      ]
+    },
+    {
+      "id": 214,
+      "name": "Splitgate",
+      "genre": "Shooter",
+      "price": "Unknown",
+      "studio": "Unknown",
+      "status": "review",
+      "platforms": [
+        "PS5",
+        "PC"
+      ],
+      "source": "",
+      "notes": "Listed by two independent PS5–PC crossplay directories; verify platform pairing, mode restrictions, current online service and publisher statement before marking officially verified.",
+      "image": "",
+      "verified": false,
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "directory_consensus_needs_official_verification",
+      "gfnAudit": "not_verified",
+      "crossplayConsensusSources": [
+        "https://crossplaygames.com/crossplay?p1=playstation-5&p2=windows-pc",
+        "https://crossplayguide.com/crossplay/pc-and-playstation/"
+      ],
+      "crossplayConsensusCount": 2,
+      "crossplayConsensusProviders": [
+        "crossplaygames",
+        "crossplayguide"
+      ]
+    },
+    {
+      "id": 215,
+      "name": "Roboquest",
+      "genre": "Shooter",
+      "price": "Unknown",
+      "studio": "Unknown",
+      "status": "review",
+      "platforms": [
+        "PS5",
+        "PC"
+      ],
+      "source": "",
+      "notes": "Listed by two independent PS5–PC crossplay directories; verify platform pairing, mode restrictions, current online service and publisher statement before marking officially verified.",
+      "image": "",
+      "verified": false,
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "directory_consensus_needs_official_verification",
+      "gfnAudit": "not_verified",
+      "crossplayConsensusSources": [
+        "https://crossplayguide.com/crossplay/pc-and-playstation/",
+        "https://partyqueue.games/discover/pc-playstation"
+      ],
+      "crossplayConsensusCount": 2,
+      "crossplayConsensusProviders": [
+        "crossplayguide",
+        "partyqueue"
+      ]
+    },
+    {
+      "id": 216,
+      "name": "Where Winds Meet",
+      "genre": "RPG",
+      "price": "Unknown",
+      "studio": "Unknown",
+      "status": "review",
+      "platforms": [
+        "PS5",
+        "PC"
+      ],
+      "source": "",
+      "notes": "Listed by two independent PS5–PC crossplay directories; verify platform pairing, mode restrictions, current online service and publisher statement before marking officially verified.",
+      "image": "",
+      "verified": false,
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "directory_consensus_needs_official_verification",
+      "gfnAudit": "not_verified",
+      "crossplayConsensusSources": [
+        "https://crossplayguide.com/crossplay/pc-and-playstation/",
+        "https://partyqueue.games/discover/pc-playstation"
+      ],
+      "crossplayConsensusCount": 2,
+      "crossplayConsensusProviders": [
+        "crossplayguide",
+        "partyqueue"
+      ]
+    },
+    {
+      "id": 217,
+      "name": "DOOM + DOOM II",
+      "genre": "Shooter",
+      "price": "Unknown",
+      "studio": "Unknown",
+      "status": "review",
+      "platforms": [
+        "PS5",
+        "PC"
+      ],
+      "source": "",
+      "notes": "Listed by two independent PS5–PC crossplay directories; verify platform pairing, mode restrictions, current online service and publisher statement before marking officially verified.",
+      "image": "",
+      "verified": false,
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "directory_consensus_needs_official_verification",
+      "gfnAudit": "not_verified",
+      "crossplayConsensusSources": [
+        "https://crossplayguide.com/crossplay/pc-and-playstation/",
+        "https://partyqueue.games/discover/pc-playstation"
+      ],
+      "crossplayConsensusCount": 2,
+      "crossplayConsensusProviders": [
+        "crossplayguide",
+        "partyqueue"
+      ]
+    },
+    {
+      "id": 218,
+      "name": "Warhammer 40,000: Darktide",
+      "genre": "Shooter",
+      "price": "Unknown",
+      "studio": "Unknown",
+      "status": "review",
+      "platforms": [
+        "PS5",
+        "PC"
+      ],
+      "source": "",
+      "notes": "Listed by two independent PS5–PC crossplay directories; verify platform pairing, mode restrictions, current online service and publisher statement before marking officially verified.",
+      "image": "",
+      "verified": false,
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "directory_consensus_needs_official_verification",
+      "gfnAudit": "not_verified",
+      "crossplayConsensusSources": [
+        "https://crossplayguide.com/crossplay/pc-and-playstation/",
+        "https://partyqueue.games/discover/pc-playstation"
+      ],
+      "crossplayConsensusCount": 2,
+      "crossplayConsensusProviders": [
+        "crossplayguide",
+        "partyqueue"
+      ]
+    },
+    {
+      "id": 219,
+      "name": "Across the Obelisk",
+      "genre": "Strategy",
+      "price": "Unknown",
+      "studio": "Unknown",
+      "status": "review",
+      "platforms": [
+        "PS5",
+        "PC"
+      ],
+      "source": "",
+      "notes": "Listed by two independent PS5–PC crossplay directories; verify platform pairing, mode restrictions, current online service and publisher statement before marking officially verified.",
+      "image": "",
+      "verified": false,
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "directory_consensus_needs_official_verification",
+      "gfnAudit": "not_verified",
+      "crossplayConsensusSources": [
+        "https://crossplayguide.com/crossplay/pc-and-playstation/",
+        "https://partyqueue.games/discover/pc-playstation"
+      ],
+      "crossplayConsensusCount": 2,
+      "crossplayConsensusProviders": [
+        "crossplayguide",
+        "partyqueue"
+      ]
+    },
+    {
+      "id": 220,
+      "name": "Deathloop",
+      "genre": "Shooter",
+      "price": "Unknown",
+      "studio": "Unknown",
+      "status": "review",
+      "platforms": [
+        "PS5",
+        "PC"
+      ],
+      "source": "",
+      "notes": "Listed by two independent PS5–PC crossplay directories; verify platform pairing, mode restrictions, current online service and publisher statement before marking officially verified.",
+      "image": "",
+      "verified": false,
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "directory_consensus_needs_official_verification",
+      "gfnAudit": "not_verified",
+      "crossplayConsensusSources": [
+        "https://crossplayguide.com/crossplay/pc-and-playstation/",
+        "https://crossplaygames.com/crossplay?p1=playstation-5&p2=windows-pc"
+      ],
+      "crossplayConsensusCount": 2,
+      "crossplayConsensusProviders": [
+        "crossplayguide",
+        "crossplaygames"
+      ]
+    },
+    {
+      "id": 221,
+      "name": "Palworld",
+      "genre": "Survival",
+      "price": "Unknown",
+      "studio": "Unknown",
+      "status": "review",
+      "platforms": [
+        "PS5",
+        "PC"
+      ],
+      "source": "",
+      "notes": "Listed by two independent PS5–PC crossplay directories; verify platform pairing, mode restrictions, current online service and publisher statement before marking officially verified.",
+      "image": "",
+      "verified": false,
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "directory_consensus_needs_official_verification",
+      "gfnAudit": "not_verified",
+      "crossplayConsensusSources": [
+        "https://crossplayguide.com/crossplay/pc-and-playstation/",
+        "https://partyqueue.games/discover/pc-playstation"
+      ],
+      "crossplayConsensusCount": 2,
+      "crossplayConsensusProviders": [
+        "crossplayguide",
+        "partyqueue"
+      ]
     }
   ]
 }
