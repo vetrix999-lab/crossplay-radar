@@ -1,0 +1,44 @@
+name: Audit official PS5-PC crossplay evidence
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '37 3 * * 3'
+  push:
+    paths:
+      - 'scripts/audit_official_crossplay.py'
+      - '.github/workflows/official-crossplay-audit.yml'
+permissions:
+  contents: write
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Compile evidence triage
+        run: python -m py_compile scripts/audit_official_crossplay.py
+      - name: Process full catalog
+        run: python -u scripts/audit_official_crossplay.py
+      - name: Validate full audit output
+        run: |
+          python - <<'PY'
+          import json
+          a=json.load(open("data/verification-queue.json"))
+          b=json.load(open("data/games.json"))
+          assert a["processed"]==len(b["games"])
+          assert len(a["items"])==len(b["games"])
+          assert len(set(x["name"].lower() for x in a["items"]))==len(a["items"])
+          print("Audited:",a["processed"],"classification:",a["counts"])
+          PY
+      - name: Commit resumable evidence report
+        if: always()
+        run: |
+          if test -f data/verification-queue.json; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add data/verification-queue.json
+            git diff --cached --quiet || (git commit -m "Audit official crossplay evidence across catalog" && git push)
+          fi
