@@ -6,22 +6,19 @@
     {
       "source": "crossplayguide",
       "status": "ok",
-      "candidates": 1,
+      "candidates": 0,
       "url": "https://crossplayguide.com/crossplay/pc-and-playstation/"
     },
     {
       "source": "crossplayable",
       "status": "ok",
-      "candidates": 1,
+      "candidates": 0,
       "url": "https://crossplayable.com/"
     }
   ],
-  "new_candidates": 2,
-  "names": [
-    "Can we play?  Crossplay .",
-    "Skip to content"
-  ],
+  "new_candidates": 0,
+  "names": [],
   "errors": [],
-  "catalog_total": 275,
+  "catalog_total": 273,
   "verified_promotions": 0
 }
