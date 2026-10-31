@@ -1,4 +1,5 @@
 name: Search official crossplay evidence (Brave API)
+run-name: Brave evidence scan on ${{ github.sha }}
 on:
   workflow_dispatch:
   schedule:
