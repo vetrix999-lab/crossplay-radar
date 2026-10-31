@@ -1,0 +1,51 @@
+name: Review saved crossplay evidence content
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'scripts/review_existing_evidence.py'
+      - '.github/workflows/review-evidence.yml'
+permissions:
+  contents: write
+concurrency:
+  group: crossplay-catalog-writer
+  cancel-in-progress: false
+jobs:
+  review:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Check Python syntax
+        run: python -m py_compile scripts/review_existing_evidence.py
+      - name: Review saved official evidence, no new Brave searches
+        run: python -u scripts/review_existing_evidence.py
+      - name: Verify review covers all searched games
+        run: |
+          python - <<'PY'
+          import json
+          a=json.load(open('data/evidence-content-report.json'))
+          b=json.load(open('data/evidence-search-state.json'))
+          assert a['counts']['games_reviewed']==len(b['games'])
+          assert a['remaining']==0
+          assert a['counts']['automatic_verified']==0
+          print(a)
+          PY
+      - name: Persist reviewed evidence even on partial failures
+        if: always()
+        run: |
+          if [ -f data/evidence-content-review.json ]; then
+            git config user.name 'github-actions[bot]'
+            git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+            git add data/evidence-content-review.json data/evidence-content-report.json
+            if ! git diff --cached --quiet; then
+              git commit -m 'Save official source content review'
+              git pull --rebase origin main
+              git push origin HEAD:main
+            fi
+          fi
