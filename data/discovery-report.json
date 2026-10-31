@@ -39,9 +39,5 @@
   "names": [],
   "errors": [],
   "catalog_total": 348,
-  "verified_promotions": 0,
-  "raw_last_run_total": 357,
-  "net_new_since_312": 36,
-  "quality_exclusions_after_run": 9,
-  "note": "Last run initially reached 357; nine not-yet-live/uncertain titles were removed after review. Report is reconciled to current 348-game catalog."
+  "verified_promotions": 0
 }
