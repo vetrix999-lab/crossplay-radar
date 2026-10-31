@@ -1,0 +1,47 @@
+name: Audit official NVIDIA GeForce NOW support
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '23 6 * * 2'
+  push:
+    paths:
+      - 'scripts/audit_gfn_official.py'
+      - '.github/workflows/audit-gfn-official.yml'
+permissions:
+  contents: write
+concurrency:
+  group: crossplay-catalog-writer
+  cancel-in-progress: false
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python -m py_compile scripts/audit_gfn_official.py
+      - run: python -u scripts/audit_gfn_official.py
+      - name: Check report and data integrity
+        run: |
+          python - <<'PY'
+          import json
+          a=json.load(open('data/gfn-audit.json'))
+          b=json.load(open('data/games.json'))
+          assert a['total']==len(b['games'])
+          assert a['yes']+a['no']+a['unknown']==a['total']
+          assert len(a['official_confirmed'])>=1
+          PY
+      - name: Save verified NVIDIA matches
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/games.json index.html data/gfn-audit.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Save NVIDIA-confirmed GeForce NOW matches'
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
