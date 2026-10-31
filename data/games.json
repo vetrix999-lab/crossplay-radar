@@ -6885,54 +6885,6 @@
       "coverStatus": "missing",
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31"
-    },
-    {
-      "id": 284,
-      "name": "Can we play?  Crossplay .",
-      "genre": "Unknown",
-      "price": "Unknown",
-      "studio": "Unknown",
-      "status": "review",
-      "platforms": [
-        "PS5",
-        "PC"
-      ],
-      "ps5Availability": "secondary_listing_pending_official",
-      "pcAvailability": "secondary_listing_pending_official",
-      "source": "https://crossplayguide.com/",
-      "notes": "PS5-PC crossplay candidate from crossplayguide; official confirmation pending.",
-      "image": "",
-      "verified": false,
-      "crossProgression": "unknown",
-      "gfn": "unknown",
-      "gfnSource": "",
-      "coverStatus": "missing",
-      "crossplayAudit": "secondary_pair_listing_pending_official",
-      "crossplayCheckedAt": "2026-10-31"
-    },
-    {
-      "id": 285,
-      "name": "Skip to content",
-      "genre": "Unknown",
-      "price": "Unknown",
-      "studio": "Unknown",
-      "status": "review",
-      "platforms": [
-        "PS5",
-        "PC"
-      ],
-      "ps5Availability": "secondary_listing_pending_official",
-      "pcAvailability": "secondary_listing_pending_official",
-      "source": "https://crossplayable.com/#phMain",
-      "notes": "PS5-PC crossplay candidate from crossplayable; official confirmation pending.",
-      "image": "",
-      "verified": false,
-      "crossProgression": "unknown",
-      "gfn": "unknown",
-      "gfnSource": "",
-      "coverStatus": "missing",
-      "crossplayAudit": "secondary_pair_listing_pending_official",
-      "crossplayCheckedAt": "2026-10-31"
     }
   ]
 }
