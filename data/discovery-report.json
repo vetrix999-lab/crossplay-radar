@@ -2,9 +2,26 @@
   "checked_at": "2026-10-31",
   "listing": "https://crossplaygames.com/crossplay?p1=playstation-5&p2=windows-pc",
   "listing_games": 143,
-  "new_candidates": 0,
-  "names": [],
+  "additional_sources": [
+    {
+      "source": "crossplayguide",
+      "status": "ok",
+      "candidates": 1,
+      "url": "https://crossplayguide.com/crossplay/pc-and-playstation/"
+    },
+    {
+      "source": "crossplayable",
+      "status": "ok",
+      "candidates": 1,
+      "url": "https://crossplayable.com/"
+    }
+  ],
+  "new_candidates": 2,
+  "names": [
+    "Can we play?  Crossplay .",
+    "Skip to content"
+  ],
   "errors": [],
-  "catalog_total": 273,
+  "catalog_total": 275,
   "verified_promotions": 0
 }
