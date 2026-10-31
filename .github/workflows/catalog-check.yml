@@ -1,0 +1,28 @@
+name: Weekly catalog integrity check
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 7 * * 1'
+permissions:
+  contents: read
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Validate catalog
+        run: |
+          python - <<'PY'
+          import json, pathlib
+          p=pathlib.Path("data/games.json")
+          data=json.loads(p.read_text())
+          games=data["games"]
+          assert len(games)==len({g["name"].casefold() for g in games}), "Duplicate game titles"
+          assert all(g["status"] in ("available","upcoming","review") for g in games)
+          assert all(g["price"] in ("Free","Paid") for g in games)
+          assert all(g["name"] and g["genre"] and g["source"] for g in games)
+          print(f"Validated {len(games)} entries. Last editorial update: {data['updated']}")
+          PY
