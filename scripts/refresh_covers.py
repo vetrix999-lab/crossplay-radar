@@ -19,7 +19,11 @@ db=json.loads(DB.read_text())
 games=db["games"]
 changed=0; checked=0; failures=[]
 for i,g in enumerate(games):
-    if g.get("image") and image_ok(g["image"]):\n        g["coverStatus"]="http_verified"\n        continue\n    if g.get("image"):\n        g["image"]=""\n        g["coverStatus"]="missing"
+    if g.get("image") and image_ok(g["image"]):
+        g["coverStatus"]="http_verified"
+        continue
+    if g.get("image"):
+        g["coverStatus"]="url_failed_review"
     name=g["name"]
     try:
         query=urllib.parse.urlencode({"term":name,"l":"en","cc":"us"})
@@ -35,22 +39,31 @@ for i,g in enumerate(games):
         if not image_ok(cover):
             failures.append(name+": cover unavailable")
             continue
-        g["coverStatus"]="http_verified"\n        g["steamAppId"]=appid
+        g["coverStatus"]="http_verified"
+        g["steamAppId"]=appid
         g["image"]=cover
         g["imageSource"]=f"https://store.steampowered.com/app/{appid}/"
         changed+=1
-    except Exception as exc:\n        g["coverStatus"]="missing"\n        failures.append(name+": "+str(exc)[:80])
+    except Exception as exc:
+        g["coverStatus"]="missing" if not g.get("image") else "url_failed_review"
+        failures.append(name+": "+str(exc)[:80])
     checked+=1
     time.sleep(0.5)
 # Keep embedded catalog in sync so GitHub Pages works without separate JSON fetch.
-DB.write_text(json.dumps(db,ensure_ascii=False,indent=2)+"\n")
+DB.write_text(json.dumps(db,ensure_ascii=False,indent=2)+"
+")
 page=PAGE.read_text()
 prefix="const EMBEDDED_CATALOG="
 start=page.index(prefix)+len(prefix)
-end=page.index(";\nlet all=",start)
+end=page.index(";
+let all=",start)
 payload=json.dumps(db,ensure_ascii=False,separators=(",",":")).replace("<","\\u003c")
 page=page[:start]+payload+page[end:]
 PAGE.write_text(page)
 print(f"Total {len(games)}; covers {sum(bool(g.get('image')) for g in games)}; newly matched {changed}; requests {checked}")
 print("Unmatched (review manually):")
-print("\n".join(failures))\n(ROOT/"data/cover-audit.txt").write_text("\n".join(failures)+"\n")
+print("
+".join(failures))
+(ROOT/"data/cover-audit.txt").write_text("
+".join(failures)+"
+")
