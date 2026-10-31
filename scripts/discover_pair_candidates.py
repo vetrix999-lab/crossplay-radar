@@ -46,6 +46,9 @@ def secondary_candidates():
     if not match:continue
     name=html.unescape(re.sub(r"<[^>]+>"," ",match.group(2))).strip()
     if not 3<=len(name)<=85:continue
+    if name.lower() in ("skip to content","can we play?  crossplay ."):continue
+    if urllib.parse.urlsplit(urllib.parse.urljoin(url,match.group(1))).path in ("","/"):continue
+    if "#" in match.group(1):continue
     if re.search(r"crossplay games|view all|learn more",name,re.I):continue
     candidates.append((name,urllib.parse.urljoin(url,match.group(1)),label));found+=1
    reports.append({"source":label,"status":"ok","candidates":found,"url":url})
