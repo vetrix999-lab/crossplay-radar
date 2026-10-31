@@ -25,11 +25,38 @@ EXCLUDE={"overwatch","tomclancysghostreconfrontline","spellbreak"}
 def canonical(name):
  n=norm(name)
  return ALIASES.get(n,n)
+
+SECONDARY_LISTS=[
+ ("crossplayguide","https://crossplayguide.com/crossplay/pc-and-playstation/"),
+ ("crossplayable","https://crossplayable.com/")
+]
+def secondary_candidates():
+ candidates=[];reports=[]
+ for label,url in SECONDARY_LISTS:
+  try:
+   raw=request(url)
+   # Each candidate must have a linked game page and PS5 and PC in its local card.
+   cards=re.split(r"</(?:article|tr|li)>",raw,flags=re.I)
+   found=0
+   for card in cards:
+    visible=html.unescape(re.sub(r"<[^>]+>"," ",card))
+    if not (re.search(r"\bPC\b",visible,re.I) and re.search(r"\bPS5\b",visible,re.I)):continue
+    if not re.search(r"cross.?play|plays together",visible,re.I):continue
+    match=re.search(r'<a[^>]+href="([^"]+)"[^>]*>(.*?)</a>',card,re.I|re.S)
+    if not match:continue
+    name=html.unescape(re.sub(r"<[^>]+>"," ",match.group(2))).strip()
+    if not 3<=len(name)<=85:continue
+    if re.search(r"crossplay games|view all|learn more",name,re.I):continue
+    candidates.append((name,urllib.parse.urljoin(url,match.group(1)),label));found+=1
+   reports.append({"source":label,"status":"ok","candidates":found,"url":url})
+  except Exception as e:reports.append({"source":label,"status":"failed","error":str(e)[:160],"url":url})
+ return candidates,reports
+
 def main():
  catalog=json.loads(DB.read_text());games=catalog["games"];existing={canonical(g["name"]) for g in games}
  page=request(LIST);p=Links();p.feed(page)
  found={canonical(name):(name,url) for name,url in p.links}
- added=[];errors=[];nextid=max(g["id"] for g in games)+1
+ added=[];errors=[];secondary,source_results=secondary_candidates();nextid=max(g["id"] for g in games)+1
  for name,url in found.values():
   if canonical(name) in existing or canonical(name) in EXCLUDE:continue
   try:
@@ -44,6 +71,10 @@ def main():
   except Exception as e:errors.append({"name":name,"error":str(e)[:150]})
   if len(added)%25==0 and added:print("New candidates",len(added),flush=True)
   time.sleep(.1)
+ for name,url,provider in secondary:
+  if canonical(name) in existing or canonical(name) in EXCLUDE:continue
+  record={"id":nextid,"name":name,"genre":"Unknown","price":"Unknown","studio":"Unknown","status":"review","platforms":["PS5","PC"],"ps5Availability":"secondary_listing_pending_official","pcAvailability":"secondary_listing_pending_official","source":url,"notes":"PS5-PC crossplay candidate from "+provider+"; official confirmation pending.","image":"","verified":False,"crossProgression":"unknown","gfn":"unknown","gfnSource":"","coverStatus":"missing","crossplayAudit":"secondary_pair_listing_pending_official","crossplayCheckedAt":dt.date.today().isoformat()}
+  games.append(record);existing.add(canonical(name));nextid+=1;added.append(name)
  catalog["updated"]=dt.date.today().isoformat()
  DB.write_text(json.dumps(catalog,ensure_ascii=False,indent=2)+"\n")
  source=PAGE.read_text()
@@ -51,6 +82,6 @@ def main():
  source,count=re.subn(r"const EMBEDDED_CATALOG=[\s\S]*?;\nlet all=",lambda _:replacement,source,count=1)
  if count!=1:raise RuntimeError("Could not update embedded catalog")
  PAGE.write_text(source)
- REPORT.write_text(json.dumps({"checked_at":dt.date.today().isoformat(),"listing":LIST,"listing_games":len(found),"new_candidates":len(added),"names":added,"errors":errors,"catalog_total":len(games),"verified_promotions":0},ensure_ascii=False,indent=2)+"\n")
+ REPORT.write_text(json.dumps({"checked_at":dt.date.today().isoformat(),"listing":LIST,"listing_games":len(found),"additional_sources":source_results,"new_candidates":len(added),"names":added,"errors":errors,"catalog_total":len(games),"verified_promotions":0},ensure_ascii=False,indent=2)+"\n")
  print("Discovery complete",len(found),"listed,",len(added),"new,",len(games),"total",flush=True)
 if __name__=="__main__":main()
