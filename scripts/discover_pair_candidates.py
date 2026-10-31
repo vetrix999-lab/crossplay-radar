@@ -21,7 +21,7 @@ class Links(HTMLParser):
    self.href=None
 def norm(name):return re.sub(r"[^a-z0-9]","",name.lower().replace("’","'").replace("™",""))
 ALIASES={"diablo4":"diabloiv","fallguysultimateknockout":"fallguys","hoodoutlawslegends":"hoodoutlawsandlegends","finalfantasyxivonline":"finalfantasyxiv","theelderscrollsonline":"elderscrollsonline","tomclancysxdefiant":"xdefiant","rainbowsixsiege":"rainbowsixsiegex"}
-EXCLUDE={"overwatch","tomclancysghostreconfrontline","spellbreak","easportsfc27","easportscollegefootball27","maddennfl27","halloweenthegame","runescapdragonwilds","grounded2","marathon"}
+EXCLUDE={"overwatch","tomclancysghostreconfrontline","spellbreak","easportsfc27","easportscollegefootball27","maddennfl27","halloweenthegame","runescapedragonwilds","grounded2","marathon","tomclancysrainbowsixsiegex"}
 def canonical(name):
  n=norm(name)
  return ALIASES.get(n,n)
