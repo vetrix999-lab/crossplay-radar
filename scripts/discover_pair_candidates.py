@@ -20,13 +20,18 @@ class Links(HTMLParser):
    if re.search(r"^https?://(?:www\.)?crossplaygames\.com/games/|^/games/",self.href) and name and len(name)<110:self.links.append((name,urllib.parse.urljoin(LIST,self.href)))
    self.href=None
 def norm(name):return re.sub(r"[^a-z0-9]","",name.lower().replace("’","'").replace("™",""))
+ALIASES={"diablo4":"diabloiv","fallguysultimateknockout":"fallguys","hoodoutlawslegends":"hoodoutlawsandlegends","finalfantasyxivonline":"finalfantasyxiv","theelderscrollsonline":"elderscrollsonline","tomclancysxdefiant":"xdefiant","rainbowsixsiege":"rainbowsixsiegex"}
+EXCLUDE={"overwatch","tomclancysghostreconfrontline","spellbreak"}
+def canonical(name):
+ n=norm(name)
+ return ALIASES.get(n,n)
 def main():
- catalog=json.loads(DB.read_text());games=catalog["games"];existing={norm(g["name"]) for g in games}
+ catalog=json.loads(DB.read_text());games=catalog["games"];existing={canonical(g["name"]) for g in games}
  page=request(LIST);p=Links();p.feed(page)
- found={norm(name):(name,url) for name,url in p.links}
+ found={canonical(name):(name,url) for name,url in p.links}
  added=[];errors=[];nextid=max(g["id"] for g in games)+1
  for name,url in found.values():
-  if norm(name) in existing:continue
+  if canonical(name) in existing or canonical(name) in EXCLUDE:continue
   try:
    detail=request(url)
    # Source must explicitly describe PS5 and Windows PC crossplay on this game's page.
@@ -35,7 +40,7 @@ def main():
    if not re.search(r"supports crossplay across the following platforms.{0,260}PS5",plain,re.I|re.S):continue
    if not re.search(r"supports crossplay across the following platforms.{0,260}(?:Windows PC|Steam)",plain,re.I|re.S):continue
    record={"id":nextid,"name":name,"genre":"Unknown","price":"Unknown","studio":"Unknown","status":"review","platforms":["PS5","PC"],"ps5Availability":"secondary_listing_pending_official","pcAvailability":"secondary_listing_pending_official","source":url,"notes":"PS5-PC platform-pair candidate from CrossplayGames; official platform availability, service status and crossplay evidence not yet verified.","image":"","verified":False,"crossProgression":"unknown","gfn":"unknown","gfnSource":"","gfnCheckedAt":None,"coverStatus":"missing","crossplayAudit":"secondary_pair_listing_pending_official","crossplayCheckedAt":dt.date.today().isoformat()}
-   games.append(record);existing.add(norm(name));nextid+=1;added.append(name)
+   games.append(record);existing.add(canonical(name));nextid+=1;added.append(name)
   except Exception as e:errors.append({"name":name,"error":str(e)[:150]})
   if len(added)%25==0 and added:print("New candidates",len(added),flush=True)
   time.sleep(.1)
