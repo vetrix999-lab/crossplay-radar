@@ -114,11 +114,11 @@
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1172470/header.jpg",
       "verified": true,
       "crossProgression": "unknown",
-      "gfn": "unknown",
-      "gfnSource": "",
+      "gfn": "yes",
+      "gfnSource": "https://nvidia.custhelp.com/app/answers/detail/a_id/4812/",
       "coverStatus": "http_content_verified",
       "crossplayAudit": "independent_sources_agree_ps5_pc",
-      "gfnAudit": "needs_official_nvidia_confirmation",
+      "gfnAudit": "explicitly_named_on_official_nvidia_support_page",
       "gfnVerifiedAt": "2026-10-31",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
       "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
@@ -131,7 +131,9 @@
       "crossplayCheckedAt": "2026-10-31",
       "coverCheckedAt": "2026-10-31",
       "gfnPreviousCandidateSource": "https://gfn.am/en/games/",
-      "gfnCheckedAt": "2026-10-31"
+      "gfnCheckedAt": "2026-10-31",
+      "gfnStore": "unknown",
+      "gfnRegion": "regional_availability_may_vary"
     },
     {
       "id": 5,
@@ -216,11 +218,11 @@
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1085660/header.jpg",
       "verified": false,
       "crossProgression": "unknown",
-      "gfn": "unknown",
-      "gfnSource": "",
+      "gfn": "yes",
+      "gfnSource": "https://nvidia.custhelp.com/app/answers/detail/a_id/4812/",
       "coverStatus": "http_content_verified",
       "crossplayAudit": "independent_sources_agree_ps5_pc",
-      "gfnAudit": "needs_official_nvidia_confirmation",
+      "gfnAudit": "explicitly_named_on_official_nvidia_support_page",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
       "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
       "crossplayConsensusSources": [
@@ -233,7 +235,9 @@
       "crossplayCheckedAt": "2026-10-31",
       "coverCheckedAt": "2026-10-31",
       "gfnPreviousCandidateSource": "https://nvidia.custhelp.com/app/answers/detail/a_id/4812/",
-      "gfnCheckedAt": "2026-10-31"
+      "gfnCheckedAt": "2026-10-31",
+      "gfnStore": "unknown",
+      "gfnRegion": "regional_availability_may_vary"
     },
     {
       "id": 8,
