@@ -16,7 +16,7 @@ class CatalogTests(unittest.TestCase):
   for g in self.games:
    with self.subTest(game=g["name"]):
     self.assertTrue(g["name"].strip())
-    self.assertIn(g.get("genre"),("Shooter","Action","Adventure","Survival","RPG","Strategy","Racing","Sports","Fighting","Party","Puzzle","Platformer","Simulation","MMO","Other","Sandbox","Horror","Co-op","MOBA","Battle Royale","Casual","Rhythm","Card","MMORPG","Open World","Unknown"))
+    self.assertIn(g.get("genre"),("Stealth","Shooter","Action","Adventure","Survival","RPG","Strategy","Racing","Sports","Fighting","Party","Puzzle","Platformer","Simulation","MMO","Other","Sandbox","Horror","Co-op","MOBA","Battle Royale","Casual","Rhythm","Card","MMORPG","Open World","Unknown"))
     self.assertIsInstance(g.get("verified"),bool)
     if g.get("verified"):
      self.assertTrue(g.get("source"))
