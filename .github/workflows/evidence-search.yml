@@ -1,0 +1,66 @@
+name: Search official crossplay evidence (Brave API)
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '13 6 * * 2'
+  push:
+    paths:
+      - 'scripts/evidence_search.py'
+      - '.github/workflows/evidence-search.yml'
+permissions:
+  contents: write
+concurrency:
+  group: crossplay-evidence-search-main
+  cancel-in-progress: false
+jobs:
+  search:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Check Python syntax
+        run: python -m py_compile scripts/evidence_search.py
+      - name: Require configured Brave Search API key
+        env:
+          BRAVE_SEARCH_API_KEY: ${{ secrets.BRAVE_SEARCH_API_KEY }}
+        run: |
+          if [ -z "$BRAVE_SEARCH_API_KEY" ]; then
+            echo "::error::Missing repository secret BRAVE_SEARCH_API_KEY. Create a Brave Search API subscription and add its token to GitHub Actions secrets."
+            exit 1
+          fi
+      - name: Search every due Pending game in batches of 25
+        env:
+          BRAVE_SEARCH_API_KEY: ${{ secrets.BRAVE_SEARCH_API_KEY }}
+        run: python -u scripts/evidence_search.py
+      - name: Verify report and no automatic promotions
+        if: success()
+        run: |
+          python - <<'PY'
+          import json
+          a=json.load(open('data/evidence-search-report.json'))
+          b=json.load(open('data/evidence-search-state.json'))
+          assert a['counts']['verified_promotions']==0
+          assert len(b['games'])==a['total_saved']
+          print(json.dumps(a,indent=2))
+          PY
+      - name: Persist progress even after partial source failures
+        if: always()
+        run: |
+          if [ -f data/evidence-search-state.json ]; then
+            git config user.name 'github-actions[bot]'
+            git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+            git add data/evidence-search-state.json data/evidence-search-report.json
+            if ! git diff --cached --quiet; then
+              git commit -m 'Save batched official evidence search progress'
+              for attempt in 1 2 3; do
+                git pull --rebase origin main && git push origin HEAD:main && break
+                if [ "$attempt" -eq 3 ]; then exit 1; fi
+                sleep 5
+              done
+            fi
+          fi
