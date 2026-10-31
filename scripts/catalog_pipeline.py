@@ -71,7 +71,11 @@ def collect():
  return result,errors
 def main():
  db=json.loads(DB.read_text());games=db["games"];original=len(games)
- sources,errors=collect();bykey={canonical(g["name"]):g for g in games}
+ sources,errors=collect()
+ if len(sources)<2:
+  REPORT.write_text(json.dumps({"status":"blocked","reason":"Fewer than two usable independent source datasets","sources":{k:len(v) for k,v in sources.items()},"errors":errors},indent=2)+"\n")
+  raise RuntimeError("Insufficient independent sources; refusing to claim a successful discovery run")
+ bykey={canonical(g["name"]):g for g in games}
  evidence={}
  for source,items in sources.items():
   for key,item in items.items():evidence.setdefault(key,[]).append((source,item))
