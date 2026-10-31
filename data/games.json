@@ -1334,18 +1334,19 @@
         "PS5",
         "PC"
       ],
-      "source": "https://store.epicgames.com/news/best-cross-platform-games?lang=hu",
-      "notes": "Publisher/platform official information confirms cross-platform play.",
+      "source": "https://www.ea.com/games/split-fiction/split-fiction/features/friends-pass-playstation",
+      "notes": "EA explicitly confirms PS5 players can invite PC players through cross-play.",
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2001120/header.jpg",
       "verified": true,
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
       "coverStatus": "http_verified",
-      "crossplayAudit": "source_linked_needs_review",
+      "crossplayAudit": "official_publisher_explicit_ps5_pc",
       "gfnAudit": "not_verified",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
-      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
+      "crossplayCheckedAt": "2026-10-31"
     },
     {
       "id": 51,
@@ -1353,22 +1354,23 @@
       "genre": "Co-op",
       "price": "Paid",
       "studio": "Hazelight Studios",
-      "status": "review",
+      "status": "available",
       "platforms": [
         "PS5",
         "PC"
       ],
-      "source": "https://www.google.com/search?q=It%20Takes%20Two%20official%20crossplay%20PS5%20PC",
-      "notes": "Requires official platform and mode verification.",
+      "source": "https://news.ea.com/press-releases/press-releases-details/2026/It-Takes-Two-Launches-on-Nintendo-Switch-2-with-Free-Upgrade-Available-for-Nintendo-Switch-Players-October-15/",
+      "notes": "EA confirms PS5-PC cross-play launched October 15, 2026; Friend's Pass supported.",
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1426210/header.jpg",
-      "verified": false,
+      "verified": true,
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
       "coverStatus": "http_verified",
-      "crossplayAudit": "not_verified",
+      "crossplayAudit": "official_publisher_explicit_ps5_pc",
       "gfnAudit": "not_verified",
-      "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
+      "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
+      "crossplayCheckedAt": "2026-10-31"
     },
     {
       "id": 52,
@@ -3621,19 +3623,23 @@
       "price": "Unknown",
       "studio": "Unknown",
       "status": "available",
-      "platforms": [],
-      "source": "https://store.epicgames.com/news/best-cross-platform-games?lang=hu",
-      "notes": "Publisher/platform official information confirms cross-platform play.",
+      "platforms": [
+        "PS5",
+        "PC"
+      ],
+      "source": "https://blog.playstation.com/2024/12/04/civilization-vii-first-look-at-ps5-gameplay-ahead-of-february-11-launch/",
+      "notes": "PlayStation and Firaxis confirm multiplayer cross-play between PC and consoles including PS5; some lobby size/map restrictions.",
       "image": "",
       "verified": true,
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
       "coverStatus": "missing",
-      "crossplayAudit": "source_linked_needs_review",
+      "crossplayAudit": "official_publisher_explicit_ps5_pc",
       "gfnAudit": "not_verified",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
-      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
+      "crossplayCheckedAt": "2026-10-31"
     },
     {
       "id": 152,
