@@ -1,67 +1,53 @@
-Fortnite: no unique exact Steam match
-Rocket League: no unique exact Steam match
-Fall Guys: no unique exact Steam match
-Minecraft Bedrock: no unique exact Steam match
-World of Warships: Legends: cover unavailable
-EA Sports FC 26: cover unavailable
-F1 25: cover unavailable
-Asphalt Legends Unite: no unique exact Steam match
-MultiVersus: no unique exact Steam match
-Roblox: no unique exact Steam match
-Genshin Impact: no unique exact Steam match
-Honkai: Star Rail: no unique exact Steam match
-Dauntless: no unique exact Steam match
-PEAK: cover unavailable
-Evil Dead: The Game: no unique exact Steam match
-Texas Chain Saw Massacre: no unique exact Steam match
-Realm Royale Reforged: no unique exact Steam match
-KartRider: Drift: no unique exact Steam match
-Rainbow Six Siege X: no unique exact Steam match
-Age of Empires IV: no unique exact Steam match
-Armored Core VI: no unique exact Steam match
-Call of Duty Modern Warfare III: cover unavailable
-Call of Duty Black Ops 6: cover unavailable
-Diablo II Resurrected: no unique exact Steam match
-Diablo Immortal: no unique exact Steam match
-Final Fantasy XIV: no unique exact Steam match
-Ghost Recon Breakpoint: no unique exact Steam match
-Hearthstone: no unique exact Steam match
-Hood Outlaws and Legends: no unique exact Steam match
-Lego 2K Drive: no unique exact Steam match
-Lego Fortnite Odyssey: no unique exact Steam match
-NBA 2K25: no unique exact Steam match
-Rec Room: no unique exact Steam match
-Rumbleverse: no unique exact Steam match
-Splitgate 2: no unique exact Steam match
-Star Wars Hunters: no unique exact Steam match
-Warface Clutch: no unique exact Steam match
-World War Z Aftermath: no unique exact Steam match
-XDefiant: no unique exact Steam match
-Zenless Zone Zero: cover unavailable
-Elder Scrolls Online: no unique exact Steam match
-Civilization VII: no unique exact Steam match
-Borderlands Game of the Year: no unique exact Steam match
-Throne and Liberty: no unique exact Steam match
-Stranded Deep: no unique exact Steam match
-State of Decay 2: no unique exact Steam match
-Hell Let Loose Vietnam: cover unavailable
-Escape from Tarkov: cover unavailable
-Halo Master Chief Collection: no unique exact Steam match
-Gears of War Reloaded: cover unavailable
-Helldivers: no unique exact Steam match
-Call of Duty: Modern Warfare II: cover unavailable
-Where Winds Meet: cover unavailable
-DOOM + DOOM II: no unique exact Steam match
-DKO: Divine Knockout: no unique exact Steam match
-F1 22: no unique exact Steam match
-FIFA 23: no unique exact Steam match
-Ghostbusters: Spirits Unleashed: no unique exact Steam match
-Heavy Metal Machines: no unique exact Steam match
-Hunter's Arena: Legends: no unique exact Steam match
-Hyper Scape: no unique exact Steam match
-Knockout City: no unique exact Steam match
-Madden NFL 24: no unique exact Steam match
-Nerf Legends: no unique exact Steam match
-PGA Tour 2K23: no unique exact Steam match
-Vampire: The Masquerade – Bloodhunt: no unique exact Steam match
-Warlander: no unique exact Steam match
+Fortnite: No validated image from exact-title sources
+Fall Guys: No validated image from exact-title sources
+Minecraft Bedrock: No validated image from exact-title sources
+World of Warships: Legends: No validated image from exact-title sources
+Asphalt Legends Unite: No validated image from exact-title sources
+Roblox: No validated image from exact-title sources
+Dauntless: No validated image from exact-title sources
+PEAK: No validated image from exact-title sources
+Evil Dead: The Game: No validated image from exact-title sources
+Texas Chain Saw Massacre: No validated image from exact-title sources
+Realm Royale Reforged: No validated image from exact-title sources
+Rainbow Six Siege X: No validated image from exact-title sources
+Armored Core VI: No validated image from exact-title sources
+Call of Duty Modern Warfare III: No validated image from exact-title sources
+Diablo II Resurrected: No validated image from exact-title sources
+Diablo Immortal: No validated image from exact-title sources
+Final Fantasy XIV: No validated image from exact-title sources
+Ghost Recon Breakpoint: No validated image from exact-title sources
+Hearthstone: No validated image from exact-title sources
+Hood Outlaws and Legends: No validated image from exact-title sources
+Lego 2K Drive: No validated image from exact-title sources
+Lego Fortnite Odyssey: No validated image from exact-title sources
+NBA 2K25: No validated image from exact-title sources
+Rec Room: No validated image from exact-title sources
+Rumbleverse: No validated image from exact-title sources
+Splitgate 2: No validated image from exact-title sources
+Star Wars Hunters: No validated image from exact-title sources
+Warface Clutch: No validated image from exact-title sources
+World War Z Aftermath: No validated image from exact-title sources
+Zenless Zone Zero: No validated image from exact-title sources
+Elder Scrolls Online: No validated image from exact-title sources
+Borderlands Game of the Year: No validated image from exact-title sources
+State of Decay 2: No validated image from exact-title sources
+Hell Let Loose Vietnam: No validated image from exact-title sources
+Escape from Tarkov: No validated image from exact-title sources
+Halo Master Chief Collection: No validated image from exact-title sources
+Gears of War Reloaded: No validated image from exact-title sources
+Helldivers: No validated image from exact-title sources
+Call of Duty: Modern Warfare II: No validated image from exact-title sources
+DOOM + DOOM II: No validated image from exact-title sources
+DKO: Divine Knockout: No validated image from exact-title sources
+F1 22: No validated image from exact-title sources
+FIFA 23: No validated image from exact-title sources
+Ghostbusters: Spirits Unleashed: No validated image from exact-title sources
+Heavy Metal Machines: No validated image from exact-title sources
+Hunter's Arena: Legends: No validated image from exact-title sources
+Hyper Scape: No validated image from exact-title sources
+Knockout City: No validated image from exact-title sources
+Madden NFL 24: No validated image from exact-title sources
+Nerf Legends: No validated image from exact-title sources
+PGA Tour 2K23: No validated image from exact-title sources
+Vampire: The Masquerade – Bloodhunt: No validated image from exact-title sources
+Warlander: No validated image from exact-title sources

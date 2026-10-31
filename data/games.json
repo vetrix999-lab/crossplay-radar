@@ -45,12 +45,12 @@
       ],
       "source": "https://www.epicgames.com/help/c-37599050/c-32343914/a13381289",
       "notes": "PS5–PC crossplay supported according to linked official source.",
-      "image": "",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Rocket_League_coverart.jpg/330px-Rocket_League_coverart.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "verified": true,
       "crossProgression": "unknown",
       "gfn": "yes",
       "gfnSource": "https://gfn.am/en/games/",
-      "coverStatus": "missing",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "independent_sources_agree_ps5_pc",
       "gfnAudit": "listed_on_geforce_now_partner_catalog",
       "gfnVerifiedAt": "2026-10-31",
@@ -61,7 +61,10 @@
         "https://pickthe.games/games/crossplay/pc-ps5"
       ],
       "crossplayConsensusCount": 2,
-      "crossplayCheckedAt": "2026-10-31"
+      "crossplayCheckedAt": "2026-10-31",
+      "imageSource": "https://en.wikipedia.org/wiki/Rocket_League",
+      "coverCheckedAt": "2026-10-31",
+      "coverMatchType": "wikipedia_illustration"
     },
     {
       "id": 3,
@@ -111,7 +114,7 @@
       "crossProgression": "unknown",
       "gfn": "yes",
       "gfnSource": "https://gfn.am/en/games/",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "independent_sources_agree_ps5_pc",
       "gfnAudit": "listed_on_geforce_now_partner_catalog",
       "gfnVerifiedAt": "2026-10-31",
@@ -123,7 +126,8 @@
         "https://pickthe.games/games/crossplay/pc-ps5"
       ],
       "crossplayConsensusCount": 3,
-      "crossplayCheckedAt": "2026-10-31"
+      "crossplayCheckedAt": "2026-10-31",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 5,
@@ -143,7 +147,7 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "independent_sources_agree_ps5_pc",
       "gfnAudit": "not_verified",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
@@ -155,7 +159,8 @@
       "crossplayConsensusCount": 2,
       "crossplayCheckedAt": "2026-10-31",
       "steamAppId": 1962663,
-      "imageSource": "https://store.steampowered.com/app/1962663/"
+      "imageSource": "https://store.steampowered.com/app/1962663/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 6,
@@ -175,7 +180,7 @@
       "crossProgression": "unknown",
       "gfn": "yes",
       "gfnSource": "https://gfn.am/en/games/",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "independent_sources_agree_ps5_pc",
       "gfnAudit": "listed_on_geforce_now_partner_catalog",
       "gfnVerifiedAt": "2026-10-31",
@@ -186,7 +191,8 @@
         "https://crossplayguide.com/crossplay/pc-and-playstation/"
       ],
       "crossplayConsensusCount": 2,
-      "crossplayCheckedAt": "2026-10-31"
+      "crossplayCheckedAt": "2026-10-31",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 7,
@@ -206,7 +212,7 @@
       "crossProgression": "unknown",
       "gfn": "yes",
       "gfnSource": "https://nvidia.custhelp.com/app/answers/detail/a_id/4812/",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "independent_sources_agree_ps5_pc",
       "gfnAudit": "source_linked_needs_review",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
@@ -218,7 +224,8 @@
         "https://pickthe.games/games/crossplay/pc-ps5"
       ],
       "crossplayConsensusCount": 4,
-      "crossplayCheckedAt": "2026-10-31"
+      "crossplayCheckedAt": "2026-10-31",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 8,
@@ -238,7 +245,7 @@
       "crossProgression": "unknown",
       "gfn": "yes",
       "gfnSource": "https://gfn.am/en/games/",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "independent_sources_agree_ps5_pc",
       "gfnAudit": "listed_on_geforce_now_partner_catalog",
       "gfnVerifiedAt": "2026-10-31",
@@ -249,7 +256,8 @@
         "https://partyqueue.games/discover/pc-playstation"
       ],
       "crossplayConsensusCount": 2,
-      "crossplayCheckedAt": "2026-10-31"
+      "crossplayCheckedAt": "2026-10-31",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 9,
@@ -269,12 +277,13 @@
       "crossProgression": "unknown",
       "gfn": "yes",
       "gfnSource": "https://gfn.am/en/games/",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "listed_on_geforce_now_partner_catalog",
       "gfnVerifiedAt": "2026-10-31",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
-      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 10,
@@ -294,12 +303,13 @@
       "crossProgression": "unknown",
       "gfn": "yes",
       "gfnSource": "https://gfn.am/en/games/",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "listed_on_geforce_now_partner_catalog",
       "gfnVerifiedAt": "2026-10-31",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
-      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 11,
@@ -319,7 +329,7 @@
       "crossProgression": "unknown",
       "gfn": "yes",
       "gfnSource": "https://gfn.am/en/games/",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "independent_sources_agree_ps5_pc",
       "gfnAudit": "listed_on_geforce_now_partner_catalog",
       "gfnVerifiedAt": "2026-10-31",
@@ -330,7 +340,8 @@
         "https://crossplayguide.com/crossplay/pc-and-playstation/"
       ],
       "crossplayConsensusCount": 2,
-      "crossplayCheckedAt": "2026-10-31"
+      "crossplayCheckedAt": "2026-10-31",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 12,
@@ -350,7 +361,7 @@
       "crossProgression": "yes",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "independent_sources_agree_ps5_pc",
       "gfnAudit": "not_verified",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
@@ -360,7 +371,8 @@
         "https://partyqueue.games/discover/pc-playstation"
       ],
       "crossplayConsensusCount": 2,
-      "crossplayCheckedAt": "2026-10-31"
+      "crossplayCheckedAt": "2026-10-31",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 13,
@@ -380,7 +392,7 @@
       "crossProgression": "unknown",
       "gfn": "yes",
       "gfnSource": "https://blogs.nvidia.com/blog/geforce-now-thursday-september-2026-games-list/",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "independent_sources_agree_ps5_pc",
       "gfnAudit": "source_linked_needs_review",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
@@ -390,7 +402,8 @@
         "https://partyqueue.games/discover/pc-playstation"
       ],
       "crossplayConsensusCount": 2,
-      "crossplayCheckedAt": "2026-10-31"
+      "crossplayCheckedAt": "2026-10-31",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 14,
@@ -410,13 +423,14 @@
       "crossProgression": "no",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "official_developer_ps5_pc_confirmed",
       "gfnAudit": "not_verified",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
       "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
       "crossProgressionSource": "https://arrowhead.zendesk.com/hc/en-us/articles/12517679456156-Does-Helldivers-2-have-cross-progression-Can-I-transfer-my-stuff-to-another-account",
-      "crossplayCheckedAt": "2026-10-31"
+      "crossplayCheckedAt": "2026-10-31",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 15,
@@ -436,7 +450,7 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "independent_sources_agree_ps5_pc",
       "gfnAudit": "not_verified",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
@@ -448,7 +462,8 @@
         "https://pickthe.games/games/crossplay/pc-ps5"
       ],
       "crossplayConsensusCount": 4,
-      "crossplayCheckedAt": "2026-10-31"
+      "crossplayCheckedAt": "2026-10-31",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 16,
@@ -498,13 +513,14 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
       "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
       "steamAppId": 1672970,
-      "imageSource": "https://store.steampowered.com/app/1672970/"
+      "imageSource": "https://store.steampowered.com/app/1672970/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 18,
@@ -524,11 +540,12 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
-      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 19,
@@ -548,7 +565,7 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "independent_sources_agree_ps5_pc",
       "gfnAudit": "not_verified",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
@@ -559,7 +576,8 @@
         "https://pickthe.games/games/crossplay/pc-ps5"
       ],
       "crossplayConsensusCount": 3,
-      "crossplayCheckedAt": "2026-10-31"
+      "crossplayCheckedAt": "2026-10-31",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 20,
@@ -579,12 +597,13 @@
       "crossProgression": "unknown",
       "gfn": "yes",
       "gfnSource": "https://gfn.am/en/games/",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "listed_on_geforce_now_partner_catalog",
       "gfnVerifiedAt": "2026-10-31",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
-      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 21,
@@ -604,13 +623,14 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
       "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
       "steamAppId": 2437170,
-      "imageSource": "https://store.steampowered.com/app/2437170/"
+      "imageSource": "https://store.steampowered.com/app/2437170/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 22,
@@ -630,11 +650,12 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
-      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 23,
@@ -654,12 +675,13 @@
       "crossProgression": "limited",
       "gfn": "yes",
       "gfnSource": "https://gfn.am/en/games/",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "source_linked_needs_review",
       "gfnAudit": "listed_on_geforce_now_partner_catalog",
       "gfnVerifiedAt": "2026-10-31",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
-      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 24,
@@ -702,13 +724,14 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
       "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
       "steamAppId": 444090,
-      "imageSource": "https://store.steampowered.com/app/444090/"
+      "imageSource": "https://store.steampowered.com/app/444090/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 26,
@@ -728,7 +751,7 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "independent_sources_agree_ps5_pc",
       "gfnAudit": "not_verified",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
@@ -740,7 +763,8 @@
         "https://pickthe.games/games/crossplay/pc-ps5"
       ],
       "crossplayConsensusCount": 4,
-      "crossplayCheckedAt": "2026-10-31"
+      "crossplayCheckedAt": "2026-10-31",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 27,
@@ -760,13 +784,14 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
       "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
       "steamAppId": 1286680,
-      "imageSource": "https://store.steampowered.com/app/1286680/"
+      "imageSource": "https://store.steampowered.com/app/1286680/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 28,
@@ -786,12 +811,13 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 924970,
-      "imageSource": "https://store.steampowered.com/app/924970/"
+      "imageSource": "https://store.steampowered.com/app/924970/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 29,
@@ -811,11 +837,12 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
-      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 30,
@@ -835,11 +862,12 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
-      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 31,
@@ -859,13 +887,14 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
       "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
       "steamAppId": 1971870,
-      "imageSource": "https://store.steampowered.com/app/1971870/"
+      "imageSource": "https://store.steampowered.com/app/1971870/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 32,
@@ -885,7 +914,7 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "independent_sources_agree_ps5_pc",
       "gfnAudit": "not_verified",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
@@ -895,7 +924,8 @@
         "https://pickthe.games/games/crossplay/pc-ps5"
       ],
       "crossplayConsensusCount": 2,
-      "crossplayCheckedAt": "2026-10-31"
+      "crossplayCheckedAt": "2026-10-31",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 33,
@@ -915,7 +945,7 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "independent_sources_agree_ps5_pc",
       "gfnAudit": "not_verified",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
@@ -925,7 +955,8 @@
         "https://pickthe.games/games/crossplay/pc-ps5"
       ],
       "crossplayConsensusCount": 2,
-      "crossplayCheckedAt": "2026-10-31"
+      "crossplayCheckedAt": "2026-10-31",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 34,
@@ -940,17 +971,20 @@
       ],
       "source": "https://help.ea.com/en/articles/ea-sports-fc/cross-play/",
       "notes": "EA support confirms current-generation cross-play grouping: PS5, Xbox Series X|S, and PC; PS4 is a separate pool.",
-      "image": "",
+      "image": "https://upload.wikimedia.org/wikipedia/en/2/2f/FC_26_Cover.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "verified": true,
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "missing",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "official_support_explicit_ps5_pc",
       "gfnAudit": "not_verified",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
       "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
-      "crossplayCheckedAt": "2026-10-31"
+      "crossplayCheckedAt": "2026-10-31",
+      "imageSource": "https://en.wikipedia.org/wiki/EA_Sports_FC_26",
+      "coverCheckedAt": "2026-10-31",
+      "coverMatchType": "wikipedia_illustration"
     },
     {
       "id": 35,
@@ -965,17 +999,20 @@
       ],
       "source": "https://help.ea.com/en/articles/f1/f1-25/how-to-cross-play/",
       "notes": "EA support lists PC and PlayStation 5 in F1 25 cross-play, including online competitive modes.",
-      "image": "",
+      "image": "https://upload.wikimedia.org/wikipedia/en/9/9e/F1_25_cover_art.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "verified": true,
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "missing",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "official_support_explicit_ps5_pc",
       "gfnAudit": "not_verified",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
       "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
-      "crossplayCheckedAt": "2026-10-31"
+      "crossplayCheckedAt": "2026-10-31",
+      "imageSource": "https://en.wikipedia.org/wiki/F1_25",
+      "coverCheckedAt": "2026-10-31",
+      "coverMatchType": "wikipedia_illustration"
     },
     {
       "id": 36,
@@ -995,14 +1032,15 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "official_support_explicit_ps5_pc",
       "gfnAudit": "not_verified",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
       "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
       "steamAppId": 1846380,
       "imageSource": "https://store.steampowered.com/app/1846380/",
-      "crossplayCheckedAt": "2026-10-31"
+      "crossplayCheckedAt": "2026-10-31",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 37,
@@ -1022,13 +1060,14 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
       "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
       "steamAppId": 1537830,
-      "imageSource": "https://store.steampowered.com/app/1537830/"
+      "imageSource": "https://store.steampowered.com/app/1537830/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 38,
@@ -1067,15 +1106,18 @@
       ],
       "source": "https://www.google.com/search?q=MultiVersus%20official%20crossplay%20PS5%20PC",
       "notes": "Requires official platform and mode verification.",
-      "image": "",
+      "image": "https://thumb.wikimedia.org/wikipedia/en/thumb/1/1d/MultiVersus_Cover_Art.png/330px-MultiVersus_Cover_Art.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "missing",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
-      "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
+      "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
+      "imageSource": "https://en.wikipedia.org/wiki/MultiVersus",
+      "coverCheckedAt": "2026-10-31",
+      "coverMatchType": "wikipedia_illustration"
     },
     {
       "id": 40,
@@ -1114,12 +1156,12 @@
       ],
       "source": "https://store.epicgames.com/news/best-cross-platform-games?lang=hu",
       "notes": "Publisher/platform official information confirms cross-platform play.",
-      "image": "",
+      "image": "https://thumb.wikimedia.org/wikipedia/en/thumb/5/5d/Genshin_Impact_logo.svg/330px-Genshin_Impact_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "verified": true,
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "missing",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "independent_sources_agree_ps5_pc",
       "gfnAudit": "not_verified",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
@@ -1129,7 +1171,10 @@
         "https://pickthe.games/games/crossplay/pc-ps5"
       ],
       "crossplayConsensusCount": 2,
-      "crossplayCheckedAt": "2026-10-31"
+      "crossplayCheckedAt": "2026-10-31",
+      "imageSource": "https://en.wikipedia.org/wiki/Genshin_Impact",
+      "coverCheckedAt": "2026-10-31",
+      "coverMatchType": "wikipedia_illustration"
     },
     {
       "id": 42,
@@ -1144,16 +1189,19 @@
       ],
       "source": "https://www.google.com/search?q=Honkai%3A%20Star%20Rail%20official%20crossplay%20PS5%20PC",
       "notes": "Requires official platform and mode verification.",
-      "image": "",
+      "image": "https://thumb.wikimedia.org/wikipedia/en/thumb/8/8e/Honkai_Star_Rail_logo.svg/330px-Honkai_Star_Rail_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "yes",
       "gfnSource": "https://gfn.am/en/games/",
-      "coverStatus": "missing",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "listed_on_geforce_now_partner_catalog",
       "gfnVerifiedAt": "2026-10-31",
-      "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
+      "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
+      "imageSource": "https://en.wikipedia.org/wiki/Honkai%3A_Star_Rail",
+      "coverCheckedAt": "2026-10-31",
+      "coverMatchType": "wikipedia_illustration"
     },
     {
       "id": 43,
@@ -1173,12 +1221,13 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 2064650,
-      "imageSource": "https://store.steampowered.com/app/2064650/"
+      "imageSource": "https://store.steampowered.com/app/2064650/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 44,
@@ -1221,11 +1270,12 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
-      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 46,
@@ -1245,11 +1295,12 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
-      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 47,
@@ -1269,13 +1320,14 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
       "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
       "steamAppId": 238960,
-      "imageSource": "https://store.steampowered.com/app/238960/"
+      "imageSource": "https://store.steampowered.com/app/238960/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 48,
@@ -1295,11 +1347,12 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
-      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 49,
@@ -1319,12 +1372,13 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 2486820,
-      "imageSource": "https://store.steampowered.com/app/2486820/"
+      "imageSource": "https://store.steampowered.com/app/2486820/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 50,
@@ -1344,12 +1398,13 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "official_publisher_explicit_ps5_pc",
       "gfnAudit": "not_verified",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
       "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
-      "crossplayCheckedAt": "2026-10-31"
+      "crossplayCheckedAt": "2026-10-31",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 51,
@@ -1369,11 +1424,12 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "official_publisher_explicit_ps5_pc",
       "gfnAudit": "not_verified",
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
-      "crossplayCheckedAt": "2026-10-31"
+      "crossplayCheckedAt": "2026-10-31",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 52,
@@ -1393,11 +1449,12 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
-      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 53,
@@ -1417,12 +1474,13 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 581320,
-      "imageSource": "https://store.steampowered.com/app/581320/"
+      "imageSource": "https://store.steampowered.com/app/581320/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 54,
@@ -1442,12 +1500,13 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 686810,
-      "imageSource": "https://store.steampowered.com/app/686810/"
+      "imageSource": "https://store.steampowered.com/app/686810/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 55,
@@ -1467,11 +1526,12 @@
       "crossProgression": "unknown",
       "gfn": "yes",
       "gfnSource": "https://gfn.am/en/games/",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "developer_confirms_not_available",
       "gfnAudit": "listed_on_geforce_now_partner_catalog",
       "gfnVerifiedAt": "2026-10-31",
-      "crossplayCheckedAt": "2026-10-31"
+      "crossplayCheckedAt": "2026-10-31",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 56,
@@ -1515,10 +1575,11 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
-      "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
+      "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 58,
@@ -1538,11 +1599,12 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
-      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 59,
@@ -1562,10 +1624,11 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "ps5_pc_not_supported",
       "gfnAudit": "not_verified",
-      "crossplayCheckedAt": "2026-10-31"
+      "crossplayCheckedAt": "2026-10-31",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 60,
@@ -1585,12 +1648,13 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 632360,
-      "imageSource": "https://store.steampowered.com/app/632360/"
+      "imageSource": "https://store.steampowered.com/app/632360/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 61,
@@ -1610,11 +1674,12 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
-      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 62,
@@ -1634,11 +1699,12 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
-      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 63,
@@ -1658,12 +1724,13 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 1938010,
-      "imageSource": "https://store.steampowered.com/app/1938010/"
+      "imageSource": "https://store.steampowered.com/app/1938010/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 64,
@@ -1683,12 +1750,13 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 1286320,
-      "imageSource": "https://store.steampowered.com/app/1286320/"
+      "imageSource": "https://store.steampowered.com/app/1286320/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 65,
@@ -1708,12 +1776,13 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 680420,
-      "imageSource": "https://store.steampowered.com/app/680420/"
+      "imageSource": "https://store.steampowered.com/app/680420/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 66,
@@ -1733,12 +1802,13 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 1549970,
-      "imageSource": "https://store.steampowered.com/app/1549970/"
+      "imageSource": "https://store.steampowered.com/app/1549970/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 67,
@@ -1781,12 +1851,13 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 1556200,
-      "imageSource": "https://store.steampowered.com/app/1556200/"
+      "imageSource": "https://store.steampowered.com/app/1556200/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 69,
@@ -1806,12 +1877,13 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 1556100,
-      "imageSource": "https://store.steampowered.com/app/1556100/"
+      "imageSource": "https://store.steampowered.com/app/1556100/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 70,
@@ -1855,12 +1927,13 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 820520,
-      "imageSource": "https://store.steampowered.com/app/820520/"
+      "imageSource": "https://store.steampowered.com/app/820520/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 72,
@@ -1880,13 +1953,14 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
       "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
       "steamAppId": 872200,
-      "imageSource": "https://store.steampowered.com/app/872200/"
+      "imageSource": "https://store.steampowered.com/app/872200/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 73,
@@ -1929,13 +2003,14 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
       "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
       "steamAppId": 843380,
-      "imageSource": "https://store.steampowered.com/app/843380/"
+      "imageSource": "https://store.steampowered.com/app/843380/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 75,
@@ -1955,12 +2030,13 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 1869590,
-      "imageSource": "https://store.steampowered.com/app/1869590/"
+      "imageSource": "https://store.steampowered.com/app/1869590/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 76,
@@ -1980,13 +2056,14 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
       "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
       "steamAppId": 918570,
-      "imageSource": "https://store.steampowered.com/app/918570/"
+      "imageSource": "https://store.steampowered.com/app/918570/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 77,
@@ -2001,15 +2078,18 @@
       ],
       "source": "https://www.google.com/search?q=KartRider%3A%20Drift%20official%20crossplay%20PS5%20PC",
       "notes": "Requires official platform and mode verification.",
-      "image": "",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/KR-logo-BlackBlue.png/330px-KR-logo-BlackBlue.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "missing",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
-      "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
+      "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
+      "imageSource": "https://en.wikipedia.org/wiki/KartRider%3A_Drift",
+      "coverCheckedAt": "2026-10-31",
+      "coverMatchType": "wikipedia_illustration"
     },
     {
       "id": 78,
@@ -2029,14 +2109,15 @@
       "crossProgression": "unknown",
       "gfn": "yes",
       "gfnSource": "https://gfn.am/en/games/",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "listed_on_geforce_now_partner_catalog",
       "gfnVerifiedAt": "2026-10-31",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
       "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
       "steamAppId": 2290180,
-      "imageSource": "https://store.steampowered.com/app/2290180/"
+      "imageSource": "https://store.steampowered.com/app/2290180/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 79,
@@ -2056,13 +2137,14 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
       "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
       "steamAppId": 2853730,
-      "imageSource": "https://store.steampowered.com/app/2853730/"
+      "imageSource": "https://store.steampowered.com/app/2853730/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 80,
@@ -2082,13 +2164,14 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
       "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
       "steamAppId": 2840770,
-      "imageSource": "https://store.steampowered.com/app/2840770/"
+      "imageSource": "https://store.steampowered.com/app/2840770/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 81,
@@ -2132,11 +2215,12 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
-      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 83,
@@ -2156,14 +2240,15 @@
       "crossProgression": "unknown",
       "gfn": "yes",
       "gfnSource": "https://gfn.am/en/games/",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "listed_on_geforce_now_partner_catalog",
       "gfnVerifiedAt": "2026-10-31",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
       "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
       "steamAppId": 2139460,
-      "imageSource": "https://store.steampowered.com/app/2139460/"
+      "imageSource": "https://store.steampowered.com/app/2139460/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 84,
@@ -2183,13 +2268,14 @@
       "crossProgression": "unknown",
       "gfn": "yes",
       "gfnSource": "https://blogs.nvidia.com/blog/geforce-now-thursday-october-2026-games-list/",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "announced_on_nvidia_blog",
       "gfnVerifiedAt": "2026-10-31",
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 1172710,
-      "imageSource": "https://store.steampowered.com/app/1172710/"
+      "imageSource": "https://store.steampowered.com/app/1172710/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 85,
@@ -2209,11 +2295,12 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
-      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 86,
@@ -2230,13 +2317,14 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
       "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
       "steamAppId": 251570,
-      "imageSource": "https://store.steampowered.com/app/251570/"
+      "imageSource": "https://store.steampowered.com/app/251570/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 87,
@@ -2253,13 +2341,14 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
       "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
       "steamAppId": 427410,
-      "imageSource": "https://store.steampowered.com/app/427410/"
+      "imageSource": "https://store.steampowered.com/app/427410/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 88,
@@ -2271,16 +2360,19 @@
       "platforms": [],
       "source": "",
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
-      "image": "",
+      "image": "https://upload.wikimedia.org/wikipedia/en/0/08/Age_of_Empires_IV_Cover_Art.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "missing",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
-      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
+      "imageSource": "https://en.wikipedia.org/wiki/Age_of_Empires_IV",
+      "coverCheckedAt": "2026-10-31",
+      "coverMatchType": "wikipedia_illustration"
     },
     {
       "id": 89,
@@ -2297,12 +2389,13 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 1158370,
-      "imageSource": "https://store.steampowered.com/app/1158370/"
+      "imageSource": "https://store.steampowered.com/app/1158370/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 90,
@@ -2339,12 +2432,13 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 361420,
-      "imageSource": "https://store.steampowered.com/app/361420/"
+      "imageSource": "https://store.steampowered.com/app/361420/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 92,
@@ -2364,12 +2458,13 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "official_support_explicit_ps5_pc",
       "gfnAudit": "not_verified",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
       "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
-      "crossplayCheckedAt": "2026-10-31"
+      "crossplayCheckedAt": "2026-10-31",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 93,
@@ -2386,12 +2481,13 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 1238810,
-      "imageSource": "https://store.steampowered.com/app/1238810/"
+      "imageSource": "https://store.steampowered.com/app/1238810/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 94,
@@ -2423,17 +2519,20 @@
       "platforms": [],
       "source": "",
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
-      "image": "",
+      "image": "https://upload.wikimedia.org/wikipedia/en/c/c9/Call_of_Duty_Black_Ops_6_Key_Art.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "yes",
       "gfnSource": "https://blogs.nvidia.com/blog/geforce-now-thursday-august-2026-games-list/",
-      "coverStatus": "missing",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "announced_on_nvidia_blog",
       "gfnVerifiedAt": "2026-10-31",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
-      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
+      "imageSource": "https://en.wikipedia.org/wiki/Call_of_Duty%3A_Black_Ops_6",
+      "coverCheckedAt": "2026-10-31",
+      "coverMatchType": "wikipedia_illustration"
     },
     {
       "id": 96,
@@ -2491,13 +2590,14 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
       "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
       "steamAppId": 1790600,
-      "imageSource": "https://store.steampowered.com/app/1790600/"
+      "imageSource": "https://store.steampowered.com/app/1790600/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 99,
@@ -2514,11 +2614,12 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
-      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 100,
@@ -2535,11 +2636,12 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
-      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 101,
@@ -2556,11 +2658,12 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
-      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 102,
@@ -2598,11 +2701,12 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
-      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 104,
@@ -2639,12 +2743,13 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 881020,
-      "imageSource": "https://store.steampowered.com/app/881020/"
+      "imageSource": "https://store.steampowered.com/app/881020/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 106,
@@ -2702,11 +2807,12 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
-      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 109,
@@ -2723,11 +2829,12 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
-      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 110,
@@ -2744,13 +2851,14 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
       "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
       "steamAppId": 577940,
-      "imageSource": "https://store.steampowered.com/app/577940/"
+      "imageSource": "https://store.steampowered.com/app/577940/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 111,
@@ -2808,12 +2916,13 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 1997040,
-      "imageSource": "https://store.steampowered.com/app/1997040/"
+      "imageSource": "https://store.steampowered.com/app/1997040/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 114,
@@ -2830,12 +2939,13 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 1928870,
-      "imageSource": "https://store.steampowered.com/app/1928870/"
+      "imageSource": "https://store.steampowered.com/app/1928870/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 115,
@@ -2852,13 +2962,14 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
       "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
       "steamAppId": 1203220,
-      "imageSource": "https://store.steampowered.com/app/1203220/"
+      "imageSource": "https://store.steampowered.com/app/1203220/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 116,
@@ -2895,11 +3006,12 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
-      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 118,
@@ -2916,12 +3028,13 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 1260320,
-      "imageSource": "https://store.steampowered.com/app/1260320/"
+      "imageSource": "https://store.steampowered.com/app/1260320/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 119,
@@ -2938,7 +3051,7 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "independent_sources_agree_ps5_pc",
       "gfnAudit": "not_verified",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
@@ -2948,7 +3061,8 @@
         "https://partyqueue.games/discover/pc-playstation"
       ],
       "crossplayConsensusCount": 2,
-      "crossplayCheckedAt": "2026-10-31"
+      "crossplayCheckedAt": "2026-10-31",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 120,
@@ -2965,12 +3079,13 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 1056640,
-      "imageSource": "https://store.steampowered.com/app/1056640/"
+      "imageSource": "https://store.steampowered.com/app/1056640/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 121,
@@ -2987,12 +3102,13 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 1262240,
-      "imageSource": "https://store.steampowered.com/app/1262240/"
+      "imageSource": "https://store.steampowered.com/app/1262240/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 122,
@@ -3009,13 +3125,14 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
       "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
       "steamAppId": 1290000,
-      "imageSource": "https://store.steampowered.com/app/1290000/"
+      "imageSource": "https://store.steampowered.com/app/1290000/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 123,
@@ -3032,12 +3149,13 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 578080,
-      "imageSource": "https://store.steampowered.com/app/578080/"
+      "imageSource": "https://store.steampowered.com/app/578080/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 124,
@@ -3075,12 +3193,13 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 2211280,
-      "imageSource": "https://store.steampowered.com/app/2211280/"
+      "imageSource": "https://store.steampowered.com/app/2211280/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 126,
@@ -3117,11 +3236,12 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
-      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 128,
@@ -3179,12 +3299,13 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 1222730,
-      "imageSource": "https://store.steampowered.com/app/1222730/"
+      "imageSource": "https://store.steampowered.com/app/1222730/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 131,
@@ -3201,12 +3322,13 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 1913740,
-      "imageSource": "https://store.steampowered.com/app/1913740/"
+      "imageSource": "https://store.steampowered.com/app/1913740/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 132,
@@ -3223,12 +3345,13 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 745920,
-      "imageSource": "https://store.steampowered.com/app/745920/"
+      "imageSource": "https://store.steampowered.com/app/745920/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 133,
@@ -3245,11 +3368,12 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
-      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 134,
@@ -3266,12 +3390,13 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 1577120,
-      "imageSource": "https://store.steampowered.com/app/1577120/"
+      "imageSource": "https://store.steampowered.com/app/1577120/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 135,
@@ -3288,12 +3413,13 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 2221490,
-      "imageSource": "https://store.steampowered.com/app/2221490/"
+      "imageSource": "https://store.steampowered.com/app/2221490/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 136,
@@ -3310,14 +3436,15 @@
       "crossProgression": "unknown",
       "gfn": "yes",
       "gfnSource": "https://gfn.am/en/games/",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "listed_on_geforce_now_partner_catalog",
       "gfnVerifiedAt": "2026-10-31",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
       "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
       "steamAppId": 2225070,
-      "imageSource": "https://store.steampowered.com/app/2225070/"
+      "imageSource": "https://store.steampowered.com/app/2225070/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 137,
@@ -3334,12 +3461,13 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 858820,
-      "imageSource": "https://store.steampowered.com/app/858820/"
+      "imageSource": "https://store.steampowered.com/app/858820/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 138,
@@ -3356,10 +3484,11 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
-      "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
+      "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 139,
@@ -3417,12 +3546,13 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 1186040,
-      "imageSource": "https://store.steampowered.com/app/1186040/"
+      "imageSource": "https://store.steampowered.com/app/1186040/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 142,
@@ -3439,13 +3569,14 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
       "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
       "steamAppId": 228380,
-      "imageSource": "https://store.steampowered.com/app/228380/"
+      "imageSource": "https://store.steampowered.com/app/228380/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 143,
@@ -3457,15 +3588,18 @@
       "platforms": [],
       "source": "",
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
-      "image": "",
+      "image": "https://upload.wikimedia.org/wikipedia/en/a/ad/XDefiant_covert_art.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "missing",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
-      "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
+      "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
+      "imageSource": "https://en.wikipedia.org/wiki/XDefiant",
+      "coverCheckedAt": "2026-10-31",
+      "coverMatchType": "wikipedia_illustration"
     },
     {
       "id": 144,
@@ -3482,12 +3616,13 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 1449850,
-      "imageSource": "https://store.steampowered.com/app/1449850/"
+      "imageSource": "https://store.steampowered.com/app/1449850/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 145,
@@ -3546,11 +3681,12 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
-      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 148,
@@ -3567,12 +3703,13 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 552500,
-      "imageSource": "https://store.steampowered.com/app/552500/"
+      "imageSource": "https://store.steampowered.com/app/552500/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 149,
@@ -3589,11 +3726,12 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
-      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 150,
@@ -3610,7 +3748,7 @@
       "crossProgression": "unknown",
       "gfn": "yes",
       "gfnSource": "https://gfn.am/en/games/",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "independent_sources_agree_ps5_pc",
       "gfnAudit": "listed_on_geforce_now_partner_catalog",
       "gfnVerifiedAt": "2026-10-31",
@@ -3621,7 +3759,8 @@
         "https://partyqueue.games/discover/pc-playstation"
       ],
       "crossplayConsensusCount": 2,
-      "crossplayCheckedAt": "2026-10-31"
+      "crossplayCheckedAt": "2026-10-31",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 151,
@@ -3636,17 +3775,20 @@
       ],
       "source": "https://store.2k.com/game/buy-civilization-7?drm=PlayStation+5",
       "notes": "2K official PlayStation 5 store page confirms cross-play between PC and consoles; multiplayer match-size restrictions may apply.",
-      "image": "",
+      "image": "https://upload.wikimedia.org/wikipedia/en/d/d5/Civilization_VII_cover.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "verified": true,
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "missing",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "official_publisher_explicit_ps5_pc",
       "gfnAudit": "not_verified",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
       "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
-      "crossplayCheckedAt": "2026-10-31"
+      "crossplayCheckedAt": "2026-10-31",
+      "imageSource": "https://en.wikipedia.org/wiki/Civilization_VII",
+      "coverCheckedAt": "2026-10-31",
+      "coverMatchType": "wikipedia_illustration"
     },
     {
       "id": 152,
@@ -3663,11 +3805,12 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "source_linked_needs_review",
       "gfnAudit": "not_verified",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
-      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 153,
@@ -3684,12 +3827,13 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 49520,
-      "imageSource": "https://store.steampowered.com/app/49520/"
+      "imageSource": "https://store.steampowered.com/app/49520/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 154,
@@ -3706,12 +3850,13 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 261640,
-      "imageSource": "https://store.steampowered.com/app/261640/"
+      "imageSource": "https://store.steampowered.com/app/261640/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 155,
@@ -3748,12 +3893,13 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 934700,
-      "imageSource": "https://store.steampowered.com/app/934700/"
+      "imageSource": "https://store.steampowered.com/app/934700/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 157,
@@ -3770,10 +3916,11 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
-      "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
+      "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 158,
@@ -3790,12 +3937,13 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 3008130,
-      "imageSource": "https://store.steampowered.com/app/3008130/"
+      "imageSource": "https://store.steampowered.com/app/3008130/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 159,
@@ -3812,13 +3960,14 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
       "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
       "steamAppId": 1430190,
-      "imageSource": "https://store.steampowered.com/app/1430190/"
+      "imageSource": "https://store.steampowered.com/app/1430190/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 160,
@@ -3835,12 +3984,13 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 232090,
-      "imageSource": "https://store.steampowered.com/app/232090/"
+      "imageSource": "https://store.steampowered.com/app/232090/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 161,
@@ -3857,11 +4007,12 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
-      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 162,
@@ -3878,11 +4029,12 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
-      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 163,
@@ -3894,16 +4046,19 @@
       "platforms": [],
       "source": "",
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
-      "image": "",
+      "image": "https://thumb.wikimedia.org/wikipedia/en/thumb/6/6e/Project_TL_logo.png/330px-Project_TL_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "missing",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
-      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions"
+      "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
+      "imageSource": "https://en.wikipedia.org/wiki/Throne_and_Liberty",
+      "coverCheckedAt": "2026-10-31",
+      "coverMatchType": "wikipedia_illustration"
     },
     {
       "id": 164,
@@ -3920,12 +4075,13 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 1966720,
-      "imageSource": "https://store.steampowered.com/app/1966720/"
+      "imageSource": "https://store.steampowered.com/app/1966720/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 165,
@@ -3942,12 +4098,13 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 2881650,
-      "imageSource": "https://store.steampowered.com/app/2881650/"
+      "imageSource": "https://store.steampowered.com/app/2881650/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 166,
@@ -3964,12 +4121,13 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 3241660,
-      "imageSource": "https://store.steampowered.com/app/3241660/"
+      "imageSource": "https://store.steampowered.com/app/3241660/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 167,
@@ -3986,12 +4144,13 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 3164500,
-      "imageSource": "https://store.steampowered.com/app/3164500/"
+      "imageSource": "https://store.steampowered.com/app/3164500/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 168,
@@ -4008,10 +4167,11 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
-      "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
+      "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 169,
@@ -4028,13 +4188,14 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
       "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
       "steamAppId": 648800,
-      "imageSource": "https://store.steampowered.com/app/648800/"
+      "imageSource": "https://store.steampowered.com/app/648800/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 170,
@@ -4051,12 +4212,13 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "ps5_pc_not_supported",
       "gfnAudit": "not_verified",
       "crossplayCheckedAt": "2026-10-31",
       "steamAppId": 242760,
-      "imageSource": "https://store.steampowered.com/app/242760/"
+      "imageSource": "https://store.steampowered.com/app/242760/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 171,
@@ -4073,12 +4235,13 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 1326470,
-      "imageSource": "https://store.steampowered.com/app/1326470/"
+      "imageSource": "https://store.steampowered.com/app/1326470/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 172,
@@ -4090,15 +4253,18 @@
       "platforms": [],
       "source": "",
       "notes": "Candidate only. PS5 availability and PS5–PC crossplay have not been verified.",
-      "image": "",
+      "image": "https://thumb.wikimedia.org/wikipedia/en/thumb/2/2a/Stranded_Deep_%282015_video_game%29_logo.jpg/330px-Stranded_Deep_%282015_video_game%29_logo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "missing",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
-      "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
+      "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
+      "imageSource": "https://en.wikipedia.org/wiki/Stranded_Deep",
+      "coverCheckedAt": "2026-10-31",
+      "coverMatchType": "wikipedia_illustration"
     },
     {
       "id": 173,
@@ -4115,10 +4281,11 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
-      "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
+      "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 174,
@@ -4135,10 +4302,11 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
-      "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
+      "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 175,
@@ -4155,12 +4323,13 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 1962700,
-      "imageSource": "https://store.steampowered.com/app/1962700/"
+      "imageSource": "https://store.steampowered.com/app/1962700/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 176,
@@ -4177,10 +4346,11 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
-      "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
+      "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 177,
@@ -4197,10 +4367,11 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
-      "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
+      "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 178,
@@ -4217,10 +4388,11 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
-      "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
+      "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 179,
@@ -4237,11 +4409,12 @@
       "crossProgression": "unknown",
       "gfn": "yes",
       "gfnSource": "https://gfn.am/en/games/",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "listed_on_geforce_now_partner_catalog",
       "gfnVerifiedAt": "2026-10-31",
-      "crossplayResearchStatus": "needs_platform_specific_official_confirmation"
+      "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 180,
@@ -4258,12 +4431,13 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 108600,
-      "imageSource": "https://store.steampowered.com/app/108600/"
+      "imageSource": "https://store.steampowered.com/app/108600/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 181,
@@ -4300,12 +4474,13 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 1340720,
-      "imageSource": "https://store.steampowered.com/app/1340720/"
+      "imageSource": "https://store.steampowered.com/app/1340720/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 183,
@@ -4322,12 +4497,13 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 16900,
-      "imageSource": "https://store.steampowered.com/app/16900/"
+      "imageSource": "https://store.steampowered.com/app/16900/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 184,
@@ -4344,13 +4520,14 @@
       "crossProgression": "unknown",
       "gfn": "yes",
       "gfnSource": "https://gfn.am/en/games/",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "listed_on_geforce_now_partner_catalog",
       "gfnVerifiedAt": "2026-10-31",
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 393380,
-      "imageSource": "https://store.steampowered.com/app/393380/"
+      "imageSource": "https://store.steampowered.com/app/393380/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 185,
@@ -4388,13 +4565,14 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
       "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
       "steamAppId": 1874880,
-      "imageSource": "https://store.steampowered.com/app/1874880/"
+      "imageSource": "https://store.steampowered.com/app/1874880/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 187,
@@ -4411,12 +4589,13 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 107410,
-      "imageSource": "https://store.steampowered.com/app/107410/"
+      "imageSource": "https://store.steampowered.com/app/107410/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 188,
@@ -4433,12 +4612,13 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 2479810,
-      "imageSource": "https://store.steampowered.com/app/2479810/"
+      "imageSource": "https://store.steampowered.com/app/2479810/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 189,
@@ -4475,12 +4655,13 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 2073620,
-      "imageSource": "https://store.steampowered.com/app/2073620/"
+      "imageSource": "https://store.steampowered.com/app/2073620/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 191,
@@ -4497,14 +4678,15 @@
       "crossProgression": "unknown",
       "gfn": "yes",
       "gfnSource": "https://gfn.am/en/games/",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "listed_on_geforce_now_partner_catalog",
       "gfnVerifiedAt": "2026-10-31",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
       "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
       "steamAppId": 2507950,
-      "imageSource": "https://store.steampowered.com/app/2507950/"
+      "imageSource": "https://store.steampowered.com/app/2507950/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 192,
@@ -4521,12 +4703,13 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 671860,
-      "imageSource": "https://store.steampowered.com/app/671860/"
+      "imageSource": "https://store.steampowered.com/app/671860/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 193,
@@ -4543,12 +4726,13 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 1238840,
-      "imageSource": "https://store.steampowered.com/app/1238840/"
+      "imageSource": "https://store.steampowered.com/app/1238840/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 194,
@@ -4565,12 +4749,13 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 1240440,
-      "imageSource": "https://store.steampowered.com/app/1240440/"
+      "imageSource": "https://store.steampowered.com/app/1240440/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 195,
@@ -4607,12 +4792,13 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 1097840,
-      "imageSource": "https://store.steampowered.com/app/1097840/"
+      "imageSource": "https://store.steampowered.com/app/1097840/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 197,
@@ -4649,12 +4835,13 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 3010850,
-      "imageSource": "https://store.steampowered.com/app/3010850/"
+      "imageSource": "https://store.steampowered.com/app/3010850/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 199,
@@ -4671,12 +4858,13 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 2321470,
-      "imageSource": "https://store.steampowered.com/app/2321470/"
+      "imageSource": "https://store.steampowered.com/app/2321470/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 200,
@@ -4716,7 +4904,7 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "directory_consensus_needs_official_verification",
       "gfnAudit": "not_verified",
       "crossplayConsensusSources": [
@@ -4729,7 +4917,8 @@
         "crossplayguide"
       ],
       "steamAppId": 1985810,
-      "imageSource": "https://store.steampowered.com/app/1985810/"
+      "imageSource": "https://store.steampowered.com/app/1985810/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 202,
@@ -4780,7 +4969,7 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "directory_consensus_needs_official_verification",
       "gfnAudit": "not_verified",
       "crossplayConsensusSources": [
@@ -4793,7 +4982,8 @@
         "crossplayguide"
       ],
       "steamAppId": 1985820,
-      "imageSource": "https://store.steampowered.com/app/1985820/"
+      "imageSource": "https://store.steampowered.com/app/1985820/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 204,
@@ -4813,7 +5003,7 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "directory_consensus_needs_official_verification",
       "gfnAudit": "not_verified",
       "crossplayConsensusSources": [
@@ -4826,7 +5016,8 @@
         "crossplayguide"
       ],
       "steamAppId": 1038250,
-      "imageSource": "https://store.steampowered.com/app/1038250/"
+      "imageSource": "https://store.steampowered.com/app/1038250/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 205,
@@ -4846,7 +5037,7 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "directory_consensus_needs_official_verification",
       "gfnAudit": "not_verified",
       "crossplayConsensusSources": [
@@ -4859,7 +5050,8 @@
         "crossplayguide"
       ],
       "steamAppId": 346820,
-      "imageSource": "https://store.steampowered.com/app/346820/"
+      "imageSource": "https://store.steampowered.com/app/346820/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 206,
@@ -4879,7 +5071,7 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "directory_consensus_needs_official_verification",
       "gfnAudit": "not_verified",
       "crossplayConsensusSources": [
@@ -4892,7 +5084,8 @@
         "crossplayguide"
       ],
       "steamAppId": 1307710,
-      "imageSource": "https://store.steampowered.com/app/1307710/"
+      "imageSource": "https://store.steampowered.com/app/1307710/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 207,
@@ -4912,7 +5105,7 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "directory_consensus_needs_official_verification",
       "gfnAudit": "not_verified",
       "crossplayConsensusSources": [
@@ -4925,7 +5118,8 @@
         "crossplayguide"
       ],
       "steamAppId": 1384160,
-      "imageSource": "https://store.steampowered.com/app/1384160/"
+      "imageSource": "https://store.steampowered.com/app/1384160/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 208,
@@ -4945,7 +5139,7 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "directory_consensus_needs_official_verification",
       "gfnAudit": "not_verified",
       "crossplayConsensusSources": [
@@ -4958,7 +5152,8 @@
         "crossplayguide"
       ],
       "steamAppId": 1335790,
-      "imageSource": "https://store.steampowered.com/app/1335790/"
+      "imageSource": "https://store.steampowered.com/app/1335790/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 209,
@@ -4978,7 +5173,7 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "directory_consensus_needs_official_verification",
       "gfnAudit": "not_verified",
       "crossplayConsensusSources": [
@@ -4991,7 +5186,8 @@
         "crossplayguide"
       ],
       "steamAppId": 1243830,
-      "imageSource": "https://store.steampowered.com/app/1243830/"
+      "imageSource": "https://store.steampowered.com/app/1243830/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 210,
@@ -5011,7 +5207,7 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "directory_consensus_needs_official_verification",
       "gfnAudit": "not_verified",
       "crossplayConsensusSources": [
@@ -5024,7 +5220,8 @@
         "crossplayguide"
       ],
       "steamAppId": 774861,
-      "imageSource": "https://store.steampowered.com/app/774861/"
+      "imageSource": "https://store.steampowered.com/app/774861/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 211,
@@ -5044,7 +5241,7 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "directory_consensus_needs_official_verification",
       "gfnAudit": "not_verified",
       "crossplayConsensusSources": [
@@ -5057,7 +5254,8 @@
         "crossplayguide"
       ],
       "steamAppId": 2310,
-      "imageSource": "https://store.steampowered.com/app/2310/"
+      "imageSource": "https://store.steampowered.com/app/2310/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 212,
@@ -5077,7 +5275,7 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "directory_consensus_needs_official_verification",
       "gfnAudit": "not_verified",
       "crossplayConsensusSources": [
@@ -5090,7 +5288,8 @@
         "crossplayguide"
       ],
       "steamAppId": 1029690,
-      "imageSource": "https://store.steampowered.com/app/1029690/"
+      "imageSource": "https://store.steampowered.com/app/1029690/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 213,
@@ -5110,7 +5309,7 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "directory_consensus_needs_official_verification",
       "gfnAudit": "not_verified",
       "crossplayConsensusSources": [
@@ -5123,7 +5322,8 @@
         "crossplayguide"
       ],
       "steamAppId": 418530,
-      "imageSource": "https://store.steampowered.com/app/418530/"
+      "imageSource": "https://store.steampowered.com/app/418530/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 214,
@@ -5143,7 +5343,7 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "directory_consensus_needs_official_verification",
       "gfnAudit": "not_verified",
       "crossplayConsensusSources": [
@@ -5156,7 +5356,8 @@
         "crossplayguide"
       ],
       "steamAppId": 677620,
-      "imageSource": "https://store.steampowered.com/app/677620/"
+      "imageSource": "https://store.steampowered.com/app/677620/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 215,
@@ -5176,7 +5377,7 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "single_source_review",
       "gfnAudit": "not_verified",
       "crossplayConsensusSources": [
@@ -5187,7 +5388,8 @@
         "partyqueue"
       ],
       "steamAppId": 692890,
-      "imageSource": "https://store.steampowered.com/app/692890/"
+      "imageSource": "https://store.steampowered.com/app/692890/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 216,
@@ -5202,12 +5404,12 @@
       ],
       "source": "",
       "notes": "Listed by two independent PS5–PC crossplay directories; verify platform pairing, mode restrictions, current online service and publisher statement before marking officially verified.",
-      "image": "",
+      "image": "https://upload.wikimedia.org/wikipedia/en/4/43/Where_Winds_Meet_cover_art.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "verified": false,
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "missing",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "directory_consensus_needs_official_verification",
       "gfnAudit": "not_verified",
       "crossplayConsensusSources": [
@@ -5218,7 +5420,10 @@
       "crossplayConsensusProviders": [
         "crossplayguide",
         "partyqueue"
-      ]
+      ],
+      "imageSource": "https://en.wikipedia.org/wiki/Where_Winds_Meet",
+      "coverCheckedAt": "2026-10-31",
+      "coverMatchType": "wikipedia_illustration"
     },
     {
       "id": 217,
@@ -5269,7 +5474,7 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "directory_consensus_needs_official_verification",
       "gfnAudit": "not_verified",
       "crossplayConsensusSources": [
@@ -5282,7 +5487,8 @@
         "partyqueue"
       ],
       "steamAppId": 1361210,
-      "imageSource": "https://store.steampowered.com/app/1361210/"
+      "imageSource": "https://store.steampowered.com/app/1361210/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 219,
@@ -5302,7 +5508,7 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "single_source_review",
       "gfnAudit": "not_verified",
       "crossplayConsensusSources": [
@@ -5313,7 +5519,8 @@
         "partyqueue"
       ],
       "steamAppId": 1385380,
-      "imageSource": "https://store.steampowered.com/app/1385380/"
+      "imageSource": "https://store.steampowered.com/app/1385380/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 220,
@@ -5333,7 +5540,7 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "directory_consensus_needs_official_verification",
       "gfnAudit": "not_verified",
       "crossplayConsensusSources": [
@@ -5346,7 +5553,8 @@
         "crossplaygames"
       ],
       "steamAppId": 1252330,
-      "imageSource": "https://store.steampowered.com/app/1252330/"
+      "imageSource": "https://store.steampowered.com/app/1252330/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 221,
@@ -5366,7 +5574,7 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "single_source_review",
       "gfnAudit": "not_verified",
       "crossplayConsensusSources": [
@@ -5377,7 +5585,8 @@
         "partyqueue"
       ],
       "steamAppId": 1623730,
-      "imageSource": "https://store.steampowered.com/app/1623730/"
+      "imageSource": "https://store.steampowered.com/app/1623730/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 222,
@@ -5397,12 +5606,13 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "single_source_review",
       "gfnAudit": "not_verified",
       "crossplayCheckedAt": "2026-10-31",
       "steamAppId": 1390190,
-      "imageSource": "https://store.steampowered.com/app/1390190/"
+      "imageSource": "https://store.steampowered.com/app/1390190/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 223,
@@ -5422,12 +5632,13 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "single_source_review",
       "gfnAudit": "not_verified",
       "crossplayCheckedAt": "2026-10-31",
       "steamAppId": 1515640,
-      "imageSource": "https://store.steampowered.com/app/1515640/"
+      "imageSource": "https://store.steampowered.com/app/1515640/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 224,
@@ -5447,12 +5658,13 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "single_source_review",
       "gfnAudit": "not_verified",
       "crossplayCheckedAt": "2026-10-31",
       "steamAppId": 290340,
-      "imageSource": "https://store.steampowered.com/app/290340/"
+      "imageSource": "https://store.steampowered.com/app/290340/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 225,
@@ -5495,12 +5707,13 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "single_source_review",
       "gfnAudit": "not_verified",
       "crossplayCheckedAt": "2026-10-31",
       "steamAppId": 1063020,
-      "imageSource": "https://store.steampowered.com/app/1063020/"
+      "imageSource": "https://store.steampowered.com/app/1063020/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 227,
@@ -5520,12 +5733,13 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "single_source_review",
       "gfnAudit": "not_verified",
       "crossplayCheckedAt": "2026-10-31",
       "steamAppId": 1062830,
-      "imageSource": "https://store.steampowered.com/app/1062830/"
+      "imageSource": "https://store.steampowered.com/app/1062830/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 228,
@@ -5545,12 +5759,13 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "single_source_review",
       "gfnAudit": "not_verified",
       "crossplayCheckedAt": "2026-10-31",
       "steamAppId": 2051620,
-      "imageSource": "https://store.steampowered.com/app/2051620/"
+      "imageSource": "https://store.steampowered.com/app/2051620/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 229,
@@ -5616,12 +5831,13 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "single_source_review",
       "gfnAudit": "not_verified",
       "crossplayCheckedAt": "2026-10-31",
       "steamAppId": 953880,
-      "imageSource": "https://store.steampowered.com/app/953880/"
+      "imageSource": "https://store.steampowered.com/app/953880/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 232,
@@ -5664,12 +5880,13 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "single_source_review",
       "gfnAudit": "not_verified",
       "crossplayCheckedAt": "2026-10-31",
       "steamAppId": 780290,
-      "imageSource": "https://store.steampowered.com/app/780290/"
+      "imageSource": "https://store.steampowered.com/app/780290/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 234,
@@ -5804,12 +6021,13 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "single_source_review",
       "gfnAudit": "not_verified",
       "crossplayCheckedAt": "2026-10-31",
       "steamAppId": 1345760,
-      "imageSource": "https://store.steampowered.com/app/1345760/"
+      "imageSource": "https://store.steampowered.com/app/1345760/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 240,
@@ -5875,12 +6093,13 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "single_source_review",
       "gfnAudit": "not_verified",
       "crossplayCheckedAt": "2026-10-31",
       "steamAppId": 1206610,
-      "imageSource": "https://store.steampowered.com/app/1206610/"
+      "imageSource": "https://store.steampowered.com/app/1206610/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 243,
@@ -5900,12 +6119,13 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "single_source_review",
       "gfnAudit": "not_verified",
       "crossplayCheckedAt": "2026-10-31",
       "steamAppId": 315210,
-      "imageSource": "https://store.steampowered.com/app/315210/"
+      "imageSource": "https://store.steampowered.com/app/315210/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 244,
@@ -5925,12 +6145,13 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "single_source_review",
       "gfnAudit": "not_verified",
       "crossplayCheckedAt": "2026-10-31",
       "steamAppId": 2698940,
-      "imageSource": "https://store.steampowered.com/app/2698940/"
+      "imageSource": "https://store.steampowered.com/app/2698940/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 245,
@@ -5996,12 +6217,13 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "single_source_review",
       "gfnAudit": "not_verified",
       "crossplayCheckedAt": "2026-10-31",
       "steamAppId": 1341290,
-      "imageSource": "https://store.steampowered.com/app/1341290/"
+      "imageSource": "https://store.steampowered.com/app/1341290/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 248,
@@ -6021,12 +6243,13 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "single_source_review",
       "gfnAudit": "not_verified",
       "crossplayCheckedAt": "2026-10-31",
       "steamAppId": 1016920,
-      "imageSource": "https://store.steampowered.com/app/1016920/"
+      "imageSource": "https://store.steampowered.com/app/1016920/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 249,
@@ -6046,12 +6269,13 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "single_source_review",
       "gfnAudit": "not_verified",
       "crossplayCheckedAt": "2026-10-31",
       "steamAppId": 976310,
-      "imageSource": "https://store.steampowered.com/app/976310/"
+      "imageSource": "https://store.steampowered.com/app/976310/",
+      "coverCheckedAt": "2026-10-31"
     },
     {
       "id": 250,
@@ -6071,12 +6295,13 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_verified",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "single_source_review",
       "gfnAudit": "not_verified",
       "crossplayCheckedAt": "2026-10-31",
       "steamAppId": 699130,
-      "imageSource": "https://store.steampowered.com/app/699130/"
+      "imageSource": "https://store.steampowered.com/app/699130/",
+      "coverCheckedAt": "2026-10-31"
     }
   ]
 }

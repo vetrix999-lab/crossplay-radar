@@ -1,0 +1,279 @@
+{
+  "stats": {
+    "total": 250,
+    "existing_checked": 185,
+    "existing_passed": 183,
+    "existing_failed": 2,
+    "steam_added": 0,
+    "fallback_added": 14,
+    "missing": 51,
+    "http_content_verified": 197
+  },
+  "unresolved": [
+    {
+      "name": "Fortnite",
+      "reason": "No validated image from exact-title sources",
+      "existing_url": ""
+    },
+    {
+      "name": "Fall Guys",
+      "reason": "No validated image from exact-title sources",
+      "existing_url": ""
+    },
+    {
+      "name": "Minecraft Bedrock",
+      "reason": "No validated image from exact-title sources",
+      "existing_url": ""
+    },
+    {
+      "name": "World of Warships: Legends",
+      "reason": "No validated image from exact-title sources",
+      "existing_url": ""
+    },
+    {
+      "name": "Asphalt Legends Unite",
+      "reason": "No validated image from exact-title sources",
+      "existing_url": ""
+    },
+    {
+      "name": "Roblox",
+      "reason": "No validated image from exact-title sources",
+      "existing_url": ""
+    },
+    {
+      "name": "Dauntless",
+      "reason": "No validated image from exact-title sources",
+      "existing_url": ""
+    },
+    {
+      "name": "PEAK",
+      "reason": "No validated image from exact-title sources",
+      "existing_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3527290/header.jpg"
+    },
+    {
+      "name": "Evil Dead: The Game",
+      "reason": "No validated image from exact-title sources",
+      "existing_url": ""
+    },
+    {
+      "name": "Texas Chain Saw Massacre",
+      "reason": "No validated image from exact-title sources",
+      "existing_url": ""
+    },
+    {
+      "name": "Realm Royale Reforged",
+      "reason": "No validated image from exact-title sources",
+      "existing_url": ""
+    },
+    {
+      "name": "Rainbow Six Siege X",
+      "reason": "No validated image from exact-title sources",
+      "existing_url": ""
+    },
+    {
+      "name": "Armored Core VI",
+      "reason": "No validated image from exact-title sources",
+      "existing_url": ""
+    },
+    {
+      "name": "Call of Duty Modern Warfare III",
+      "reason": "No validated image from exact-title sources",
+      "existing_url": ""
+    },
+    {
+      "name": "Diablo II Resurrected",
+      "reason": "No validated image from exact-title sources",
+      "existing_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2536520/header.jpg"
+    },
+    {
+      "name": "Diablo Immortal",
+      "reason": "No validated image from exact-title sources",
+      "existing_url": ""
+    },
+    {
+      "name": "Final Fantasy XIV",
+      "reason": "No validated image from exact-title sources",
+      "existing_url": ""
+    },
+    {
+      "name": "Ghost Recon Breakpoint",
+      "reason": "No validated image from exact-title sources",
+      "existing_url": ""
+    },
+    {
+      "name": "Hearthstone",
+      "reason": "No validated image from exact-title sources",
+      "existing_url": ""
+    },
+    {
+      "name": "Hood Outlaws and Legends",
+      "reason": "No validated image from exact-title sources",
+      "existing_url": ""
+    },
+    {
+      "name": "Lego 2K Drive",
+      "reason": "No validated image from exact-title sources",
+      "existing_url": ""
+    },
+    {
+      "name": "Lego Fortnite Odyssey",
+      "reason": "No validated image from exact-title sources",
+      "existing_url": ""
+    },
+    {
+      "name": "NBA 2K25",
+      "reason": "No validated image from exact-title sources",
+      "existing_url": ""
+    },
+    {
+      "name": "Rec Room",
+      "reason": "No validated image from exact-title sources",
+      "existing_url": ""
+    },
+    {
+      "name": "Rumbleverse",
+      "reason": "No validated image from exact-title sources",
+      "existing_url": ""
+    },
+    {
+      "name": "Splitgate 2",
+      "reason": "No validated image from exact-title sources",
+      "existing_url": ""
+    },
+    {
+      "name": "Star Wars Hunters",
+      "reason": "No validated image from exact-title sources",
+      "existing_url": ""
+    },
+    {
+      "name": "Warface Clutch",
+      "reason": "No validated image from exact-title sources",
+      "existing_url": ""
+    },
+    {
+      "name": "World War Z Aftermath",
+      "reason": "No validated image from exact-title sources",
+      "existing_url": ""
+    },
+    {
+      "name": "Zenless Zone Zero",
+      "reason": "No validated image from exact-title sources",
+      "existing_url": ""
+    },
+    {
+      "name": "Elder Scrolls Online",
+      "reason": "No validated image from exact-title sources",
+      "existing_url": ""
+    },
+    {
+      "name": "Borderlands Game of the Year",
+      "reason": "No validated image from exact-title sources",
+      "existing_url": ""
+    },
+    {
+      "name": "State of Decay 2",
+      "reason": "No validated image from exact-title sources",
+      "existing_url": ""
+    },
+    {
+      "name": "Hell Let Loose Vietnam",
+      "reason": "No validated image from exact-title sources",
+      "existing_url": ""
+    },
+    {
+      "name": "Escape from Tarkov",
+      "reason": "No validated image from exact-title sources",
+      "existing_url": ""
+    },
+    {
+      "name": "Halo Master Chief Collection",
+      "reason": "No validated image from exact-title sources",
+      "existing_url": ""
+    },
+    {
+      "name": "Gears of War Reloaded",
+      "reason": "No validated image from exact-title sources",
+      "existing_url": ""
+    },
+    {
+      "name": "Helldivers",
+      "reason": "No validated image from exact-title sources",
+      "existing_url": ""
+    },
+    {
+      "name": "Call of Duty: Modern Warfare II",
+      "reason": "No validated image from exact-title sources",
+      "existing_url": ""
+    },
+    {
+      "name": "DOOM + DOOM II",
+      "reason": "No validated image from exact-title sources",
+      "existing_url": ""
+    },
+    {
+      "name": "DKO: Divine Knockout",
+      "reason": "No validated image from exact-title sources",
+      "existing_url": ""
+    },
+    {
+      "name": "F1 22",
+      "reason": "No validated image from exact-title sources",
+      "existing_url": ""
+    },
+    {
+      "name": "FIFA 23",
+      "reason": "No validated image from exact-title sources",
+      "existing_url": ""
+    },
+    {
+      "name": "Ghostbusters: Spirits Unleashed",
+      "reason": "No validated image from exact-title sources",
+      "existing_url": ""
+    },
+    {
+      "name": "Heavy Metal Machines",
+      "reason": "No validated image from exact-title sources",
+      "existing_url": ""
+    },
+    {
+      "name": "Hunter's Arena: Legends",
+      "reason": "No validated image from exact-title sources",
+      "existing_url": ""
+    },
+    {
+      "name": "Hyper Scape",
+      "reason": "No validated image from exact-title sources",
+      "existing_url": ""
+    },
+    {
+      "name": "Knockout City",
+      "reason": "No validated image from exact-title sources",
+      "existing_url": ""
+    },
+    {
+      "name": "Madden NFL 24",
+      "reason": "No validated image from exact-title sources",
+      "existing_url": ""
+    },
+    {
+      "name": "Nerf Legends",
+      "reason": "No validated image from exact-title sources",
+      "existing_url": ""
+    },
+    {
+      "name": "PGA Tour 2K23",
+      "reason": "No validated image from exact-title sources",
+      "existing_url": ""
+    },
+    {
+      "name": "Vampire: The Masquerade – Bloodhunt",
+      "reason": "No validated image from exact-title sources",
+      "existing_url": ""
+    },
+    {
+      "name": "Warlander",
+      "reason": "No validated image from exact-title sources",
+      "existing_url": ""
+    }
+  ]
+}
