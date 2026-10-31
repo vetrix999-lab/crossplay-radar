@@ -1,0 +1,2556 @@
+{
+  "processed": 250,
+  "total": 250,
+  "counts": {
+    "Verified": 15,
+    "Pending": 228,
+    "Rejected": 7
+  },
+  "items": [
+    {
+      "name": "Fortnite",
+      "id": 1,
+      "classification": "Verified",
+      "source": "https://store.epicgames.com/c/cross-platform-games?lang=en-US",
+      "checkedAt": "2026-10-31",
+      "officialSource": true,
+      "review": "fetch_failed",
+      "nextAction": "revalidate_live_service_and_official_context",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "name": "Rocket League",
+      "id": 2,
+      "classification": "Verified",
+      "source": "https://www.epicgames.com/help/c-37599050/c-32343914/a13381289",
+      "checkedAt": "2026-10-31",
+      "officialSource": true,
+      "review": "fetch_failed",
+      "nextAction": "revalidate_live_service_and_official_context",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "name": "Fall Guys",
+      "id": 3,
+      "classification": "Verified",
+      "source": "https://store.epicgames.com/c/cross-platform-games?lang=en-US",
+      "checkedAt": "2026-10-31",
+      "officialSource": true,
+      "review": "fetch_failed",
+      "nextAction": "revalidate_live_service_and_official_context",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "name": "Apex Legends",
+      "id": 4,
+      "classification": "Verified",
+      "source": "https://www.ea.com/games/apex-legends/about/frequently-asked-questions",
+      "checkedAt": "2026-10-31",
+      "officialSource": true,
+      "review": {
+        "result": "official_page_pair_and_crossplay_terms_needs_manual_context",
+        "http": 200,
+        "platform_terms": true,
+        "crossplay_terms": true
+      },
+      "nextAction": "revalidate_live_service_and_official_context",
+      "evidenceFetchedAt": "2026-10-31"
+    },
+    {
+      "name": "Call of Duty: Warzone",
+      "id": 5,
+      "classification": "Pending",
+      "source": "https://www.google.com/search?q=Call%20of%20Duty%3A%20Warzone%20official%20crossplay%20PS5%20PC",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Overwatch 2",
+      "id": 6,
+      "classification": "Verified",
+      "source": "https://overwatch.blizzard.com/en-us/news/23684155/cross-play-is-coming-to-overwatch/",
+      "checkedAt": "2026-10-31",
+      "officialSource": true,
+      "review": {
+        "result": "official_page_pair_and_crossplay_terms_needs_manual_context",
+        "http": 200,
+        "platform_terms": true,
+        "crossplay_terms": true
+      },
+      "nextAction": "revalidate_live_service_and_official_context",
+      "evidenceFetchedAt": "2026-10-31"
+    },
+    {
+      "name": "Destiny 2",
+      "id": 7,
+      "classification": "Pending",
+      "source": "https://www.google.com/search?q=Destiny%202%20official%20crossplay%20PS5%20PC",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Warframe",
+      "id": 8,
+      "classification": "Verified",
+      "source": "https://store.epicgames.com/news/best-cross-platform-games?lang=hu",
+      "checkedAt": "2026-10-31",
+      "officialSource": true,
+      "review": "fetch_failed",
+      "nextAction": "revalidate_live_service_and_official_context",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "name": "The Finals",
+      "id": 9,
+      "classification": "Pending",
+      "source": "https://www.google.com/search?q=The%20Finals%20official%20crossplay%20PS5%20PC",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Marvel Rivals",
+      "id": 10,
+      "classification": "Pending",
+      "source": "https://www.google.com/search?q=Marvel%20Rivals%20official%20crossplay%20PS5%20PC",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Dead by Daylight",
+      "id": 11,
+      "classification": "Verified",
+      "source": "https://support.deadbydaylight.com/hc/en-us/articles/360047727671-Which-platforms-are-included-in-cross-play",
+      "checkedAt": "2026-10-31",
+      "officialSource": true,
+      "review": "fetch_failed",
+      "nextAction": "revalidate_live_service_and_official_context",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "name": "Sea of Thieves",
+      "id": 12,
+      "classification": "Verified",
+      "source": "https://www.seaofthieves.com/news/ps5-faq",
+      "checkedAt": "2026-10-31",
+      "officialSource": true,
+      "review": "fetch_failed",
+      "nextAction": "revalidate_live_service_and_official_context",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "name": "No Man's Sky",
+      "id": 13,
+      "classification": "Pending",
+      "source": "https://www.google.com/search?q=No%20Man's%20Sky%20official%20crossplay%20PS5%20PC",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Helldivers 2",
+      "id": 14,
+      "classification": "Verified",
+      "source": "https://arrowhead.zendesk.com/hc/en-us/articles/12571604061212-Helldivers-2-FAQ",
+      "checkedAt": "2026-10-31",
+      "officialSource": true,
+      "review": "fetch_failed",
+      "nextAction": "revalidate_live_service_and_official_context",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "name": "Diablo IV",
+      "id": 15,
+      "classification": "Pending",
+      "source": "https://www.google.com/search?q=Diablo%20IV%20official%20crossplay%20PS5%20PC",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Minecraft Bedrock",
+      "id": 16,
+      "classification": "Pending",
+      "source": "https://www.google.com/search?q=Minecraft%20Bedrock%20official%20crossplay%20PS5%20PC",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Minecraft Dungeons",
+      "id": 17,
+      "classification": "Pending",
+      "source": "https://www.google.com/search?q=Minecraft%20Dungeons%20official%20crossplay%20PS5%20PC",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Grounded",
+      "id": 18,
+      "classification": "Pending",
+      "source": "https://www.google.com/search?q=Grounded%20official%20crossplay%20PS5%20PC",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Among Us",
+      "id": 19,
+      "classification": "Pending",
+      "source": "https://www.google.com/search?q=Among%20Us%20official%20crossplay%20PS5%20PC",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Brawlhalla",
+      "id": 20,
+      "classification": "Pending",
+      "source": "https://www.google.com/search?q=Brawlhalla%20official%20crossplay%20PS5%20PC",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "SMITE 2",
+      "id": 21,
+      "classification": "Pending",
+      "source": "https://www.google.com/search?q=SMITE%202%20official%20crossplay%20PS5%20PC",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "For Honor",
+      "id": 22,
+      "classification": "Pending",
+      "source": "https://www.google.com/search?q=For%20Honor%20official%20crossplay%20PS5%20PC",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "War Thunder",
+      "id": 23,
+      "classification": "Verified",
+      "source": "https://warthunder.com/en/game/faq",
+      "checkedAt": null,
+      "officialSource": true,
+      "review": {
+        "result": "official_page_insufficient_pair_evidence",
+        "http": 200,
+        "platform_terms": true,
+        "crossplay_terms": false
+      },
+      "nextAction": "revalidate_live_service_and_official_context",
+      "evidenceFetchedAt": "2026-10-31"
+    },
+    {
+      "name": "World of Warships: Legends",
+      "id": 24,
+      "classification": "Pending",
+      "source": "https://www.google.com/search?q=World%20of%20Warships%3A%20Legends%20official%20crossplay%20PS5%20PC",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Paladins",
+      "id": 25,
+      "classification": "Pending",
+      "source": "https://www.google.com/search?q=Paladins%20official%20crossplay%20PS5%20PC",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Borderlands 3",
+      "id": 26,
+      "classification": "Pending",
+      "source": "https://www.google.com/search?q=Borderlands%203%20official%20crossplay%20PS5%20PC",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Tiny Tina's Wonderlands",
+      "id": 27,
+      "classification": "Pending",
+      "source": "https://www.google.com/search?q=Tiny%20Tina's%20Wonderlands%20official%20crossplay%20PS5%20PC",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Back 4 Blood",
+      "id": 28,
+      "classification": "Pending",
+      "source": "https://www.google.com/search?q=Back%204%20Blood%20official%20crossplay%20PS5%20PC",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Remnant II",
+      "id": 29,
+      "classification": "Pending",
+      "source": "https://www.google.com/search?q=Remnant%20II%20official%20crossplay%20PS5%20PC",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Chivalry 2",
+      "id": 30,
+      "classification": "Pending",
+      "source": "https://www.google.com/search?q=Chivalry%202%20official%20crossplay%20PS5%20PC",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Mortal Kombat 1",
+      "id": 31,
+      "classification": "Pending",
+      "source": "https://www.google.com/search?q=Mortal%20Kombat%201%20official%20crossplay%20PS5%20PC",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Street Fighter 6",
+      "id": 32,
+      "classification": "Pending",
+      "source": "https://www.google.com/search?q=Street%20Fighter%206%20official%20crossplay%20PS5%20PC",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Tekken 8",
+      "id": 33,
+      "classification": "Pending",
+      "source": "https://www.google.com/search?q=Tekken%208%20official%20crossplay%20PS5%20PC",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "EA Sports FC 26",
+      "id": 34,
+      "classification": "Pending",
+      "source": "https://www.google.com/search?q=EA%20Sports%20FC%2026%20official%20crossplay%20PS5%20PC",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "F1 25",
+      "id": 35,
+      "classification": "Pending",
+      "source": "https://www.google.com/search?q=F1%2025%20official%20crossplay%20PS5%20PC",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Need for Speed Unbound",
+      "id": 36,
+      "classification": "Pending",
+      "source": "https://www.google.com/search?q=Need%20for%20Speed%20Unbound%20official%20crossplay%20PS5%20PC",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Disney Speedstorm",
+      "id": 37,
+      "classification": "Pending",
+      "source": "https://www.google.com/search?q=Disney%20Speedstorm%20official%20crossplay%20PS5%20PC",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Asphalt Legends Unite",
+      "id": 38,
+      "classification": "Pending",
+      "source": "https://www.google.com/search?q=Asphalt%20Legends%20Unite%20official%20crossplay%20PS5%20PC",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "MultiVersus",
+      "id": 39,
+      "classification": "Pending",
+      "source": "https://www.google.com/search?q=MultiVersus%20official%20crossplay%20PS5%20PC",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Roblox",
+      "id": 40,
+      "classification": "Pending",
+      "source": "https://www.google.com/search?q=Roblox%20official%20crossplay%20PS5%20PC",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Genshin Impact",
+      "id": 41,
+      "classification": "Verified",
+      "source": "https://store.epicgames.com/news/best-cross-platform-games?lang=hu",
+      "checkedAt": "2026-10-31",
+      "officialSource": true,
+      "review": "fetch_failed",
+      "nextAction": "revalidate_live_service_and_official_context",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "name": "Honkai: Star Rail",
+      "id": 42,
+      "classification": "Pending",
+      "source": "https://www.google.com/search?q=Honkai%3A%20Star%20Rail%20official%20crossplay%20PS5%20PC",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Tower of Fantasy",
+      "id": 43,
+      "classification": "Pending",
+      "source": "https://www.google.com/search?q=Tower%20of%20Fantasy%20official%20crossplay%20PS5%20PC",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Dauntless",
+      "id": 44,
+      "classification": "Pending",
+      "source": "https://www.google.com/search?q=Dauntless%20official%20crossplay%20PS5%20PC",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "ARK: Survival Ascended",
+      "id": 45,
+      "classification": "Pending",
+      "source": "https://www.google.com/search?q=ARK%3A%20Survival%20Ascended%20official%20crossplay%20PS5%20PC",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Path of Exile 2",
+      "id": 46,
+      "classification": "Pending",
+      "source": "https://www.google.com/search?q=Path%20of%20Exile%202%20official%20crossplay%20PS5%20PC",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Path of Exile",
+      "id": 47,
+      "classification": "Pending",
+      "source": "https://www.google.com/search?q=Path%20of%20Exile%20official%20crossplay%20PS5%20PC",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Phasmophobia",
+      "id": 48,
+      "classification": "Pending",
+      "source": "https://www.google.com/search?q=Phasmophobia%20official%20crossplay%20PS5%20PC",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Sonic Racing: CrossWorlds",
+      "id": 49,
+      "classification": "Pending",
+      "source": "https://www.google.com/search?q=Sonic%20Racing%3A%20CrossWorlds%20official%20crossplay%20PS5%20PC",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Split Fiction",
+      "id": 50,
+      "classification": "Verified",
+      "source": "https://www.ea.com/games/split-fiction/split-fiction/features/friends-pass-playstation",
+      "checkedAt": "2026-10-31",
+      "officialSource": true,
+      "review": {
+        "result": "official_page_pair_and_crossplay_terms_needs_manual_context",
+        "http": 200,
+        "platform_terms": true,
+        "crossplay_terms": true
+      },
+      "nextAction": "revalidate_live_service_and_official_context",
+      "evidenceFetchedAt": "2026-10-31"
+    },
+    {
+      "name": "It Takes Two",
+      "id": 51,
+      "classification": "Verified",
+      "source": "https://www.ea.com/games/it-takes-two/it-takes-two/faq",
+      "checkedAt": "2026-10-31",
+      "officialSource": true,
+      "review": {
+        "result": "official_page_pair_and_crossplay_terms_needs_manual_context",
+        "http": 200,
+        "platform_terms": true,
+        "crossplay_terms": true
+      },
+      "nextAction": "revalidate_live_service_and_official_context",
+      "evidenceFetchedAt": "2026-10-31"
+    },
+    {
+      "name": "Battlefield 6",
+      "id": 52,
+      "classification": "Pending",
+      "source": "https://www.google.com/search?q=Battlefield%206%20official%20crossplay%20PS5%20PC",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Insurgency: Sandstorm",
+      "id": 53,
+      "classification": "Pending",
+      "source": "https://www.google.com/search?q=Insurgency%3A%20Sandstorm%20official%20crossplay%20PS5%20PC",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Hell Let Loose",
+      "id": 54,
+      "classification": "Pending",
+      "source": "https://www.google.com/search?q=Hell%20Let%20Loose%20official%20crossplay%20PS5%20PC",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Enshrouded",
+      "id": 55,
+      "classification": "Rejected",
+      "source": "https://enshrouded.com/en-US/news/enshrouded-launch-faq-early-access-reward-world",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "periodically_check_relaunch_or_platform_changes"
+    },
+    {
+      "name": "PEAK",
+      "id": 56,
+      "classification": "Pending",
+      "source": "https://www.google.com/search?q=PEAK%20official%20crossplay%20PS5%20PC",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Green Hell",
+      "id": 57,
+      "classification": "Pending",
+      "source": "https://www.google.com/search?q=Green%20Hell%20official%20crossplay%20PS5%20PC",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Valheim",
+      "id": 58,
+      "classification": "Pending",
+      "source": "https://www.google.com/search?q=Valheim%20official%20crossplay%20PS5%20PC",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Deep Rock Galactic",
+      "id": 59,
+      "classification": "Rejected",
+      "source": "https://www.deeprockgalactic.com/roadmap",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "periodically_check_relaunch_or_platform_changes"
+    },
+    {
+      "name": "Risk of Rain 2",
+      "id": 60,
+      "classification": "Pending",
+      "source": "https://www.google.com/search?q=Risk%20of%20Rain%202%20official%20crossplay%20PS5%20PC",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Monster Hunter Wilds",
+      "id": 61,
+      "classification": "Pending",
+      "source": "https://www.google.com/search?q=Monster%20Hunter%20Wilds%20official%20crossplay%20PS5%20PC",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Monster Hunter Rise",
+      "id": 62,
+      "classification": "Pending",
+      "source": "https://www.google.com/search?q=Monster%20Hunter%20Rise%20official%20crossplay%20PS5%20PC",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Wild Hearts",
+      "id": 63,
+      "classification": "Pending",
+      "source": "https://www.google.com/search?q=Wild%20Hearts%20official%20crossplay%20PS5%20PC",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Exoprimal",
+      "id": 64,
+      "classification": "Pending",
+      "source": "https://www.google.com/search?q=Exoprimal%20official%20crossplay%20PS5%20PC",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Outriders",
+      "id": 65,
+      "classification": "Pending",
+      "source": "https://www.google.com/search?q=Outriders%20official%20crossplay%20PS5%20PC",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Aliens: Fireteam Elite",
+      "id": 66,
+      "classification": "Pending",
+      "source": "https://www.google.com/search?q=Aliens%3A%20Fireteam%20Elite%20official%20crossplay%20PS5%20PC",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Evil Dead: The Game",
+      "id": 67,
+      "classification": "Pending",
+      "source": "https://www.google.com/search?q=Evil%20Dead%3A%20The%20Game%20official%20crossplay%20PS5%20PC",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Predator: Hunting Grounds",
+      "id": 68,
+      "classification": "Pending",
+      "source": "https://www.google.com/search?q=Predator%3A%20Hunting%20Grounds%20official%20crossplay%20PS5%20PC",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Killer Klowns from Outer Space: The Game",
+      "id": 69,
+      "classification": "Pending",
+      "source": "https://www.google.com/search?q=Killer%20Klowns%20from%20Outer%20Space%3A%20The%20Game%20official%20crossplay%20PS5%20PC",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Texas Chain Saw Massacre",
+      "id": 70,
+      "classification": "Pending",
+      "source": "https://www.google.com/search?q=Texas%20Chain%20Saw%20Massacre%20official%20crossplay%20PS5%20PC",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Deceive Inc.",
+      "id": 71,
+      "classification": "Pending",
+      "source": "https://www.google.com/search?q=Deceive%20Inc.%20official%20crossplay%20PS5%20PC",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Rogue Company",
+      "id": 72,
+      "classification": "Pending",
+      "source": "https://www.google.com/search?q=Rogue%20Company%20official%20crossplay%20PS5%20PC",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Realm Royale Reforged",
+      "id": 73,
+      "classification": "Pending",
+      "source": "https://www.google.com/search?q=Realm%20Royale%20Reforged%20official%20crossplay%20PS5%20PC",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Super Animal Royale",
+      "id": 74,
+      "classification": "Pending",
+      "source": "https://www.google.com/search?q=Super%20Animal%20Royale%20official%20crossplay%20PS5%20PC",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Omega Strikers",
+      "id": 75,
+      "classification": "Pending",
+      "source": "https://www.google.com/search?q=Omega%20Strikers%20official%20crossplay%20PS5%20PC",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Century: Age of Ashes",
+      "id": 76,
+      "classification": "Pending",
+      "source": "https://www.google.com/search?q=Century%3A%20Age%20of%20Ashes%20official%20crossplay%20PS5%20PC",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "KartRider: Drift",
+      "id": 77,
+      "classification": "Pending",
+      "source": "https://www.google.com/search?q=KartRider%3A%20Drift%20official%20crossplay%20PS5%20PC",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Riders Republic",
+      "id": 78,
+      "classification": "Pending",
+      "source": "https://www.google.com/search?q=Riders%20Republic%20official%20crossplay%20PS5%20PC",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Skull and Bones",
+      "id": 79,
+      "classification": "Pending",
+      "source": "https://www.google.com/search?q=Skull%20and%20Bones%20official%20crossplay%20PS5%20PC",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Avatar: Frontiers of Pandora",
+      "id": 80,
+      "classification": "Pending",
+      "source": "https://www.google.com/search?q=Avatar%3A%20Frontiers%20of%20Pandora%20official%20crossplay%20PS5%20PC",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Rainbow Six Siege X",
+      "id": 81,
+      "classification": "Pending",
+      "source": "https://www.google.com/search?q=Rainbow%20Six%20Siege%20X%20official%20crossplay%20PS5%20PC",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "The First Descendant",
+      "id": 82,
+      "classification": "Pending",
+      "source": "https://www.google.com/search?q=The%20First%20Descendant%20official%20crossplay%20PS5%20PC",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Once Human",
+      "id": 83,
+      "classification": "Pending",
+      "source": "https://www.google.com/search?q=Once%20Human%20official%20crossplay%20PS5%20PC",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Dune: Awakening",
+      "id": 84,
+      "classification": "Pending",
+      "source": "https://www.google.com/search?q=Dune%3A%20Awakening%20official%20crossplay%20PS5%20PC",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Arc Raiders",
+      "id": 85,
+      "classification": "Pending",
+      "source": "https://www.google.com/search?q=Arc%20Raiders%20official%20crossplay%20PS5%20PC",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "7 Days to Die",
+      "id": 86,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Abiotic Factor",
+      "id": 87,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Age of Empires IV",
+      "id": 88,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Aragami 2",
+      "id": 89,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Armored Core VI",
+      "id": 90,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Astroneer",
+      "id": 91,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Battlefield 2042",
+      "id": 92,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Battlefield V",
+      "id": 93,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Call of Duty Modern Warfare III",
+      "id": 94,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Call of Duty Black Ops 6",
+      "id": 95,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Diablo II Resurrected",
+      "id": 96,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Diablo Immortal",
+      "id": 97,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Dragon Ball Sparking Zero",
+      "id": 98,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Elden Ring Nightreign",
+      "id": 99,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Farming Simulator 22",
+      "id": 100,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Farming Simulator 25",
+      "id": 101,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Final Fantasy XIV",
+      "id": 102,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Forza Horizon 5",
+      "id": 103,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Ghost Recon Breakpoint",
+      "id": 104,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Granblue Fantasy Relink",
+      "id": 105,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Hearthstone",
+      "id": 106,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Hood Outlaws and Legends",
+      "id": 107,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Human Fall Flat",
+      "id": 108,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Hunt Showdown 1896",
+      "id": 109,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Killer Instinct",
+      "id": 110,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Lego 2K Drive",
+      "id": 111,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Lego Fortnite Odyssey",
+      "id": 112,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Marvel Snap",
+      "id": 113,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Minecraft Legends",
+      "id": 114,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Naraka Bladepoint",
+      "id": 115,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "NBA 2K25",
+      "id": 116,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "New World Aeternum",
+      "id": 117,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Party Animals",
+      "id": 118,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Payday 3",
+      "id": 119,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Phantasy Star Online 2 New Genesis",
+      "id": 120,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Plants vs Zombies Battle for Neighborville",
+      "id": 121,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "PowerWash Simulator",
+      "id": 122,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "PUBG Battlegrounds",
+      "id": 123,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Rec Room",
+      "id": 124,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Roller Champions",
+      "id": 125,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Rumbleverse",
+      "id": 126,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "SnowRunner",
+      "id": 127,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Splitgate 2",
+      "id": 128,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Star Wars Hunters",
+      "id": 129,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Star Wars Squadrons",
+      "id": 130,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Super Bomberman R 2",
+      "id": 131,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Temtem",
+      "id": 132,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "The Outlast Trials",
+      "id": 133,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "The Quarry",
+      "id": 134,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Tom Clancy's The Division 2",
+      "id": 135,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Trackmania",
+      "id": 136,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Tribes of Midgard",
+      "id": 137,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "V Rising",
+      "id": 138,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Warface Clutch",
+      "id": 139,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "World War Z Aftermath",
+      "id": 140,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Worms Rumble",
+      "id": 141,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Wreckfest",
+      "id": 142,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "XDefiant",
+      "id": 143,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Yu-Gi-Oh Master Duel",
+      "id": 144,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Zenless Zone Zero",
+      "id": 145,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Elder Scrolls Online",
+      "id": 146,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Warhammer 40000 Space Marine 2",
+      "id": 147,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Warhammer Vermintide 2",
+      "id": 148,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Monster Hunter World",
+      "id": 149,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Baldur's Gate 3",
+      "id": 150,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Civilization VII",
+      "id": 151,
+      "classification": "Verified",
+      "source": "https://store.2k.com/game/buy-civilization-7?drm=PlayStation+5",
+      "checkedAt": "2026-10-31",
+      "officialSource": true,
+      "review": {
+        "result": "official_page_insufficient_pair_evidence",
+        "http": 200,
+        "platform_terms": false,
+        "crossplay_terms": false
+      },
+      "nextAction": "revalidate_live_service_and_official_context",
+      "evidenceFetchedAt": "2026-10-31"
+    },
+    {
+      "name": "Borderlands 4",
+      "id": 152,
+      "classification": "Verified",
+      "source": "https://store.epicgames.com/news/best-cross-platform-games?lang=hu",
+      "checkedAt": null,
+      "officialSource": true,
+      "review": "fetch_failed",
+      "nextAction": "revalidate_live_service_and_official_context",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "name": "Borderlands 2",
+      "id": 153,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Borderlands The Pre-Sequel",
+      "id": 154,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Borderlands Game of the Year",
+      "id": 155,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Dead Island 2",
+      "id": 156,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Dying Light 2",
+      "id": 157,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Dying Light The Beast",
+      "id": 158,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Killing Floor 3",
+      "id": 159,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Killing Floor 2",
+      "id": 160,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Ready or Not",
+      "id": 161,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Palia",
+      "id": 162,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Throne and Liberty",
+      "id": 163,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Lethal Company",
+      "id": 164,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Content Warning",
+      "id": 165,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "R.E.P.O.",
+      "id": 166,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Schedule I",
+      "id": 167,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Satisfactory",
+      "id": 168,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Raft",
+      "id": 169,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "The Forest",
+      "id": 170,
+      "classification": "Rejected",
+      "source": "https://pindrop.gg/the-forest/crossplay",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "periodically_check_relaunch_or_platform_changes"
+    },
+    {
+      "name": "Sons of the Forest",
+      "id": 171,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Stranded Deep",
+      "id": 172,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Subnautica",
+      "id": 173,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Subnautica Below Zero",
+      "id": 174,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Subnautica 2",
+      "id": 175,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Ark Survival Evolved",
+      "id": 176,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Conan Exiles",
+      "id": 177,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Rust",
+      "id": 178,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "DayZ",
+      "id": 179,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Project Zomboid",
+      "id": 180,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "State of Decay 2",
+      "id": 181,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "State of Decay 3",
+      "id": 182,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Ground Branch",
+      "id": 183,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Squad",
+      "id": 184,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Hell Let Loose Vietnam",
+      "id": 185,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Arma Reforger",
+      "id": 186,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Arma 3",
+      "id": 187,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Gray Zone Warfare",
+      "id": 188,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Escape from Tarkov",
+      "id": 189,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Arena Breakout Infinite",
+      "id": 190,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Delta Force",
+      "id": 191,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "BattleBit Remastered",
+      "id": 192,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Battlefield 1",
+      "id": 193,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Halo Infinite",
+      "id": 194,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Halo Master Chief Collection",
+      "id": 195,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Gears 5",
+      "id": 196,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Gears of War Reloaded",
+      "id": 197,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Gears of War E-Day",
+      "id": 198,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Deep Rock Galactic Survivor",
+      "id": 199,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Helldivers",
+      "id": 200,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Call of Duty: Black Ops Cold War",
+      "id": 201,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Call of Duty: Modern Warfare II",
+      "id": 202,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Call of Duty: Vanguard",
+      "id": 203,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "DIRT 5",
+      "id": 204,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Crash Drive 3",
+      "id": 205,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "GRID Legends",
+      "id": 206,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Guilty Gear Strive",
+      "id": 207,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Operation: Tango",
+      "id": 208,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Overcooked! All You Can Eat",
+      "id": 209,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Project Winter",
+      "id": 210,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Quake",
+      "id": 211,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Sniper Elite 5",
+      "id": 212,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Spelunky 2",
+      "id": 213,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Splitgate",
+      "id": 214,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Roboquest",
+      "id": 215,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Where Winds Meet",
+      "id": 216,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "DOOM + DOOM II",
+      "id": 217,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Warhammer 40,000: Darktide",
+      "id": 218,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Across the Obelisk",
+      "id": 219,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Deathloop",
+      "id": 220,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Palworld",
+      "id": 221,
+      "classification": "Pending",
+      "source": "",
+      "checkedAt": null,
+      "officialSource": false,
+      "review": "no_source",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Apico",
+      "id": 222,
+      "classification": "Pending",
+      "source": "https://crossplaygames.com/crossplay?p1=playstation-5&p2=windows-pc",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Arcadegeddon",
+      "id": 223,
+      "classification": "Pending",
+      "source": "https://crossplaygames.com/crossplay?p1=playstation-5&p2=windows-pc",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Armello",
+      "id": 224,
+      "classification": "Pending",
+      "source": "https://crossplaygames.com/crossplay?p1=playstation-5&p2=windows-pc",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "DKO: Divine Knockout",
+      "id": 225,
+      "classification": "Rejected",
+      "source": "https://crossplaygames.com/crossplay?p1=playstation-5&p2=windows-pc",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "periodically_check_relaunch_or_platform_changes"
+    },
+    {
+      "name": "Elemental War 2",
+      "id": 226,
+      "classification": "Pending",
+      "source": "https://crossplaygames.com/crossplay?p1=playstation-5&p2=windows-pc",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Embr",
+      "id": 227,
+      "classification": "Pending",
+      "source": "https://crossplaygames.com/crossplay?p1=playstation-5&p2=windows-pc",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Enlisted",
+      "id": 228,
+      "classification": "Pending",
+      "source": "https://crossplaygames.com/crossplay?p1=playstation-5&p2=windows-pc",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "F1 22",
+      "id": 229,
+      "classification": "Pending",
+      "source": "https://crossplaygames.com/crossplay?p1=playstation-5&p2=windows-pc",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "FIFA 23",
+      "id": 230,
+      "classification": "Pending",
+      "source": "https://crossplaygames.com/crossplay?p1=playstation-5&p2=windows-pc",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "First Class Trouble",
+      "id": 231,
+      "classification": "Pending",
+      "source": "https://crossplaygames.com/crossplay?p1=playstation-5&p2=windows-pc",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Ghostbusters: Spirits Unleashed",
+      "id": 232,
+      "classification": "Pending",
+      "source": "https://crossplaygames.com/crossplay?p1=playstation-5&p2=windows-pc",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Gloomhaven",
+      "id": 233,
+      "classification": "Pending",
+      "source": "https://crossplaygames.com/crossplay?p1=playstation-5&p2=windows-pc",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Heavy Metal Machines",
+      "id": 234,
+      "classification": "Rejected",
+      "source": "https://crossplaygames.com/crossplay?p1=playstation-5&p2=windows-pc",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "periodically_check_relaunch_or_platform_changes"
+    },
+    {
+      "name": "Hunter's Arena: Legends",
+      "id": 235,
+      "classification": "Pending",
+      "source": "https://crossplaygames.com/crossplay?p1=playstation-5&p2=windows-pc",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Hyper Scape",
+      "id": 236,
+      "classification": "Rejected",
+      "source": "https://crossplaygames.com/crossplay?p1=playstation-5&p2=windows-pc",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "periodically_check_relaunch_or_platform_changes"
+    },
+    {
+      "name": "Knockout City",
+      "id": 237,
+      "classification": "Rejected",
+      "source": "https://crossplaygames.com/crossplay?p1=playstation-5&p2=windows-pc",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "periodically_check_relaunch_or_platform_changes"
+    },
+    {
+      "name": "Madden NFL 24",
+      "id": 238,
+      "classification": "Pending",
+      "source": "https://crossplaygames.com/crossplay?p1=playstation-5&p2=windows-pc",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Matchpoint: Tennis Championships",
+      "id": 239,
+      "classification": "Pending",
+      "source": "https://crossplaygames.com/crossplay?p1=playstation-5&p2=windows-pc",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Nerf Legends",
+      "id": 240,
+      "classification": "Pending",
+      "source": "https://crossplaygames.com/crossplay?p1=playstation-5&p2=windows-pc",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "PGA Tour 2K23",
+      "id": 241,
+      "classification": "Pending",
+      "source": "https://crossplaygames.com/crossplay?p1=playstation-5&p2=windows-pc",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Rubber Bandits",
+      "id": 242,
+      "classification": "Pending",
+      "source": "https://crossplaygames.com/crossplay?p1=playstation-5&p2=windows-pc",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Suicide Squad: Kill the Justice League",
+      "id": 243,
+      "classification": "Pending",
+      "source": "https://crossplaygames.com/crossplay?p1=playstation-5&p2=windows-pc",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "The Crew: Motorfest",
+      "id": 244,
+      "classification": "Pending",
+      "source": "https://crossplaygames.com/crossplay?p1=playstation-5&p2=windows-pc",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Vampire: The Masquerade – Bloodhunt",
+      "id": 245,
+      "classification": "Pending",
+      "source": "https://crossplaygames.com/crossplay?p1=playstation-5&p2=windows-pc",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Warlander",
+      "id": 246,
+      "classification": "Pending",
+      "source": "https://crossplaygames.com/crossplay?p1=playstation-5&p2=windows-pc",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "We Were Here Forever",
+      "id": 247,
+      "classification": "Pending",
+      "source": "https://crossplaygames.com/crossplay?p1=playstation-5&p2=windows-pc",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Unrailed!",
+      "id": 248,
+      "classification": "Pending",
+      "source": "https://crossplaygames.com/crossplay?p1=playstation-5&p2=windows-pc",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Mortal Kombat 11",
+      "id": 249,
+      "classification": "Pending",
+      "source": "https://crossplaygames.com/crossplay?p1=playstation-5&p2=windows-pc",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "World War Z",
+      "id": 250,
+      "classification": "Pending",
+      "source": "https://crossplaygames.com/crossplay?p1=playstation-5&p2=windows-pc",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    }
+  ]
+}
