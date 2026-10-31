@@ -1,0 +1,51 @@
+name: Verify GeForce NOW via NVIDIA
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '33 6 * * 2'
+  push:
+    paths:
+      - 'scripts/verify_gfn_nvidia.py'
+      - '.github/workflows/verify-gfn.yml'
+  workflow_run:
+    workflows: ["Discover PS5-PC crossplay candidates"]
+    types: [completed]
+permissions:
+  contents: write
+concurrency:
+  group: crossplay-catalog-writer
+  cancel-in-progress: false
+jobs:
+  verify:
+    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python -m py_compile scripts/verify_gfn_nvidia.py
+      - name: Verify exact first-party NVIDIA list
+        run: python -u scripts/verify_gfn_nvidia.py
+      - name: Validate report
+        run: |
+          python - <<'PY'
+          import json
+          d=json.load(open('data/games.json'))
+          r=json.load(open('data/gfn-audit.json'))
+          assert len(d['games'])==r['total']
+          assert r['yes']+r['no']+r['unknown']==r['total']
+          PY
+      - name: Persist NVIDIA verification
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/games.json index.html data/gfn-audit.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Save NVIDIA first-party GeForce NOW verification'
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
