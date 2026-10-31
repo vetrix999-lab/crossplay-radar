@@ -1,0 +1,15 @@
+{
+  "checked_at": "2026-10-31",
+  "counts": {
+    "games_total": 224,
+    "games_reviewed": 224,
+    "sources_total": 539,
+    "community_excluded": 198,
+    "official_candidates": 336,
+    "official_pages_ok": 303,
+    "official_pages_failed": 33,
+    "strong_review_candidates": 20,
+    "automatic_verified": 0
+  },
+  "remaining": 0
+}
