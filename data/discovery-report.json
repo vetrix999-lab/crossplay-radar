@@ -20,12 +20,8 @@
       "reason": "No validated record-level extractor; navigation excluded"
     }
   ],
-  "new_candidates": 3,
-  "names": [
-    "Minecraft",
-    "Tom Clancy's Rainbow Six Siege X",
-    "RuneScape: Dragonwilds"
-  ],
+  "new_candidates": 0,
+  "names": [],
   "errors": [],
   "catalog_total": 314,
   "verified_promotions": 0
