@@ -1,16 +1,16 @@
 {
-  "run_date": "2026-10-31",
+  "run_date": "2026-11-03",
   "counts": {
-    "pending_total": 224,
-    "due": 224,
-    "attempted": 224,
-    "search_requests": 672,
-    "official_candidates": 539,
-    "official_pages_fetched": 474,
-    "official_page_failures": 46,
+    "pending_total": 369,
+    "due": 153,
+    "attempted": 153,
+    "search_requests": 459,
+    "official_candidates": 597,
+    "official_pages_fetched": 539,
+    "official_page_failures": 36,
     "errors": 0,
     "verified_promotions": 0
   },
-  "total_saved": 224,
+  "total_saved": 377,
   "remaining": 0
 }
