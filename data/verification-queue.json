@@ -1,9 +1,9 @@
 {
-  "processed": 250,
-  "total": 250,
+  "processed": 403,
+  "total": 403,
   "counts": {
-    "Verified": 15,
-    "Pending": 228,
+    "Verified": 27,
+    "Pending": 369,
     "Rejected": 7
   },
   "items": [
@@ -54,7 +54,7 @@
         "crossplay_terms": true
       },
       "nextAction": "revalidate_live_service_and_official_context",
-      "evidenceFetchedAt": "2026-10-31"
+      "evidenceFetchedAt": "2026-11-04"
     },
     {
       "name": "Call of Duty: Warzone",
@@ -80,7 +80,7 @@
         "crossplay_terms": true
       },
       "nextAction": "revalidate_live_service_and_official_context",
-      "evidenceFetchedAt": "2026-10-31"
+      "evidenceFetchedAt": "2026-11-04"
     },
     {
       "name": "Destiny 2",
@@ -189,12 +189,18 @@
     {
       "name": "Minecraft Dungeons",
       "id": 17,
-      "classification": "Pending",
-      "source": "https://www.google.com/search?q=Minecraft%20Dungeons%20official%20crossplay%20PS5%20PC",
-      "checkedAt": null,
-      "officialSource": false,
-      "review": "source_not_in_official_allowlist",
-      "nextAction": "manual_official_pair_and_live_service_review"
+      "classification": "Verified",
+      "source": "https://www.minecraft.net/en-us/article/cross-platform-play-comes-minecraft-dungeons",
+      "checkedAt": "2026-10-31",
+      "officialSource": true,
+      "review": {
+        "result": "official_page_insufficient_pair_evidence",
+        "http": 200,
+        "platform_terms": false,
+        "crossplay_terms": true
+      },
+      "nextAction": "revalidate_live_service_and_official_context",
+      "evidenceFetchedAt": "2026-11-04"
     },
     {
       "name": "Grounded",
@@ -260,7 +266,7 @@
         "crossplay_terms": false
       },
       "nextAction": "revalidate_live_service_and_official_context",
-      "evidenceFetchedAt": "2026-10-31"
+      "evidenceFetchedAt": "2026-11-04"
     },
     {
       "name": "World of Warships: Legends",
@@ -365,32 +371,50 @@
     {
       "name": "EA Sports FC 26",
       "id": 34,
-      "classification": "Pending",
-      "source": "https://www.google.com/search?q=EA%20Sports%20FC%2026%20official%20crossplay%20PS5%20PC",
-      "checkedAt": null,
-      "officialSource": false,
-      "review": "source_not_in_official_allowlist",
-      "nextAction": "manual_official_pair_and_live_service_review"
+      "classification": "Verified",
+      "source": "https://help.ea.com/en/articles/ea-sports-fc/cross-play/",
+      "checkedAt": "2026-10-31",
+      "officialSource": true,
+      "review": {
+        "result": "official_page_insufficient_pair_evidence",
+        "http": 200,
+        "platform_terms": false,
+        "crossplay_terms": true
+      },
+      "nextAction": "revalidate_live_service_and_official_context",
+      "evidenceFetchedAt": "2026-11-04"
     },
     {
       "name": "F1 25",
       "id": 35,
-      "classification": "Pending",
-      "source": "https://www.google.com/search?q=F1%2025%20official%20crossplay%20PS5%20PC",
-      "checkedAt": null,
-      "officialSource": false,
-      "review": "source_not_in_official_allowlist",
-      "nextAction": "manual_official_pair_and_live_service_review"
+      "classification": "Verified",
+      "source": "https://help.ea.com/en/articles/f1/f1-25/how-to-cross-play/",
+      "checkedAt": "2026-10-31",
+      "officialSource": true,
+      "review": {
+        "result": "official_page_insufficient_pair_evidence",
+        "http": 200,
+        "platform_terms": false,
+        "crossplay_terms": true
+      },
+      "nextAction": "revalidate_live_service_and_official_context",
+      "evidenceFetchedAt": "2026-11-04"
     },
     {
       "name": "Need for Speed Unbound",
       "id": 36,
-      "classification": "Pending",
-      "source": "https://www.google.com/search?q=Need%20for%20Speed%20Unbound%20official%20crossplay%20PS5%20PC",
-      "checkedAt": null,
-      "officialSource": false,
-      "review": "source_not_in_official_allowlist",
-      "nextAction": "manual_official_pair_and_live_service_review"
+      "classification": "Verified",
+      "source": "https://help.ea.com/en/articles/need-for-speed/need-for-speed-unbound/cross-play/",
+      "checkedAt": "2026-10-31",
+      "officialSource": true,
+      "review": {
+        "result": "official_page_insufficient_pair_evidence",
+        "http": 200,
+        "platform_terms": false,
+        "crossplay_terms": true
+      },
+      "nextAction": "revalidate_live_service_and_official_context",
+      "evidenceFetchedAt": "2026-11-04"
     },
     {
       "name": "Disney Speedstorm",
@@ -537,7 +561,7 @@
         "crossplay_terms": true
       },
       "nextAction": "revalidate_live_service_and_official_context",
-      "evidenceFetchedAt": "2026-10-31"
+      "evidenceFetchedAt": "2026-11-04"
     },
     {
       "name": "It Takes Two",
@@ -553,7 +577,7 @@
         "crossplay_terms": true
       },
       "nextAction": "revalidate_live_service_and_official_context",
-      "evidenceFetchedAt": "2026-10-31"
+      "evidenceFetchedAt": "2026-11-04"
     },
     {
       "name": "Battlefield 6",
@@ -818,12 +842,18 @@
     {
       "name": "Riders Republic",
       "id": 78,
-      "classification": "Pending",
-      "source": "https://www.google.com/search?q=Riders%20Republic%20official%20crossplay%20PS5%20PC",
-      "checkedAt": null,
-      "officialSource": false,
-      "review": "source_not_in_official_allowlist",
-      "nextAction": "manual_official_pair_and_live_service_review"
+      "classification": "Verified",
+      "source": "https://www.ubisoft.com/en-us/game/riders-republic",
+      "checkedAt": "2026-10-31",
+      "officialSource": true,
+      "review": {
+        "result": "official_page_pair_and_crossplay_terms_needs_manual_context",
+        "http": 200,
+        "platform_terms": true,
+        "crossplay_terms": true
+      },
+      "nextAction": "revalidate_live_service_and_official_context",
+      "evidenceFetchedAt": "2026-11-04"
     },
     {
       "name": "Skull and Bones",
@@ -958,12 +988,18 @@
     {
       "name": "Battlefield 2042",
       "id": 92,
-      "classification": "Pending",
-      "source": "",
-      "checkedAt": null,
-      "officialSource": false,
-      "review": "no_source",
-      "nextAction": "manual_official_pair_and_live_service_review"
+      "classification": "Verified",
+      "source": "https://help.ea.com/en/articles/battlefield/battlefield-2042/cross-play/",
+      "checkedAt": "2026-10-31",
+      "officialSource": true,
+      "review": {
+        "result": "official_page_insufficient_pair_evidence",
+        "http": 200,
+        "platform_terms": false,
+        "crossplay_terms": true
+      },
+      "nextAction": "revalidate_live_service_and_official_context",
+      "evidenceFetchedAt": "2026-11-04"
     },
     {
       "name": "Battlefield V",
@@ -1448,12 +1484,12 @@
     {
       "name": "Worms Rumble",
       "id": 141,
-      "classification": "Pending",
-      "source": "",
-      "checkedAt": null,
+      "classification": "Verified",
+      "source": "https://www.team17.com/news/introducing-worms-rumble",
+      "checkedAt": "2026-10-31",
       "officialSource": false,
-      "review": "no_source",
-      "nextAction": "manual_official_pair_and_live_service_review"
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "revalidate_live_service_and_official_context"
     },
     {
       "name": "Wreckfest",
@@ -1559,7 +1595,7 @@
         "crossplay_terms": false
       },
       "nextAction": "revalidate_live_service_and_official_context",
-      "evidenceFetchedAt": "2026-10-31"
+      "evidenceFetchedAt": "2026-11-04"
     },
     {
       "name": "Borderlands 4",
@@ -1665,12 +1701,18 @@
     {
       "name": "Palia",
       "id": 162,
-      "classification": "Pending",
-      "source": "",
-      "checkedAt": null,
-      "officialSource": false,
-      "review": "no_source",
-      "nextAction": "manual_official_pair_and_live_service_review"
+      "classification": "Verified",
+      "source": "https://blog.playstation.com/2025/04/15/cozy-adventure-palia-opens-its-doors-may-13-on-ps5/",
+      "checkedAt": "2026-10-31",
+      "officialSource": true,
+      "review": {
+        "result": "official_page_pair_and_crossplay_terms_needs_manual_context",
+        "http": 200,
+        "platform_terms": true,
+        "crossplay_terms": true
+      },
+      "nextAction": "revalidate_live_service_and_official_context",
+      "evidenceFetchedAt": "2026-11-04"
     },
     {
       "name": "Throne and Liberty",
@@ -2015,12 +2057,12 @@
     {
       "name": "Gears of War Reloaded",
       "id": 197,
-      "classification": "Pending",
-      "source": "",
-      "checkedAt": null,
+      "classification": "Verified",
+      "source": "https://news.xbox.com/en-us/2025/05/05/gears-of-war-reloaded-release-date/",
+      "checkedAt": "2026-10-31",
       "officialSource": false,
-      "review": "no_source",
-      "nextAction": "manual_official_pair_and_live_service_review"
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "revalidate_live_service_and_official_context"
     },
     {
       "name": "Gears of War E-Day",
@@ -2055,12 +2097,12 @@
     {
       "name": "Call of Duty: Black Ops Cold War",
       "id": 201,
-      "classification": "Pending",
-      "source": "",
-      "checkedAt": null,
+      "classification": "Verified",
+      "source": "https://support.activision.com/content/atvi/support/web/en/black-ops-cold-war/articles/call-of-duty-black-ops-cold-war-editions-faq.html",
+      "checkedAt": "2026-10-31",
       "officialSource": false,
-      "review": "no_source",
-      "nextAction": "manual_official_pair_and_live_service_review"
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "revalidate_live_service_and_official_context"
     },
     {
       "name": "Call of Duty: Modern Warfare II",
@@ -2075,12 +2117,12 @@
     {
       "name": "Call of Duty: Vanguard",
       "id": 203,
-      "classification": "Pending",
-      "source": "",
-      "checkedAt": null,
+      "classification": "Verified",
+      "source": "https://support.activision.com/vanguard/articles/vanguard-editions-faq",
+      "checkedAt": "2026-10-31",
       "officialSource": false,
-      "review": "no_source",
-      "nextAction": "manual_official_pair_and_live_service_review"
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "revalidate_live_service_and_official_context"
     },
     {
       "name": "DIRT 5",
@@ -2135,12 +2177,12 @@
     {
       "name": "Overcooked! All You Can Eat",
       "id": 209,
-      "classification": "Pending",
-      "source": "",
-      "checkedAt": null,
+      "classification": "Verified",
+      "source": "https://www.team17.com/news/overcooked-all-you-can-eat-faq",
+      "checkedAt": "2026-10-31",
       "officialSource": false,
-      "review": "no_source",
-      "nextAction": "manual_official_pair_and_live_service_review"
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "revalidate_live_service_and_official_context"
     },
     {
       "name": "Project Winter",
@@ -2547,6 +2589,1536 @@
       "id": 250,
       "classification": "Pending",
       "source": "https://crossplaygames.com/crossplay?p1=playstation-5&p2=windows-pc",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Skyclimbers",
+      "id": 255,
+      "classification": "Pending",
+      "source": "https://crossplaygames.com/games/skyclimbers",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Tom Clancy’s Rainbow Six Extraction",
+      "id": 258,
+      "classification": "Pending",
+      "source": "https://crossplaygames.com/games/tom-clancys-rainbow-six-extraction",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Dungeons & Dragons: Dark Alliance",
+      "id": 259,
+      "classification": "Pending",
+      "source": "https://crossplaygames.com/games/dungeons-and-dragons-dark-alliance",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "FIFA 22",
+      "id": 260,
+      "classification": "Pending",
+      "source": "https://crossplaygames.com/games/fifa-22",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Gotham Knights",
+      "id": 262,
+      "classification": "Pending",
+      "source": "https://crossplaygames.com/games/gotham-knights",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Hellpoint",
+      "id": 263,
+      "classification": "Pending",
+      "source": "https://crossplaygames.com/games/hellpoint",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "MechWarrior 5: Mercenaries",
+      "id": 264,
+      "classification": "Pending",
+      "source": "https://crossplaygames.com/games/mechwarrior-5-mercenaries",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Outbreak",
+      "id": 265,
+      "classification": "Pending",
+      "source": "https://crossplaygames.com/games/outbreak",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Outbreak: Epidemic",
+      "id": 266,
+      "classification": "Pending",
+      "source": "https://crossplaygames.com/games/outbreak-epidemic",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Outbreak: The New Nightmare",
+      "id": 267,
+      "classification": "Pending",
+      "source": "https://crossplaygames.com/games/outbreak-the-new-nightmare",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Overcooked! 2",
+      "id": 268,
+      "classification": "Pending",
+      "source": "https://crossplaygames.com/games/overcooked-2",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "PAYDAY 2",
+      "id": 269,
+      "classification": "Pending",
+      "source": "https://crossplaygames.com/games/payday-2",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Remnant: From the Ashes",
+      "id": 271,
+      "classification": "Pending",
+      "source": "https://crossplaygames.com/games/remnant-from-the-ashes",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Sackboy: A Big Adventure",
+      "id": 272,
+      "classification": "Pending",
+      "source": "https://crossplaygames.com/games/sackboy-a-big-adventure",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "SD Gundam Battle Alliance",
+      "id": 273,
+      "classification": "Pending",
+      "source": "https://crossplaygames.com/games/sd-gundam-battle-alliance",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Secret Neighbor",
+      "id": 274,
+      "classification": "Pending",
+      "source": "https://crossplaygames.com/games/secret-neighbor",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Spacelords",
+      "id": 275,
+      "classification": "Pending",
+      "source": "https://crossplaygames.com/games/spacelords",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Tannenberg",
+      "id": 277,
+      "classification": "Pending",
+      "source": "https://crossplaygames.com/games/tannenberg",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "The Ascent",
+      "id": 278,
+      "classification": "Pending",
+      "source": "https://crossplaygames.com/games/the-ascent",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Verdun",
+      "id": 280,
+      "classification": "Pending",
+      "source": "https://crossplaygames.com/games/verdun",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Watch Dogs: Legion",
+      "id": 281,
+      "classification": "Pending",
+      "source": "https://crossplaygames.com/games/watch-dogs-legion",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Windjammers 2",
+      "id": 282,
+      "classification": "Pending",
+      "source": "https://crossplaygames.com/games/windjammers-2",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Wo Long: Fallen Dynasty",
+      "id": 283,
+      "classification": "Pending",
+      "source": "https://crossplaygames.com/games/wo-long-fallen-dynasty",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Wuthering Waves",
+      "id": 286,
+      "classification": "Pending",
+      "source": "https://crossplayguide.com/games/wuthering-waves/",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Ghost of Tsushima",
+      "id": 287,
+      "classification": "Pending",
+      "source": "https://crossplayguide.com/games/ghost-of-tsushima/",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Age of Empires II: Definitive Edition",
+      "id": 288,
+      "classification": "Pending",
+      "source": "https://crossplayguide.com/games/age-of-empires-ii-definitive-edition/",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "My Hero Ultra Rumble",
+      "id": 289,
+      "classification": "Pending",
+      "source": "https://crossplayguide.com/games/my-hero-ultra-rumble/",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Call of Duty: Black Ops 7",
+      "id": 291,
+      "classification": "Pending",
+      "source": "https://crossplayguide.com/games/call-of-duty-black-ops-7/",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "EA Sports FC 24",
+      "id": 292,
+      "classification": "Pending",
+      "source": "https://crossplayguide.com/games/ea-sports-fc-24/",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "FragPunk",
+      "id": 293,
+      "classification": "Pending",
+      "source": "https://crossplayguide.com/games/fragpunk/",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Lords of the Fallen (2023)",
+      "id": 294,
+      "classification": "Pending",
+      "source": "https://crossplayguide.com/games/lords-of-the-fallen-2023/",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "EA Sports FC 25",
+      "id": 295,
+      "classification": "Pending",
+      "source": "https://crossplayguide.com/games/ea-sports-fc-25/",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Rematch",
+      "id": 296,
+      "classification": "Pending",
+      "source": "https://crossplayguide.com/games/rematch/",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Sid Meier's Civilization VII",
+      "id": 297,
+      "classification": "Pending",
+      "source": "https://crossplayguide.com/games/sid-meiers-civilization-vii/",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Infinity Nikki",
+      "id": 298,
+      "classification": "Pending",
+      "source": "https://crossplayguide.com/games/infinity-nikki/",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "DC Universe Online",
+      "id": 299,
+      "classification": "Pending",
+      "source": "https://crossplayguide.com/games/dc-universe-online/",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Mordhau",
+      "id": 300,
+      "classification": "Pending",
+      "source": "https://crossplayguide.com/games/mordhau/",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Space Engineers",
+      "id": 301,
+      "classification": "Pending",
+      "source": "https://crossplayguide.com/games/space-engineers/",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Skate.",
+      "id": 302,
+      "classification": "Pending",
+      "source": "https://crossplayguide.com/games/skate/",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Age of Mythology: Retold",
+      "id": 303,
+      "classification": "Pending",
+      "source": "https://crossplayguide.com/games/age-of-mythology-retold/",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Stumble Guys",
+      "id": 304,
+      "classification": "Pending",
+      "source": "https://crossplayguide.com/games/stumble-guys/",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Escape the Backrooms",
+      "id": 305,
+      "classification": "Pending",
+      "source": "https://crossplayguide.com/games/escape-the-backrooms/",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Asphalt Legends",
+      "id": 306,
+      "classification": "Pending",
+      "source": "https://crossplayguide.com/games/asphalt-legends/",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Active Matter",
+      "id": 307,
+      "classification": "Pending",
+      "source": "https://crossplayguide.com/games/active-matter/",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Medieval Dynasty",
+      "id": 309,
+      "classification": "Pending",
+      "source": "https://crossplayguide.com/games/medieval-dynasty/",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Sniper Elite: Resistance",
+      "id": 310,
+      "classification": "Pending",
+      "source": "https://crossplayguide.com/games/sniper-elite-resistance/",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "UFL",
+      "id": 311,
+      "classification": "Pending",
+      "source": "https://crossplayguide.com/games/ufl/",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "RoadCraft",
+      "id": 313,
+      "classification": "Pending",
+      "source": "https://crossplayguide.com/games/roadcraft/",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Fantasy Life i: The Girl Who Steals Time",
+      "id": 314,
+      "classification": "Pending",
+      "source": "https://crossplayguide.com/games/fantasy-life-i-the-girl-who-steals-time/",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "eFootball",
+      "id": 315,
+      "classification": "Pending",
+      "source": "https://crossplayguide.com/games/efootball/",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "The Texas Chain Saw Massacre",
+      "id": 316,
+      "classification": "Pending",
+      "source": "https://crossplayguide.com/games/the-texas-chain-saw-massacre/",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Battlefield REDSEC",
+      "id": 317,
+      "classification": "Pending",
+      "source": "https://crossplayguide.com/games/battlefield-redsec/",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Ravenswatch",
+      "id": 318,
+      "classification": "Pending",
+      "source": "https://crossplayguide.com/games/ravenswatch/",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "WWE 2K25",
+      "id": 319,
+      "classification": "Pending",
+      "source": "https://crossplayguide.com/games/wwe-2k25/",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Deadzone: Rogue",
+      "id": 320,
+      "classification": "Pending",
+      "source": "https://crossplayguide.com/games/deadzone-rogue/",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Granblue Fantasy Versus: Rising",
+      "id": 321,
+      "classification": "Pending",
+      "source": "https://crossplayguide.com/games/granblue-fantasy-versus-rising/",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Path of Titans",
+      "id": 322,
+      "classification": "Pending",
+      "source": "https://crossplayguide.com/games/path-of-titans/",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Madden NFL 26",
+      "id": 323,
+      "classification": "Pending",
+      "source": "https://crossplayguide.com/games/madden-nfl-26/",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Undisputed",
+      "id": 325,
+      "classification": "Pending",
+      "source": "https://crossplayguide.com/games/undisputed/",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Wobbly Life",
+      "id": 327,
+      "classification": "Pending",
+      "source": "https://crossplayguide.com/games/wobbly-life/",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "PGA Tour 2K25",
+      "id": 329,
+      "classification": "Pending",
+      "source": "https://crossplayguide.com/games/pga-tour-2k25/",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Minecraft",
+      "id": 330,
+      "classification": "Pending",
+      "source": "https://crossplayguide.com/games/minecraft/",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "2XKO",
+      "id": 331,
+      "classification": "Pending",
+      "source": "https://crossplayable.com/pairs/steam-ps5",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Anno 117: Pax Romana",
+      "id": 335,
+      "classification": "Pending",
+      "source": "https://crossplayable.com/pairs/steam-ps5",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Biped",
+      "id": 336,
+      "classification": "Pending",
+      "source": "https://crossplayable.com/pairs/steam-ps5",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Clone Drone in the Danger Zone",
+      "id": 338,
+      "classification": "Pending",
+      "source": "https://crossplayable.com/pairs/steam-ps5",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Crime Boss: Rockay City",
+      "id": 340,
+      "classification": "Pending",
+      "source": "https://crossplayable.com/pairs/steam-ps5",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Daemon X Machina: Titanic Scion",
+      "id": 341,
+      "classification": "Pending",
+      "source": "https://crossplayable.com/pairs/steam-ps5",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "EA SPORTS WRC",
+      "id": 342,
+      "classification": "Pending",
+      "source": "https://crossplayable.com/pairs/steam-ps5",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Ember Knights",
+      "id": 343,
+      "classification": "Pending",
+      "source": "https://crossplayable.com/pairs/steam-ps5",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "FBC: Firebreak",
+      "id": 344,
+      "classification": "Pending",
+      "source": "https://crossplayable.com/pairs/steam-ps5",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Ghost of Tsushima Director's Cut",
+      "id": 345,
+      "classification": "Pending",
+      "source": "https://crossplayable.com/pairs/steam-ps5",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Labyrinthine",
+      "id": 348,
+      "classification": "Pending",
+      "source": "https://crossplayable.com/pairs/steam-ps5",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Lords of the Fallen",
+      "id": 349,
+      "classification": "Pending",
+      "source": "https://crossplayable.com/pairs/steam-ps5",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "MechWarrior 5: Clans",
+      "id": 351,
+      "classification": "Pending",
+      "source": "https://crossplayable.com/pairs/steam-ps5",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Need for Speed Heat",
+      "id": 352,
+      "classification": "Pending",
+      "source": "https://crossplayable.com/pairs/steam-ps5",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Need for Speed Hot Pursuit Remastered",
+      "id": 353,
+      "classification": "Pending",
+      "source": "https://crossplayable.com/pairs/steam-ps5",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Off The Grid",
+      "id": 354,
+      "classification": "Pending",
+      "source": "https://crossplayable.com/pairs/steam-ps5",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Planted!",
+      "id": 355,
+      "classification": "Pending",
+      "source": "https://crossplayable.com/pairs/steam-ps5",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Predecessor",
+      "id": 356,
+      "classification": "Pending",
+      "source": "https://crossplayable.com/pairs/steam-ps5",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Quake II",
+      "id": 357,
+      "classification": "Pending",
+      "source": "https://crossplayable.com/pairs/steam-ps5",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Sengoku Dynasty",
+      "id": 358,
+      "classification": "Pending",
+      "source": "https://crossplayable.com/pairs/steam-ps5",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Sker Ritual",
+      "id": 359,
+      "classification": "Pending",
+      "source": "https://crossplayable.com/pairs/steam-ps5",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Smalland: Survive the Wilds",
+      "id": 360,
+      "classification": "Pending",
+      "source": "https://crossplayable.com/pairs/steam-ps5",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Solasta: Crown of the Magister",
+      "id": 361,
+      "classification": "Pending",
+      "source": "https://crossplayable.com/pairs/steam-ps5",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Starship Troopers: Extermination",
+      "id": 362,
+      "classification": "Pending",
+      "source": "https://crossplayable.com/pairs/steam-ps5",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Street Fighter V",
+      "id": 363,
+      "classification": "Pending",
+      "source": "https://crossplayable.com/pairs/steam-ps5",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Sword Art Online Fractured Daydream",
+      "id": 364,
+      "classification": "Pending",
+      "source": "https://crossplayable.com/pairs/steam-ps5",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Teenage Mutant Ninja Turtles: Splintered Fate",
+      "id": 365,
+      "classification": "Pending",
+      "source": "https://crossplayable.com/pairs/steam-ps5",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "The Game of Life 2",
+      "id": 366,
+      "classification": "Pending",
+      "source": "https://crossplayable.com/pairs/steam-ps5",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "The Jackbox Party Pack 12",
+      "id": 367,
+      "classification": "Pending",
+      "source": "https://crossplayable.com/pairs/steam-ps5",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "THE KING OF FIGHTERS XV",
+      "id": 368,
+      "classification": "Pending",
+      "source": "https://crossplayable.com/pairs/steam-ps5",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "The Lord of the Rings: Return to Moria",
+      "id": 369,
+      "classification": "Pending",
+      "source": "https://crossplayable.com/pairs/steam-ps5",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "TopSpin 2K25",
+      "id": 370,
+      "classification": "Pending",
+      "source": "https://crossplayable.com/pairs/steam-ps5",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Wargroove",
+      "id": 371,
+      "classification": "Pending",
+      "source": "https://crossplayable.com/pairs/steam-ps5",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "We Were Here Expeditions: The FriendShip",
+      "id": 372,
+      "classification": "Pending",
+      "source": "https://crossplayable.com/pairs/steam-ps5",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Zombie Army 4: Dead War",
+      "id": 374,
+      "classification": "Pending",
+      "source": "https://crossplayable.com/pairs/steam-ps5",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "MotoGP 25",
+      "id": 375,
+      "classification": "Pending",
+      "source": "https://crossplayable.com/pairs/steam-ps5",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Absolum",
+      "id": 376,
+      "classification": "Pending",
+      "source": "https://crossplayable.com/pairs/steam-ps5",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Biped 2",
+      "id": 377,
+      "classification": "Pending",
+      "source": "https://crossplayable.com/pairs/steam-ps5",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Coral Island",
+      "id": 378,
+      "classification": "Pending",
+      "source": "https://crossplayable.com/pairs/steam-ps5",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Cricket 24",
+      "id": 379,
+      "classification": "Pending",
+      "source": "https://crossplayable.com/pairs/steam-ps5",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Disney Dreamlight Valley",
+      "id": 380,
+      "classification": "Pending",
+      "source": "https://crossplayable.com/pairs/steam-ps5",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "DRAGON BALL: THE BREAKERS",
+      "id": 381,
+      "classification": "Pending",
+      "source": "https://crossplayable.com/pairs/steam-ps5",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Drawful 2",
+      "id": 382,
+      "classification": "Pending",
+      "source": "https://crossplayable.com/pairs/steam-ps5",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "F1 24",
+      "id": 383,
+      "classification": "Pending",
+      "source": "https://crossplayable.com/pairs/steam-ps5",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Fae Farm",
+      "id": 384,
+      "classification": "Pending",
+      "source": "https://crossplayable.com/pairs/steam-ps5",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "FATAL FURY: City of the Wolves",
+      "id": 385,
+      "classification": "Pending",
+      "source": "https://crossplayable.com/pairs/steam-ps5",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Fling to the Finish",
+      "id": 386,
+      "classification": "Pending",
+      "source": "https://crossplayable.com/pairs/steam-ps5",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "For The King II",
+      "id": 387,
+      "classification": "Pending",
+      "source": "https://crossplayable.com/pairs/steam-ps5",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Harry Potter: Quidditch Champions",
+      "id": 388,
+      "classification": "Pending",
+      "source": "https://crossplayable.com/pairs/steam-ps5",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "House Flipper 2",
+      "id": 389,
+      "classification": "Pending",
+      "source": "https://crossplayable.com/pairs/steam-ps5",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Keep Talking and Nobody Explodes",
+      "id": 390,
+      "classification": "Pending",
+      "source": "https://crossplayable.com/pairs/steam-ps5",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "LEGO Party!",
+      "id": 391,
+      "classification": "Pending",
+      "source": "https://crossplayable.com/pairs/steam-ps5",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "LEGO Voyagers",
+      "id": 392,
+      "classification": "Pending",
+      "source": "https://crossplayable.com/pairs/steam-ps5",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Minecraft Dungeons II",
+      "id": 393,
+      "classification": "Pending",
+      "source": "https://crossplayable.com/pairs/steam-ps5",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Moving Out 2",
+      "id": 394,
+      "classification": "Pending",
+      "source": "https://crossplayable.com/pairs/steam-ps5",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Nickelodeon All-Star Brawl 2",
+      "id": 395,
+      "classification": "Pending",
+      "source": "https://crossplayable.com/pairs/steam-ps5",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Pavlov",
+      "id": 396,
+      "classification": "Pending",
+      "source": "https://crossplayable.com/pairs/steam-ps5",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Power Rangers: Battle for the Grid",
+      "id": 397,
+      "classification": "Pending",
+      "source": "https://crossplayable.com/pairs/steam-ps5",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Quiplash 2 InterLASHional",
+      "id": 398,
+      "classification": "Pending",
+      "source": "https://crossplayable.com/pairs/steam-ps5",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Roots of Pacha",
+      "id": 399,
+      "classification": "Pending",
+      "source": "https://crossplayable.com/pairs/steam-ps5",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Salt and Sacrifice",
+      "id": 400,
+      "classification": "Pending",
+      "source": "https://crossplayable.com/pairs/steam-ps5",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Sky: Children of the Light",
+      "id": 401,
+      "classification": "Pending",
+      "source": "https://crossplayable.com/pairs/steam-ps5",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "SPLITGATE: Arena Reloaded",
+      "id": 402,
+      "classification": "Pending",
+      "source": "https://crossplayable.com/pairs/steam-ps5",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Tetris Effect: Connected",
+      "id": 403,
+      "classification": "Pending",
+      "source": "https://crossplayable.com/pairs/steam-ps5",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "The Jackbox Naughty Pack",
+      "id": 404,
+      "classification": "Pending",
+      "source": "https://crossplayable.com/pairs/steam-ps5",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "The Jackbox Party Pack",
+      "id": 405,
+      "classification": "Pending",
+      "source": "https://crossplayable.com/pairs/steam-ps5",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "The Jackbox Party Pack 10",
+      "id": 406,
+      "classification": "Pending",
+      "source": "https://crossplayable.com/pairs/steam-ps5",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "The Jackbox Party Pack 11",
+      "id": 407,
+      "classification": "Pending",
+      "source": "https://crossplayable.com/pairs/steam-ps5",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "The Jackbox Party Pack 2",
+      "id": 408,
+      "classification": "Pending",
+      "source": "https://crossplayable.com/pairs/steam-ps5",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "The Jackbox Party Pack 3",
+      "id": 409,
+      "classification": "Pending",
+      "source": "https://crossplayable.com/pairs/steam-ps5",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "The Jackbox Party Pack 4",
+      "id": 410,
+      "classification": "Pending",
+      "source": "https://crossplayable.com/pairs/steam-ps5",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "The Jackbox Party Pack 5",
+      "id": 411,
+      "classification": "Pending",
+      "source": "https://crossplayable.com/pairs/steam-ps5",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "The Jackbox Party Pack 6",
+      "id": 412,
+      "classification": "Pending",
+      "source": "https://crossplayable.com/pairs/steam-ps5",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "The Jackbox Party Pack 7",
+      "id": 413,
+      "classification": "Pending",
+      "source": "https://crossplayable.com/pairs/steam-ps5",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "The Jackbox Party Pack 8",
+      "id": 414,
+      "classification": "Pending",
+      "source": "https://crossplayable.com/pairs/steam-ps5",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "The Jackbox Party Pack 9",
+      "id": 415,
+      "classification": "Pending",
+      "source": "https://crossplayable.com/pairs/steam-ps5",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "The Jackbox Party Starter",
+      "id": 416,
+      "classification": "Pending",
+      "source": "https://crossplayable.com/pairs/steam-ps5",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "The Jackbox Survey Scramble",
+      "id": 417,
+      "classification": "Pending",
+      "source": "https://crossplayable.com/pairs/steam-ps5",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Ticket to Ride",
+      "id": 418,
+      "classification": "Pending",
+      "source": "https://crossplayable.com/pairs/steam-ps5",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Tony Hawk's Pro Skater 3 + 4",
+      "id": 419,
+      "classification": "Pending",
+      "source": "https://crossplayable.com/pairs/steam-ps5",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Totally Reliable Delivery Service",
+      "id": 420,
+      "classification": "Pending",
+      "source": "https://crossplayable.com/pairs/steam-ps5",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Ultimate Chicken Horse",
+      "id": 421,
+      "classification": "Pending",
+      "source": "https://crossplayable.com/pairs/steam-ps5",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Virtua Fighter 5 R.E.V.O. World Stage",
+      "id": 422,
+      "classification": "Pending",
+      "source": "https://crossplayable.com/pairs/steam-ps5",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Walkabout Mini Golf",
+      "id": 423,
+      "classification": "Pending",
+      "source": "https://crossplayable.com/pairs/steam-ps5",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "We Were Here",
+      "id": 424,
+      "classification": "Pending",
+      "source": "https://crossplayable.com/pairs/steam-ps5",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "We Were Here Together",
+      "id": 425,
+      "classification": "Pending",
+      "source": "https://crossplayable.com/pairs/steam-ps5",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "We Were Here Too",
+      "id": 426,
+      "classification": "Pending",
+      "source": "https://crossplayable.com/pairs/steam-ps5",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Wingspan",
+      "id": 427,
+      "classification": "Pending",
+      "source": "https://crossplayable.com/pairs/steam-ps5",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Hot Wheels Unleashed 2 - Turbocharged",
+      "id": 428,
+      "classification": "Pending",
+      "source": "https://crossplayable.com/pairs/steam-ps5",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Monster Jam Showdown",
+      "id": 429,
+      "classification": "Pending",
+      "source": "https://crossplayable.com/pairs/steam-ps5",
+      "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Super Mega Baseball 4",
+      "id": 430,
+      "classification": "Pending",
+      "source": "https://crossplayable.com/pairs/steam-ps5",
       "checkedAt": "2026-10-31",
       "officialSource": false,
       "review": "source_not_in_official_allowlist",
