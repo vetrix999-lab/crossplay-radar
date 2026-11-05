@@ -1,13 +1,13 @@
 {
   "stats": {
-    "total": 403,
-    "existing_checked": 326,
-    "existing_passed": 320,
-    "existing_failed": 6,
-    "steam_added": 0,
-    "fallback_added": 4,
+    "total": 404,
+    "existing_checked": 330,
+    "existing_passed": 326,
+    "existing_failed": 4,
+    "steam_added": 1,
+    "fallback_added": 0,
     "missing": 73,
-    "http_content_verified": 324
+    "http_content_verified": 327
   },
   "unresolved": [
     {
@@ -29,11 +29,6 @@
       "name": "World of Warships: Legends",
       "reason": "No validated image from exact-title sources",
       "existing_url": ""
-    },
-    {
-      "name": "F1 25",
-      "reason": "No validated image from exact-title sources",
-      "existing_url": "https://upload.wikimedia.org/wikipedia/en/9/9e/F1_25_cover_art.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
     },
     {
       "name": "Asphalt Legends Unite",
@@ -71,11 +66,6 @@
       "existing_url": ""
     },
     {
-      "name": "Age of Empires IV",
-      "reason": "No validated image from exact-title sources",
-      "existing_url": "https://upload.wikimedia.org/wikipedia/en/0/08/Age_of_Empires_IV_Cover_Art.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
-    },
-    {
       "name": "Armored Core VI",
       "reason": "No validated image from exact-title sources",
       "existing_url": ""
@@ -89,6 +79,11 @@
       "name": "Diablo II Resurrected",
       "reason": "No validated image from exact-title sources",
       "existing_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2536520/header.jpg"
+    },
+    {
+      "name": "Diablo Immortal",
+      "reason": "No validated image from exact-title sources",
+      "existing_url": "https://upload.wikimedia.org/wikipedia/en/c/c0/Diablo_Immortal_App_Logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
     },
     {
       "name": "Final Fantasy XIV",
@@ -156,11 +151,6 @@
       "existing_url": ""
     },
     {
-      "name": "XDefiant",
-      "reason": "No validated image from exact-title sources",
-      "existing_url": "https://upload.wikimedia.org/wikipedia/en/a/ad/XDefiant_covert_art.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
-    },
-    {
       "name": "Zenless Zone Zero",
       "reason": "No validated image from exact-title sources",
       "existing_url": ""
@@ -186,6 +176,11 @@
       "existing_url": ""
     },
     {
+      "name": "Escape from Tarkov",
+      "reason": "No validated image from exact-title sources",
+      "existing_url": "https://upload.wikimedia.org/wikipedia/en/2/20/Escape_from_Tarkov.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    },
+    {
       "name": "Halo Master Chief Collection",
       "reason": "No validated image from exact-title sources",
       "existing_url": ""
@@ -204,11 +199,6 @@
       "name": "Call of Duty: Modern Warfare II",
       "reason": "No validated image from exact-title sources",
       "existing_url": ""
-    },
-    {
-      "name": "Where Winds Meet",
-      "reason": "No validated image from exact-title sources",
-      "existing_url": "https://upload.wikimedia.org/wikipedia/en/4/43/Where_Winds_Meet_cover_art.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
     },
     {
       "name": "DOOM + DOOM II",

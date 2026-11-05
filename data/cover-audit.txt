@@ -2,7 +2,6 @@ Fortnite: No validated image from exact-title sources
 Fall Guys: No validated image from exact-title sources
 Minecraft Bedrock: No validated image from exact-title sources
 World of Warships: Legends: No validated image from exact-title sources
-F1 25: No validated image from exact-title sources
 Asphalt Legends Unite: No validated image from exact-title sources
 Roblox: No validated image from exact-title sources
 Dauntless: No validated image from exact-title sources
@@ -10,10 +9,10 @@ PEAK: No validated image from exact-title sources
 Texas Chain Saw Massacre: No validated image from exact-title sources
 Realm Royale Reforged: No validated image from exact-title sources
 Rainbow Six Siege X: No validated image from exact-title sources
-Age of Empires IV: No validated image from exact-title sources
 Armored Core VI: No validated image from exact-title sources
 Call of Duty Modern Warfare III: No validated image from exact-title sources
 Diablo II Resurrected: No validated image from exact-title sources
+Diablo Immortal: No validated image from exact-title sources
 Final Fantasy XIV: No validated image from exact-title sources
 Ghost Recon Breakpoint: No validated image from exact-title sources
 Hearthstone: No validated image from exact-title sources
@@ -27,17 +26,16 @@ Splitgate 2: No validated image from exact-title sources
 Star Wars Hunters: No validated image from exact-title sources
 Warface Clutch: No validated image from exact-title sources
 World War Z Aftermath: No validated image from exact-title sources
-XDefiant: No validated image from exact-title sources
 Zenless Zone Zero: No validated image from exact-title sources
 Elder Scrolls Online: No validated image from exact-title sources
 Borderlands Game of the Year: No validated image from exact-title sources
 State of Decay 2: No validated image from exact-title sources
 Hell Let Loose Vietnam: No validated image from exact-title sources
+Escape from Tarkov: No validated image from exact-title sources
 Halo Master Chief Collection: No validated image from exact-title sources
 Gears of War Reloaded: No validated image from exact-title sources
 Helldivers: No validated image from exact-title sources
 Call of Duty: Modern Warfare II: No validated image from exact-title sources
-Where Winds Meet: No validated image from exact-title sources
 DOOM + DOOM II: No validated image from exact-title sources
 DKO: Divine Knockout: No validated image from exact-title sources
 F1 22: No validated image from exact-title sources
