@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31",
+  "updated": "2026-11-05",
   "method": "200 entries audited for duplicate names, cover URL presence and evidence fields on 2026-10-31. Missing covers are flagged; existing image URLs are not yet HTTP-validated. Source links are not equivalent to independently checked platform support.",
   "games": [
     {
@@ -10452,6 +10452,30 @@
       "imageSource": "https://store.steampowered.com/app/1487210/",
       "coverCheckedAt": "2026-11-02",
       "coverMatchType": "steam_exact"
+    },
+    {
+      "id": 431,
+      "name": "Pit of Goblin",
+      "genre": "Unknown",
+      "price": "Unknown",
+      "studio": "Unknown",
+      "status": "review",
+      "platforms": [
+        "PS5",
+        "PC"
+      ],
+      "ps5Availability": "secondary_listing_pending_official",
+      "pcAvailability": "secondary_listing_pending_official",
+      "source": "https://crossplayable.com/pairs/steam-ps5",
+      "notes": "PS5-PC crossplay candidate from crossplayable (confirmed, yes); official confirmation pending.",
+      "image": "",
+      "verified": false,
+      "crossProgression": "unknown",
+      "gfn": "unknown",
+      "gfnSource": "",
+      "coverStatus": "missing",
+      "crossplayAudit": "secondary_pair_listing_pending_official",
+      "crossplayCheckedAt": "2026-11-05"
     }
   ]
 }
