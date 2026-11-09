@@ -1,13 +1,13 @@
 {
   "stats": {
     "total": 404,
-    "existing_checked": 330,
+    "existing_checked": 331,
     "existing_passed": 326,
-    "existing_failed": 4,
-    "steam_added": 1,
-    "fallback_added": 0,
-    "missing": 73,
-    "http_content_verified": 327
+    "existing_failed": 5,
+    "steam_added": 0,
+    "fallback_added": 6,
+    "missing": 67,
+    "http_content_verified": 332
   },
   "unresolved": [
     {
@@ -64,6 +64,11 @@
       "name": "Rainbow Six Siege X",
       "reason": "No validated image from exact-title sources",
       "existing_url": ""
+    },
+    {
+      "name": "Age of Empires IV",
+      "reason": "No validated image from exact-title sources",
+      "existing_url": "https://upload.wikimedia.org/wikipedia/en/0/08/Age_of_Empires_IV_Cover_Art.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
     },
     {
       "name": "Armored Core VI",
@@ -161,12 +166,12 @@
       "existing_url": ""
     },
     {
-      "name": "Borderlands Game of the Year",
+      "name": "Civilization VII",
       "reason": "No validated image from exact-title sources",
-      "existing_url": ""
+      "existing_url": "https://upload.wikimedia.org/wikipedia/en/d/d5/Civilization_VII_cover.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
     },
     {
-      "name": "State of Decay 2",
+      "name": "Borderlands Game of the Year",
       "reason": "No validated image from exact-title sources",
       "existing_url": ""
     },
@@ -176,22 +181,12 @@
       "existing_url": ""
     },
     {
-      "name": "Escape from Tarkov",
-      "reason": "No validated image from exact-title sources",
-      "existing_url": "https://upload.wikimedia.org/wikipedia/en/2/20/Escape_from_Tarkov.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
-    },
-    {
       "name": "Halo Master Chief Collection",
       "reason": "No validated image from exact-title sources",
       "existing_url": ""
     },
     {
       "name": "Gears of War Reloaded",
-      "reason": "No validated image from exact-title sources",
-      "existing_url": ""
-    },
-    {
-      "name": "Helldivers",
       "reason": "No validated image from exact-title sources",
       "existing_url": ""
     },
@@ -207,16 +202,6 @@
     },
     {
       "name": "DKO: Divine Knockout",
-      "reason": "No validated image from exact-title sources",
-      "existing_url": ""
-    },
-    {
-      "name": "F1 22",
-      "reason": "No validated image from exact-title sources",
-      "existing_url": ""
-    },
-    {
-      "name": "FIFA 23",
       "reason": "No validated image from exact-title sources",
       "existing_url": ""
     },
@@ -271,11 +256,6 @@
       "existing_url": ""
     },
     {
-      "name": "Dungeons & Dragons: Dark Alliance",
-      "reason": "No validated image from exact-title sources",
-      "existing_url": ""
-    },
-    {
       "name": "Outbreak",
       "reason": "No validated image from exact-title sources",
       "existing_url": ""
@@ -287,11 +267,6 @@
     },
     {
       "name": "Age of Empires II: Definitive Edition",
-      "reason": "No validated image from exact-title sources",
-      "existing_url": ""
-    },
-    {
-      "name": "Call of Duty: Black Ops 7",
       "reason": "No validated image from exact-title sources",
       "existing_url": ""
     },

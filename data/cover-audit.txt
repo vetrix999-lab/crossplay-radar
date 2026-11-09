@@ -9,6 +9,7 @@ PEAK: No validated image from exact-title sources
 Texas Chain Saw Massacre: No validated image from exact-title sources
 Realm Royale Reforged: No validated image from exact-title sources
 Rainbow Six Siege X: No validated image from exact-title sources
+Age of Empires IV: No validated image from exact-title sources
 Armored Core VI: No validated image from exact-title sources
 Call of Duty Modern Warfare III: No validated image from exact-title sources
 Diablo II Resurrected: No validated image from exact-title sources
@@ -28,18 +29,14 @@ Warface Clutch: No validated image from exact-title sources
 World War Z Aftermath: No validated image from exact-title sources
 Zenless Zone Zero: No validated image from exact-title sources
 Elder Scrolls Online: No validated image from exact-title sources
+Civilization VII: No validated image from exact-title sources
 Borderlands Game of the Year: No validated image from exact-title sources
-State of Decay 2: No validated image from exact-title sources
 Hell Let Loose Vietnam: No validated image from exact-title sources
-Escape from Tarkov: No validated image from exact-title sources
 Halo Master Chief Collection: No validated image from exact-title sources
 Gears of War Reloaded: No validated image from exact-title sources
-Helldivers: No validated image from exact-title sources
 Call of Duty: Modern Warfare II: No validated image from exact-title sources
 DOOM + DOOM II: No validated image from exact-title sources
 DKO: Divine Knockout: No validated image from exact-title sources
-F1 22: No validated image from exact-title sources
-FIFA 23: No validated image from exact-title sources
 Ghostbusters: Spirits Unleashed: No validated image from exact-title sources
 Heavy Metal Machines: No validated image from exact-title sources
 Hunter's Arena: Legends: No validated image from exact-title sources
@@ -50,11 +47,9 @@ Nerf Legends: No validated image from exact-title sources
 PGA Tour 2K23: No validated image from exact-title sources
 Vampire: The Masquerade – Bloodhunt: No validated image from exact-title sources
 Warlander: No validated image from exact-title sources
-Dungeons & Dragons: Dark Alliance: No validated image from exact-title sources
 Outbreak: No validated image from exact-title sources
 Secret Neighbor: No validated image from exact-title sources
 Age of Empires II: Definitive Edition: No validated image from exact-title sources
-Call of Duty: Black Ops 7: No validated image from exact-title sources
 EA Sports FC 24: No validated image from exact-title sources
 Lords of the Fallen (2023): No validated image from exact-title sources
 Rematch: No validated image from exact-title sources
