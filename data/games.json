@@ -118,7 +118,7 @@
       "gfnSource": "https://nvidia.custhelp.com/app/answers/detail/a_id/4812/",
       "coverStatus": "http_content_verified",
       "crossplayAudit": "independent_sources_agree_ps5_pc",
-      "gfnAudit": "explicitly_named_on_official_nvidia_support_page",
+      "gfnAudit": "official_nvidia_support_page_explicitly_lists_game",
       "gfnVerifiedAt": "2026-10-31",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
       "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
@@ -131,7 +131,7 @@
       "crossplayCheckedAt": "2026-10-31",
       "coverCheckedAt": "2026-11-09",
       "gfnPreviousCandidateSource": "https://gfn.am/en/games/",
-      "gfnCheckedAt": "2026-10-31",
+      "gfnCheckedAt": "2026-11-10",
       "gfnStore": "unknown",
       "gfnRegion": "regional_availability_may_vary"
     },
@@ -222,7 +222,7 @@
       "gfnSource": "https://nvidia.custhelp.com/app/answers/detail/a_id/4812/",
       "coverStatus": "http_content_verified",
       "crossplayAudit": "independent_sources_agree_ps5_pc",
-      "gfnAudit": "explicitly_named_on_official_nvidia_support_page",
+      "gfnAudit": "official_nvidia_support_page_explicitly_lists_game",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
       "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
       "crossplayConsensusSources": [
@@ -235,7 +235,7 @@
       "crossplayCheckedAt": "2026-10-31",
       "coverCheckedAt": "2026-11-09",
       "gfnPreviousCandidateSource": "https://nvidia.custhelp.com/app/answers/detail/a_id/4812/",
-      "gfnCheckedAt": "2026-10-31",
+      "gfnCheckedAt": "2026-11-10",
       "gfnStore": "unknown",
       "gfnRegion": "regional_availability_may_vary"
     },
