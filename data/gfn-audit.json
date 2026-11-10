@@ -1,13 +1,19 @@
 {
-  "date": "2026-11-10",
   "source": "https://nvidia.custhelp.com/app/answers/detail/a_id/4812/",
-  "official_confirmed": [
+  "date": "2026-11-10",
+  "nvidia_official_list": [
+    "Apex Legends",
+    "Counter-Strike 2",
+    "Cyberpunk 2077",
+    "Destiny 2",
+    "Dota 2"
+  ],
+  "confirmed_in_catalog": [
     "Apex Legends",
     "Destiny 2"
   ],
   "yes": 2,
   "no": 0,
   "unknown": 402,
-  "total": 404,
-  "scope": "NVIDIA support article explicitly lists a small subset, not complete GFN catalog"
+  "total": 404
 }
