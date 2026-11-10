@@ -24370,6 +24370,73 @@
           "assessment": "manual_review_required"
         }
       ]
+    },
+    "Pit of Goblin": {
+      "attempted_at": "2026-11-10",
+      "status": "pending_review",
+      "searches": [
+        {
+          "query": "\"Pit of Goblin\" PS5 PC crossplay official developer publisher FAQ",
+          "results": 10
+        },
+        {
+          "query": "\"Pit of Goblin\" PlayStation 5 PC Steam cross-platform multiplayer official support",
+          "results": 10
+        },
+        {
+          "query": "\"Pit of Goblin\" PS5 PC crossplay patch notes online service status",
+          "results": 10
+        }
+      ],
+      "source_candidates": [
+        {
+          "url": "https://steamcommunity.com/app/3253530/allnews/",
+          "title": "Steam Community :: Pit of Goblin",
+          "description": "<strong>It is time for our first big bug fix patch since game launch</strong>! We prioritized on fixing big issues players were having, fixing enemies and also making Fungus Mushrooms and Fungal Goblins less annoying and punishing to deal with."
+        },
+        {
+          "url": "https://store.steampowered.com/app/3253530/PIT_OF_GOBLIN/",
+          "title": "PIT OF GOBLIN on Steam",
+          "description": "Team up with goblin pals, or go rogue, as you dive deep and cause chaos! Fail to feed them, and you might be the next meal! ... Very Positive (64) - 82% of the 64 user reviews in the last 30 days are positive. ... Very Positive (988) - 84% of the 988 user reviews for this game are positive. ... 3D Loot Co-op PvE Horror Multiplayer Exploration Jump Scare Action Fantasy Dark Fantasy Survival Horror Online Co-Op First-Person Adventure Action-Adventure 3D Platformer Character Customization Atmospheric Mystery Dungeon"
+        },
+        {
+          "url": "https://store.steampowered.com/app/3253530/PIT_OF_GOBLIN/&gsessionid=rcxHqe2-T6LJcrbOAHdjwhjNt0OMJUuVaIldVBdxV8a7kGrg-jN92A",
+          "title": "Save 30% on PIT OF GOBLIN on Steam",
+          "description": "Team up with goblin pals, or go rogue, as you dive deep and cause chaos! Fail to feed them, and you might be the next meal! ... Very Positive (57) - 82% of the 57 user reviews in the last 30 days are positive. ... Very Positive (981) - 84% of the 981 user reviews for this game are positive. ... 3D Loot Co-op PvE Horror Multiplayer Exploration Jump Scare Action Fantasy Dark Fantasy Survival Horror Online Co-Op First-Person Adventure Action-Adventure 3D Platformer Character Customization Atmospheric Mystery Dungeon"
+        }
+      ],
+      "official_pages": [
+        {
+          "url": "https://steamcommunity.com/app/3253530/allnews/",
+          "fetch": "ok",
+          "http": 200,
+          "title_terms": true,
+          "ps5_terms": true,
+          "pc_terms": true,
+          "crossplay_terms": true,
+          "assessment": "manual_review_required"
+        },
+        {
+          "url": "https://store.steampowered.com/app/3253530/PIT_OF_GOBLIN/",
+          "fetch": "ok",
+          "http": 200,
+          "title_terms": true,
+          "ps5_terms": false,
+          "pc_terms": true,
+          "crossplay_terms": true,
+          "assessment": "insufficient_evidence"
+        },
+        {
+          "url": "https://store.steampowered.com/app/3253530/PIT_OF_GOBLIN/&gsessionid=rcxHqe2-T6LJcrbOAHdjwhjNt0OMJUuVaIldVBdxV8a7kGrg-jN92A",
+          "fetch": "ok",
+          "http": 200,
+          "title_terms": true,
+          "ps5_terms": false,
+          "pc_terms": true,
+          "crossplay_terms": true,
+          "assessment": "insufficient_evidence"
+        }
+      ]
     }
   }
 }
