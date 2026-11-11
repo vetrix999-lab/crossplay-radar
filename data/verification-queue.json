@@ -1,9 +1,9 @@
 {
-  "processed": 403,
-  "total": 403,
+  "processed": 404,
+  "total": 404,
   "counts": {
     "Verified": 27,
-    "Pending": 369,
+    "Pending": 370,
     "Rejected": 7
   },
   "items": [
@@ -54,7 +54,7 @@
         "crossplay_terms": true
       },
       "nextAction": "revalidate_live_service_and_official_context",
-      "evidenceFetchedAt": "2026-11-04"
+      "evidenceFetchedAt": "2026-11-11"
     },
     {
       "name": "Call of Duty: Warzone",
@@ -80,7 +80,7 @@
         "crossplay_terms": true
       },
       "nextAction": "revalidate_live_service_and_official_context",
-      "evidenceFetchedAt": "2026-11-04"
+      "evidenceFetchedAt": "2026-11-11"
     },
     {
       "name": "Destiny 2",
@@ -200,7 +200,7 @@
         "crossplay_terms": true
       },
       "nextAction": "revalidate_live_service_and_official_context",
-      "evidenceFetchedAt": "2026-11-04"
+      "evidenceFetchedAt": "2026-11-11"
     },
     {
       "name": "Grounded",
@@ -266,7 +266,7 @@
         "crossplay_terms": false
       },
       "nextAction": "revalidate_live_service_and_official_context",
-      "evidenceFetchedAt": "2026-11-04"
+      "evidenceFetchedAt": "2026-11-11"
     },
     {
       "name": "World of Warships: Legends",
@@ -382,7 +382,7 @@
         "crossplay_terms": true
       },
       "nextAction": "revalidate_live_service_and_official_context",
-      "evidenceFetchedAt": "2026-11-04"
+      "evidenceFetchedAt": "2026-11-11"
     },
     {
       "name": "F1 25",
@@ -398,7 +398,7 @@
         "crossplay_terms": true
       },
       "nextAction": "revalidate_live_service_and_official_context",
-      "evidenceFetchedAt": "2026-11-04"
+      "evidenceFetchedAt": "2026-11-11"
     },
     {
       "name": "Need for Speed Unbound",
@@ -414,7 +414,7 @@
         "crossplay_terms": true
       },
       "nextAction": "revalidate_live_service_and_official_context",
-      "evidenceFetchedAt": "2026-11-04"
+      "evidenceFetchedAt": "2026-11-11"
     },
     {
       "name": "Disney Speedstorm",
@@ -561,7 +561,7 @@
         "crossplay_terms": true
       },
       "nextAction": "revalidate_live_service_and_official_context",
-      "evidenceFetchedAt": "2026-11-04"
+      "evidenceFetchedAt": "2026-11-11"
     },
     {
       "name": "It Takes Two",
@@ -577,7 +577,7 @@
         "crossplay_terms": true
       },
       "nextAction": "revalidate_live_service_and_official_context",
-      "evidenceFetchedAt": "2026-11-04"
+      "evidenceFetchedAt": "2026-11-11"
     },
     {
       "name": "Battlefield 6",
@@ -853,7 +853,7 @@
         "crossplay_terms": true
       },
       "nextAction": "revalidate_live_service_and_official_context",
-      "evidenceFetchedAt": "2026-11-04"
+      "evidenceFetchedAt": "2026-11-11"
     },
     {
       "name": "Skull and Bones",
@@ -999,7 +999,7 @@
         "crossplay_terms": true
       },
       "nextAction": "revalidate_live_service_and_official_context",
-      "evidenceFetchedAt": "2026-11-04"
+      "evidenceFetchedAt": "2026-11-11"
     },
     {
       "name": "Battlefield V",
@@ -1595,7 +1595,7 @@
         "crossplay_terms": false
       },
       "nextAction": "revalidate_live_service_and_official_context",
-      "evidenceFetchedAt": "2026-11-04"
+      "evidenceFetchedAt": "2026-11-11"
     },
     {
       "name": "Borderlands 4",
@@ -1712,7 +1712,7 @@
         "crossplay_terms": true
       },
       "nextAction": "revalidate_live_service_and_official_context",
-      "evidenceFetchedAt": "2026-11-04"
+      "evidenceFetchedAt": "2026-11-11"
     },
     {
       "name": "Throne and Liberty",
@@ -4120,6 +4120,16 @@
       "classification": "Pending",
       "source": "https://crossplayable.com/pairs/steam-ps5",
       "checkedAt": "2026-10-31",
+      "officialSource": false,
+      "review": "source_not_in_official_allowlist",
+      "nextAction": "manual_official_pair_and_live_service_review"
+    },
+    {
+      "name": "Pit of Goblin",
+      "id": 431,
+      "classification": "Pending",
+      "source": "https://crossplayable.com/pairs/steam-ps5",
+      "checkedAt": "2026-11-05",
       "officialSource": false,
       "review": "source_not_in_official_allowlist",
       "nextAction": "manual_official_pair_and_live_service_review"
