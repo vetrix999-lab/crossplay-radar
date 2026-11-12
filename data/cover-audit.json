@@ -1,13 +1,13 @@
 {
   "stats": {
     "total": 404,
-    "existing_checked": 331,
-    "existing_passed": 326,
+    "existing_checked": 337,
+    "existing_passed": 332,
     "existing_failed": 5,
     "steam_added": 0,
-    "fallback_added": 6,
-    "missing": 67,
-    "http_content_verified": 332
+    "fallback_added": 1,
+    "missing": 66,
+    "http_content_verified": 333
   },
   "unresolved": [
     {
@@ -66,11 +66,6 @@
       "existing_url": ""
     },
     {
-      "name": "Age of Empires IV",
-      "reason": "No validated image from exact-title sources",
-      "existing_url": "https://upload.wikimedia.org/wikipedia/en/0/08/Age_of_Empires_IV_Cover_Art.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
-    },
-    {
       "name": "Armored Core VI",
       "reason": "No validated image from exact-title sources",
       "existing_url": ""
@@ -84,11 +79,6 @@
       "name": "Diablo II Resurrected",
       "reason": "No validated image from exact-title sources",
       "existing_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2536520/header.jpg"
-    },
-    {
-      "name": "Diablo Immortal",
-      "reason": "No validated image from exact-title sources",
-      "existing_url": "https://upload.wikimedia.org/wikipedia/en/c/c0/Diablo_Immortal_App_Logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
     },
     {
       "name": "Final Fantasy XIV",
@@ -166,11 +156,6 @@
       "existing_url": ""
     },
     {
-      "name": "Civilization VII",
-      "reason": "No validated image from exact-title sources",
-      "existing_url": "https://upload.wikimedia.org/wikipedia/en/d/d5/Civilization_VII_cover.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
-    },
-    {
       "name": "Borderlands Game of the Year",
       "reason": "No validated image from exact-title sources",
       "existing_url": ""
@@ -179,6 +164,11 @@
       "name": "Hell Let Loose Vietnam",
       "reason": "No validated image from exact-title sources",
       "existing_url": ""
+    },
+    {
+      "name": "Escape from Tarkov",
+      "reason": "No validated image from exact-title sources",
+      "existing_url": "https://upload.wikimedia.org/wikipedia/en/2/20/Escape_from_Tarkov.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
     },
     {
       "name": "Halo Master Chief Collection",
@@ -204,6 +194,11 @@
       "name": "DKO: Divine Knockout",
       "reason": "No validated image from exact-title sources",
       "existing_url": ""
+    },
+    {
+      "name": "F1 22",
+      "reason": "No validated image from exact-title sources",
+      "existing_url": "https://upload.wikimedia.org/wikipedia/en/b/be/F1_22_cover_art.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
     },
     {
       "name": "Ghostbusters: Spirits Unleashed",
@@ -264,6 +259,11 @@
       "name": "Secret Neighbor",
       "reason": "No validated image from exact-title sources",
       "existing_url": ""
+    },
+    {
+      "name": "Ghost of Tsushima",
+      "reason": "No validated image from exact-title sources",
+      "existing_url": "https://upload.wikimedia.org/wikipedia/en/b/b6/Ghost_of_Tsushima.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
     },
     {
       "name": "Age of Empires II: Definitive Edition",
@@ -342,11 +342,6 @@
     },
     {
       "name": "LEGO Voyagers",
-      "reason": "No validated image from exact-title sources",
-      "existing_url": ""
-    },
-    {
-      "name": "Minecraft Dungeons II",
       "reason": "No validated image from exact-title sources",
       "existing_url": ""
     },
