@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-05",
+  "checked_at": "2026-11-12",
   "listing": "https://crossplaygames.com/crossplay?p1=playstation-5&p2=windows-pc",
   "listing_games": 143,
   "additional_sources": [
@@ -14,31 +14,13 @@
     },
     {
       "source": "crossplayable",
-      "status": "parsed",
-      "url": "https://crossplayable.com/pairs/steam-ps5",
-      "bytes": 995719,
-      "headings": 247,
-      "pair_records": 247,
-      "examples": [
-        "2XKO",
-        "7 Days to Die",
-        "Abiotic Factor",
-        "Absolum",
-        "ACE COMBAT 8: WINGS OF THEVE",
-        "Age of Empires II: Definitive Edition",
-        "Age of Empires IV",
-        "Age of Mythology: Retold",
-        "Aliens: Fireteam Elite",
-        "Aliens: Fireteam Elite 2",
-        "Among Us",
-        "Aniimo"
-      ]
+      "status": "failed",
+      "url": "https://crossplayable.com/",
+      "error": "Crossplayable structured extraction below 60; refusing to import 40"
     }
   ],
-  "new_candidates": 1,
-  "names": [
-    "Pit of Goblin"
-  ],
+  "new_candidates": 0,
+  "names": [],
   "errors": [],
   "catalog_total": 404,
   "verified_promotions": 0

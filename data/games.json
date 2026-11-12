@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05",
+  "updated": "2026-11-12",
   "method": "200 entries audited for duplicate names, cover URL presence and evidence fields on 2026-10-31. Missing covers are flagged; existing image URLs are not yet HTTP-validated. Source links are not equivalent to independently checked platform support.",
   "games": [
     {
