@@ -1,13 +1,13 @@
 {
   "stats": {
     "total": 404,
-    "existing_checked": 337,
+    "existing_checked": 338,
     "existing_passed": 332,
-    "existing_failed": 5,
+    "existing_failed": 6,
     "steam_added": 0,
-    "fallback_added": 1,
-    "missing": 66,
-    "http_content_verified": 333
+    "fallback_added": 4,
+    "missing": 63,
+    "http_content_verified": 336
   },
   "unresolved": [
     {
@@ -76,11 +76,6 @@
       "existing_url": ""
     },
     {
-      "name": "Diablo II Resurrected",
-      "reason": "No validated image from exact-title sources",
-      "existing_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2536520/header.jpg"
-    },
-    {
       "name": "Final Fantasy XIV",
       "reason": "No validated image from exact-title sources",
       "existing_url": ""
@@ -117,11 +112,6 @@
     },
     {
       "name": "Rec Room",
-      "reason": "No validated image from exact-title sources",
-      "existing_url": ""
-    },
-    {
-      "name": "Rumbleverse",
       "reason": "No validated image from exact-title sources",
       "existing_url": ""
     },
@@ -186,6 +176,11 @@
       "existing_url": ""
     },
     {
+      "name": "Where Winds Meet",
+      "reason": "No validated image from exact-title sources",
+      "existing_url": "https://upload.wikimedia.org/wikipedia/en/4/43/Where_Winds_Meet_cover_art.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    },
+    {
       "name": "DOOM + DOOM II",
       "reason": "No validated image from exact-title sources",
       "existing_url": ""
@@ -196,9 +191,9 @@
       "existing_url": ""
     },
     {
-      "name": "F1 22",
+      "name": "FIFA 23",
       "reason": "No validated image from exact-title sources",
-      "existing_url": "https://upload.wikimedia.org/wikipedia/en/b/be/F1_22_cover_art.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+      "existing_url": "https://upload.wikimedia.org/wikipedia/en/a/a6/FIFA_23_Cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
     },
     {
       "name": "Ghostbusters: Spirits Unleashed",
@@ -251,22 +246,17 @@
       "existing_url": ""
     },
     {
+      "name": "Dungeons & Dragons: Dark Alliance",
+      "reason": "No validated image from exact-title sources",
+      "existing_url": "https://upload.wikimedia.org/wikipedia/en/b/be/Dark_Alliance_cover_art.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    },
+    {
       "name": "Outbreak",
       "reason": "No validated image from exact-title sources",
       "existing_url": ""
     },
     {
       "name": "Secret Neighbor",
-      "reason": "No validated image from exact-title sources",
-      "existing_url": ""
-    },
-    {
-      "name": "Ghost of Tsushima",
-      "reason": "No validated image from exact-title sources",
-      "existing_url": "https://upload.wikimedia.org/wikipedia/en/b/b6/Ghost_of_Tsushima.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
-    },
-    {
-      "name": "Age of Empires II: Definitive Edition",
       "reason": "No validated image from exact-title sources",
       "existing_url": ""
     },
@@ -297,11 +287,6 @@
     },
     {
       "name": "Path of Titans",
-      "reason": "No validated image from exact-title sources",
-      "existing_url": ""
-    },
-    {
-      "name": "Madden NFL 26",
       "reason": "No validated image from exact-title sources",
       "existing_url": ""
     },
