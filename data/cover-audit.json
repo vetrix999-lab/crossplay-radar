@@ -1,13 +1,13 @@
 {
   "stats": {
     "total": 404,
-    "existing_checked": 338,
+    "existing_checked": 341,
     "existing_passed": 332,
-    "existing_failed": 6,
+    "existing_failed": 9,
     "steam_added": 0,
-    "fallback_added": 4,
+    "fallback_added": 0,
     "missing": 63,
-    "http_content_verified": 336
+    "http_content_verified": 332
   },
   "unresolved": [
     {
@@ -29,6 +29,11 @@
       "name": "World of Warships: Legends",
       "reason": "No validated image from exact-title sources",
       "existing_url": ""
+    },
+    {
+      "name": "F1 25",
+      "reason": "No validated image from exact-title sources",
+      "existing_url": "https://upload.wikimedia.org/wikipedia/en/9/9e/F1_25_cover_art.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
     },
     {
       "name": "Asphalt Legends Unite",
@@ -76,6 +81,16 @@
       "existing_url": ""
     },
     {
+      "name": "Diablo II Resurrected",
+      "reason": "No validated image from exact-title sources",
+      "existing_url": "https://upload.wikimedia.org/wikipedia/en/8/88/Diablo_2_Resurrected_cover_art.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    },
+    {
+      "name": "Diablo Immortal",
+      "reason": "No validated image from exact-title sources",
+      "existing_url": "https://upload.wikimedia.org/wikipedia/en/c/c0/Diablo_Immortal_App_Logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    },
+    {
       "name": "Final Fantasy XIV",
       "reason": "No validated image from exact-title sources",
       "existing_url": ""
@@ -116,6 +131,11 @@
       "existing_url": ""
     },
     {
+      "name": "Rumbleverse",
+      "reason": "No validated image from exact-title sources",
+      "existing_url": "https://upload.wikimedia.org/wikipedia/en/9/9b/Rumbleverse_cover_art.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    },
+    {
       "name": "Splitgate 2",
       "reason": "No validated image from exact-title sources",
       "existing_url": ""
@@ -136,6 +156,11 @@
       "existing_url": ""
     },
     {
+      "name": "XDefiant",
+      "reason": "No validated image from exact-title sources",
+      "existing_url": "https://upload.wikimedia.org/wikipedia/en/a/ad/XDefiant_covert_art.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    },
+    {
       "name": "Zenless Zone Zero",
       "reason": "No validated image from exact-title sources",
       "existing_url": ""
@@ -154,11 +179,6 @@
       "name": "Hell Let Loose Vietnam",
       "reason": "No validated image from exact-title sources",
       "existing_url": ""
-    },
-    {
-      "name": "Escape from Tarkov",
-      "reason": "No validated image from exact-title sources",
-      "existing_url": "https://upload.wikimedia.org/wikipedia/en/2/20/Escape_from_Tarkov.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
     },
     {
       "name": "Halo Master Chief Collection",
@@ -191,9 +211,9 @@
       "existing_url": ""
     },
     {
-      "name": "FIFA 23",
+      "name": "F1 22",
       "reason": "No validated image from exact-title sources",
-      "existing_url": "https://upload.wikimedia.org/wikipedia/en/a/a6/FIFA_23_Cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+      "existing_url": "https://upload.wikimedia.org/wikipedia/en/b/be/F1_22_cover_art.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
     },
     {
       "name": "Ghostbusters: Spirits Unleashed",
@@ -246,11 +266,6 @@
       "existing_url": ""
     },
     {
-      "name": "Dungeons & Dragons: Dark Alliance",
-      "reason": "No validated image from exact-title sources",
-      "existing_url": "https://upload.wikimedia.org/wikipedia/en/b/be/Dark_Alliance_cover_art.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
-    },
-    {
       "name": "Outbreak",
       "reason": "No validated image from exact-title sources",
       "existing_url": ""
@@ -259,6 +274,11 @@
       "name": "Secret Neighbor",
       "reason": "No validated image from exact-title sources",
       "existing_url": ""
+    },
+    {
+      "name": "Age of Empires II: Definitive Edition",
+      "reason": "No validated image from exact-title sources",
+      "existing_url": "https://upload.wikimedia.org/wikipedia/en/4/45/Age_of_Empires_II_Definitive_Edition_cover_art.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
     },
     {
       "name": "EA Sports FC 24",

@@ -2,6 +2,7 @@ Fortnite: No validated image from exact-title sources
 Fall Guys: No validated image from exact-title sources
 Minecraft Bedrock: No validated image from exact-title sources
 World of Warships: Legends: No validated image from exact-title sources
+F1 25: No validated image from exact-title sources
 Asphalt Legends Unite: No validated image from exact-title sources
 Roblox: No validated image from exact-title sources
 Dauntless: No validated image from exact-title sources
@@ -11,6 +12,8 @@ Realm Royale Reforged: No validated image from exact-title sources
 Rainbow Six Siege X: No validated image from exact-title sources
 Armored Core VI: No validated image from exact-title sources
 Call of Duty Modern Warfare III: No validated image from exact-title sources
+Diablo II Resurrected: No validated image from exact-title sources
+Diablo Immortal: No validated image from exact-title sources
 Final Fantasy XIV: No validated image from exact-title sources
 Ghost Recon Breakpoint: No validated image from exact-title sources
 Hearthstone: No validated image from exact-title sources
@@ -19,22 +22,23 @@ Lego 2K Drive: No validated image from exact-title sources
 Lego Fortnite Odyssey: No validated image from exact-title sources
 NBA 2K25: No validated image from exact-title sources
 Rec Room: No validated image from exact-title sources
+Rumbleverse: No validated image from exact-title sources
 Splitgate 2: No validated image from exact-title sources
 Star Wars Hunters: No validated image from exact-title sources
 Warface Clutch: No validated image from exact-title sources
 World War Z Aftermath: No validated image from exact-title sources
+XDefiant: No validated image from exact-title sources
 Zenless Zone Zero: No validated image from exact-title sources
 Elder Scrolls Online: No validated image from exact-title sources
 Borderlands Game of the Year: No validated image from exact-title sources
 Hell Let Loose Vietnam: No validated image from exact-title sources
-Escape from Tarkov: No validated image from exact-title sources
 Halo Master Chief Collection: No validated image from exact-title sources
 Gears of War Reloaded: No validated image from exact-title sources
 Call of Duty: Modern Warfare II: No validated image from exact-title sources
 Where Winds Meet: No validated image from exact-title sources
 DOOM + DOOM II: No validated image from exact-title sources
 DKO: Divine Knockout: No validated image from exact-title sources
-FIFA 23: No validated image from exact-title sources
+F1 22: No validated image from exact-title sources
 Ghostbusters: Spirits Unleashed: No validated image from exact-title sources
 Heavy Metal Machines: No validated image from exact-title sources
 Hunter's Arena: Legends: No validated image from exact-title sources
@@ -45,9 +49,9 @@ Nerf Legends: No validated image from exact-title sources
 PGA Tour 2K23: No validated image from exact-title sources
 Vampire: The Masquerade – Bloodhunt: No validated image from exact-title sources
 Warlander: No validated image from exact-title sources
-Dungeons & Dragons: Dark Alliance: No validated image from exact-title sources
 Outbreak: No validated image from exact-title sources
 Secret Neighbor: No validated image from exact-title sources
+Age of Empires II: Definitive Edition: No validated image from exact-title sources
 EA Sports FC 24: No validated image from exact-title sources
 Lords of the Fallen (2023): No validated image from exact-title sources
 Rematch: No validated image from exact-title sources
