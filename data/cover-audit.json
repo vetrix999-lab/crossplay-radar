@@ -2,12 +2,12 @@
   "stats": {
     "total": 404,
     "existing_checked": 341,
-    "existing_passed": 332,
-    "existing_failed": 9,
+    "existing_passed": 333,
+    "existing_failed": 8,
     "steam_added": 0,
-    "fallback_added": 0,
-    "missing": 63,
-    "http_content_verified": 332
+    "fallback_added": 3,
+    "missing": 60,
+    "http_content_verified": 336
   },
   "unresolved": [
     {
@@ -29,11 +29,6 @@
       "name": "World of Warships: Legends",
       "reason": "No validated image from exact-title sources",
       "existing_url": ""
-    },
-    {
-      "name": "F1 25",
-      "reason": "No validated image from exact-title sources",
-      "existing_url": "https://upload.wikimedia.org/wikipedia/en/9/9e/F1_25_cover_art.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
     },
     {
       "name": "Asphalt Legends Unite",
@@ -69,6 +64,11 @@
       "name": "Rainbow Six Siege X",
       "reason": "No validated image from exact-title sources",
       "existing_url": ""
+    },
+    {
+      "name": "Age of Empires IV",
+      "reason": "No validated image from exact-title sources",
+      "existing_url": "https://upload.wikimedia.org/wikipedia/en/0/08/Age_of_Empires_IV_Cover_Art.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
     },
     {
       "name": "Armored Core VI",
@@ -156,11 +156,6 @@
       "existing_url": ""
     },
     {
-      "name": "XDefiant",
-      "reason": "No validated image from exact-title sources",
-      "existing_url": "https://upload.wikimedia.org/wikipedia/en/a/ad/XDefiant_covert_art.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
-    },
-    {
       "name": "Zenless Zone Zero",
       "reason": "No validated image from exact-title sources",
       "existing_url": ""
@@ -196,11 +191,6 @@
       "existing_url": ""
     },
     {
-      "name": "Where Winds Meet",
-      "reason": "No validated image from exact-title sources",
-      "existing_url": "https://upload.wikimedia.org/wikipedia/en/4/43/Where_Winds_Meet_cover_art.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
-    },
-    {
       "name": "DOOM + DOOM II",
       "reason": "No validated image from exact-title sources",
       "existing_url": ""
@@ -211,9 +201,9 @@
       "existing_url": ""
     },
     {
-      "name": "F1 22",
+      "name": "FIFA 23",
       "reason": "No validated image from exact-title sources",
-      "existing_url": "https://upload.wikimedia.org/wikipedia/en/b/be/F1_22_cover_art.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+      "existing_url": "https://upload.wikimedia.org/wikipedia/en/a/a6/FIFA_23_Cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
     },
     {
       "name": "Ghostbusters: Spirits Unleashed",
@@ -276,9 +266,9 @@
       "existing_url": ""
     },
     {
-      "name": "Age of Empires II: Definitive Edition",
+      "name": "Call of Duty: Black Ops 7",
       "reason": "No validated image from exact-title sources",
-      "existing_url": "https://upload.wikimedia.org/wikipedia/en/4/45/Age_of_Empires_II_Definitive_Edition_cover_art.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+      "existing_url": "https://upload.wikimedia.org/wikipedia/en/a/a3/Call_of_Duty_Black_Ops_7_Key_Art.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
     },
     {
       "name": "EA Sports FC 24",
@@ -351,22 +341,12 @@
       "existing_url": ""
     },
     {
+      "name": "Minecraft Dungeons II",
+      "reason": "No validated image from exact-title sources",
+      "existing_url": "https://upload.wikimedia.org/wikipedia/en/2/20/Minecraft_Dungeons_2_cover_art.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    },
+    {
       "name": "The Jackbox Party Pack 11",
-      "reason": "No validated image from exact-title sources",
-      "existing_url": ""
-    },
-    {
-      "name": "Tony Hawk's Pro Skater 3 + 4",
-      "reason": "No validated image from exact-title sources",
-      "existing_url": ""
-    },
-    {
-      "name": "Walkabout Mini Golf",
-      "reason": "No validated image from exact-title sources",
-      "existing_url": ""
-    },
-    {
-      "name": "Hot Wheels Unleashed 2 - Turbocharged",
       "reason": "No validated image from exact-title sources",
       "existing_url": ""
     }
