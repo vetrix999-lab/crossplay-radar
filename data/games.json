@@ -63,7 +63,7 @@
       "crossplayConsensusCount": 2,
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://en.wikipedia.org/wiki/Rocket_League",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "wikipedia_illustration",
       "gfnPreviousCandidateSource": "https://gfn.am/en/games/",
       "gfnCheckedAt": "2026-10-31"
@@ -129,7 +129,7 @@
       ],
       "crossplayConsensusCount": 3,
       "crossplayCheckedAt": "2026-10-31",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "gfnPreviousCandidateSource": "https://gfn.am/en/games/",
       "gfnCheckedAt": "2026-11-19",
       "gfnStore": "unknown",
@@ -166,7 +166,7 @@
       "crossplayCheckedAt": "2026-10-31",
       "steamAppId": 1962663,
       "imageSource": "https://store.steampowered.com/app/1962663/",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 6,
@@ -198,7 +198,7 @@
       ],
       "crossplayConsensusCount": 2,
       "crossplayCheckedAt": "2026-10-31",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "gfnPreviousCandidateSource": "https://gfn.am/en/games/",
       "gfnCheckedAt": "2026-10-31"
     },
@@ -233,7 +233,7 @@
       ],
       "crossplayConsensusCount": 4,
       "crossplayCheckedAt": "2026-10-31",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "gfnPreviousCandidateSource": "https://nvidia.custhelp.com/app/answers/detail/a_id/4812/",
       "gfnCheckedAt": "2026-11-19",
       "gfnStore": "unknown",
@@ -269,7 +269,7 @@
       ],
       "crossplayConsensusCount": 2,
       "crossplayCheckedAt": "2026-10-31",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "gfnPreviousCandidateSource": "https://gfn.am/en/games/",
       "gfnCheckedAt": "2026-10-31"
     },
@@ -297,7 +297,7 @@
       "gfnVerifiedAt": "2026-10-31",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
       "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "gfnPreviousCandidateSource": "https://gfn.am/en/games/",
       "gfnCheckedAt": "2026-10-31"
     },
@@ -325,7 +325,7 @@
       "gfnVerifiedAt": "2026-10-31",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
       "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "gfnPreviousCandidateSource": "https://gfn.am/en/games/",
       "gfnCheckedAt": "2026-10-31"
     },
@@ -359,7 +359,7 @@
       ],
       "crossplayConsensusCount": 2,
       "crossplayCheckedAt": "2026-10-31",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "gfnPreviousCandidateSource": "https://gfn.am/en/games/",
       "gfnCheckedAt": "2026-10-31"
     },
@@ -392,7 +392,7 @@
       ],
       "crossplayConsensusCount": 2,
       "crossplayCheckedAt": "2026-10-31",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 13,
@@ -423,7 +423,7 @@
       ],
       "crossplayConsensusCount": 2,
       "crossplayCheckedAt": "2026-10-31",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "gfnPreviousCandidateSource": "https://blogs.nvidia.com/blog/geforce-now-thursday-september-2026-games-list/",
       "gfnCheckedAt": "2026-10-31"
     },
@@ -452,7 +452,7 @@
       "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
       "crossProgressionSource": "https://arrowhead.zendesk.com/hc/en-us/articles/12517679456156-Does-Helldivers-2-have-cross-progression-Can-I-transfer-my-stuff-to-another-account",
       "crossplayCheckedAt": "2026-10-31",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 15,
@@ -485,7 +485,7 @@
       ],
       "crossplayConsensusCount": 4,
       "crossplayCheckedAt": "2026-10-31",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 16,
@@ -542,7 +542,7 @@
       "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
       "steamAppId": 1672970,
       "imageSource": "https://store.steampowered.com/app/1672970/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "crossplayCheckedAt": "2026-10-31"
     },
     {
@@ -568,7 +568,7 @@
       "gfnAudit": "not_verified",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
       "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 19,
@@ -600,7 +600,7 @@
       ],
       "crossplayConsensusCount": 3,
       "crossplayCheckedAt": "2026-10-31",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 20,
@@ -626,7 +626,7 @@
       "gfnVerifiedAt": "2026-10-31",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
       "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "gfnPreviousCandidateSource": "https://gfn.am/en/games/",
       "gfnCheckedAt": "2026-10-31"
     },
@@ -655,7 +655,7 @@
       "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
       "steamAppId": 2437170,
       "imageSource": "https://store.steampowered.com/app/2437170/",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 22,
@@ -680,7 +680,7 @@
       "gfnAudit": "not_verified",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
       "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 23,
@@ -706,7 +706,7 @@
       "gfnVerifiedAt": "2026-10-31",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
       "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "gfnPreviousCandidateSource": "https://gfn.am/en/games/",
       "gfnCheckedAt": "2026-10-31"
     },
@@ -758,7 +758,7 @@
       "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
       "steamAppId": 444090,
       "imageSource": "https://store.steampowered.com/app/444090/",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 26,
@@ -791,7 +791,7 @@
       ],
       "crossplayConsensusCount": 4,
       "crossplayCheckedAt": "2026-10-31",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 27,
@@ -818,7 +818,7 @@
       "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
       "steamAppId": 1286680,
       "imageSource": "https://store.steampowered.com/app/1286680/",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 28,
@@ -844,7 +844,7 @@
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 924970,
       "imageSource": "https://store.steampowered.com/app/924970/",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 29,
@@ -869,7 +869,7 @@
       "gfnAudit": "not_verified",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
       "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 30,
@@ -894,7 +894,7 @@
       "gfnAudit": "not_verified",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
       "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 31,
@@ -921,7 +921,7 @@
       "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
       "steamAppId": 1971870,
       "imageSource": "https://store.steampowered.com/app/1971870/",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 32,
@@ -952,7 +952,7 @@
       ],
       "crossplayConsensusCount": 2,
       "crossplayCheckedAt": "2026-10-31",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 33,
@@ -983,7 +983,7 @@
       ],
       "crossplayConsensusCount": 2,
       "crossplayCheckedAt": "2026-10-31",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 34,
@@ -1010,7 +1010,7 @@
       "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://en.wikipedia.org/wiki/EA_Sports_FC_26",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "wikipedia_illustration"
     },
     {
@@ -1038,7 +1038,7 @@
       "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://en.wikipedia.org/wiki/F1_25",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "wikipedia_illustration"
     },
     {
@@ -1067,7 +1067,7 @@
       "steamAppId": 1846380,
       "imageSource": "https://store.steampowered.com/app/1846380/",
       "crossplayCheckedAt": "2026-10-31",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 37,
@@ -1094,7 +1094,7 @@
       "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
       "steamAppId": 1537830,
       "imageSource": "https://store.steampowered.com/app/1537830/",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 38,
@@ -1143,7 +1143,7 @@
       "gfnAudit": "not_verified",
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "imageSource": "https://en.wikipedia.org/wiki/MultiVersus",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "wikipedia_illustration"
     },
     {
@@ -1200,7 +1200,7 @@
       "crossplayConsensusCount": 2,
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://en.wikipedia.org/wiki/Genshin_Impact",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "wikipedia_illustration"
     },
     {
@@ -1227,7 +1227,7 @@
       "gfnVerifiedAt": "2026-10-31",
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "imageSource": "https://en.wikipedia.org/wiki/Honkai%3A_Star_Rail",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "wikipedia_illustration",
       "gfnPreviousCandidateSource": "https://gfn.am/en/games/",
       "gfnCheckedAt": "2026-10-31"
@@ -1256,7 +1256,7 @@
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 2064650,
       "imageSource": "https://store.steampowered.com/app/2064650/",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 44,
@@ -1304,7 +1304,7 @@
       "gfnAudit": "not_verified",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
       "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 46,
@@ -1329,7 +1329,7 @@
       "gfnAudit": "not_verified",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
       "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 47,
@@ -1356,7 +1356,7 @@
       "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
       "steamAppId": 238960,
       "imageSource": "https://store.steampowered.com/app/238960/",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 48,
@@ -1381,7 +1381,7 @@
       "gfnAudit": "not_verified",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
       "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 49,
@@ -1407,7 +1407,7 @@
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 2486820,
       "imageSource": "https://store.steampowered.com/app/2486820/",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 50,
@@ -1433,7 +1433,7 @@
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
       "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
       "crossplayCheckedAt": "2026-10-31",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 51,
@@ -1458,7 +1458,7 @@
       "gfnAudit": "not_verified",
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "crossplayCheckedAt": "2026-10-31",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 52,
@@ -1483,7 +1483,7 @@
       "gfnAudit": "not_verified",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
       "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 53,
@@ -1509,7 +1509,7 @@
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 581320,
       "imageSource": "https://store.steampowered.com/app/581320/",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 54,
@@ -1535,7 +1535,7 @@
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 686810,
       "imageSource": "https://store.steampowered.com/app/686810/",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 55,
@@ -1560,7 +1560,7 @@
       "gfnAudit": "needs_official_nvidia_confirmation",
       "gfnVerifiedAt": "2026-10-31",
       "crossplayCheckedAt": "2026-10-31",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "gfnPreviousCandidateSource": "https://gfn.am/en/games/",
       "gfnCheckedAt": "2026-10-31"
     },
@@ -1610,7 +1610,7 @@
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 58,
@@ -1635,7 +1635,7 @@
       "gfnAudit": "not_verified",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
       "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 59,
@@ -1659,7 +1659,7 @@
       "crossplayAudit": "ps5_pc_not_supported",
       "gfnAudit": "not_verified",
       "crossplayCheckedAt": "2026-10-31",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 60,
@@ -1685,7 +1685,7 @@
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 632360,
       "imageSource": "https://store.steampowered.com/app/632360/",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 61,
@@ -1710,7 +1710,7 @@
       "gfnAudit": "not_verified",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
       "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 62,
@@ -1735,7 +1735,7 @@
       "gfnAudit": "not_verified",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
       "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 63,
@@ -1761,7 +1761,7 @@
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 1938010,
       "imageSource": "https://store.steampowered.com/app/1938010/",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 64,
@@ -1787,7 +1787,7 @@
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 1286320,
       "imageSource": "https://store.steampowered.com/app/1286320/",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 65,
@@ -1813,7 +1813,7 @@
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 680420,
       "imageSource": "https://store.steampowered.com/app/680420/",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 66,
@@ -1839,7 +1839,7 @@
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 1549970,
       "imageSource": "https://store.steampowered.com/app/1549970/",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 67,
@@ -1864,7 +1864,7 @@
       "gfnAudit": "not_verified",
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "imageSource": "https://en.wikipedia.org/wiki/Evil_Dead%3A_The_Game",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "wikipedia_illustration"
     },
     {
@@ -1891,7 +1891,7 @@
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 1556200,
       "imageSource": "https://store.steampowered.com/app/1556200/",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 69,
@@ -1917,7 +1917,7 @@
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 1556100,
       "imageSource": "https://store.steampowered.com/app/1556100/",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 70,
@@ -1967,7 +1967,7 @@
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 820520,
       "imageSource": "https://store.steampowered.com/app/820520/",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 72,
@@ -1994,7 +1994,7 @@
       "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
       "steamAppId": 872200,
       "imageSource": "https://store.steampowered.com/app/872200/",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 73,
@@ -2044,7 +2044,7 @@
       "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
       "steamAppId": 843380,
       "imageSource": "https://store.steampowered.com/app/843380/",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 75,
@@ -2070,7 +2070,7 @@
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 1869590,
       "imageSource": "https://store.steampowered.com/app/1869590/",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 76,
@@ -2097,7 +2097,7 @@
       "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
       "steamAppId": 918570,
       "imageSource": "https://store.steampowered.com/app/918570/",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 77,
@@ -2122,7 +2122,7 @@
       "gfnAudit": "not_verified",
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "imageSource": "https://en.wikipedia.org/wiki/KartRider%3A_Drift",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "wikipedia_illustration"
     },
     {
@@ -2151,7 +2151,7 @@
       "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
       "steamAppId": 2290180,
       "imageSource": "https://store.steampowered.com/app/2290180/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "crossplayCheckedAt": "2026-10-31",
       "gfnPreviousCandidateSource": "https://gfn.am/en/games/",
       "gfnCheckedAt": "2026-10-31"
@@ -2181,7 +2181,7 @@
       "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
       "steamAppId": 2853730,
       "imageSource": "https://store.steampowered.com/app/2853730/",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 80,
@@ -2208,7 +2208,7 @@
       "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
       "steamAppId": 2840770,
       "imageSource": "https://store.steampowered.com/app/2840770/",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 81,
@@ -2257,7 +2257,7 @@
       "gfnAudit": "not_verified",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
       "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 83,
@@ -2285,7 +2285,7 @@
       "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
       "steamAppId": 2139460,
       "imageSource": "https://store.steampowered.com/app/2139460/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "gfnPreviousCandidateSource": "https://gfn.am/en/games/",
       "gfnCheckedAt": "2026-10-31"
     },
@@ -2314,7 +2314,7 @@
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 1172710,
       "imageSource": "https://store.steampowered.com/app/1172710/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "gfnPreviousCandidateSource": "https://blogs.nvidia.com/blog/geforce-now-thursday-october-2026-games-list/",
       "gfnCheckedAt": "2026-10-31"
     },
@@ -2341,7 +2341,7 @@
       "gfnAudit": "not_verified",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
       "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 86,
@@ -2365,7 +2365,7 @@
       "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
       "steamAppId": 251570,
       "imageSource": "https://store.steampowered.com/app/251570/",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 87,
@@ -2389,7 +2389,7 @@
       "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
       "steamAppId": 427410,
       "imageSource": "https://store.steampowered.com/app/427410/",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 88,
@@ -2406,13 +2406,13 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "url_failed_review",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
       "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
       "imageSource": "https://en.wikipedia.org/wiki/Age_of_Empires_IV",
-      "coverCheckedAt": "2026-11-19",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "wikipedia_illustration"
     },
     {
@@ -2436,7 +2436,7 @@
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 1158370,
       "imageSource": "https://store.steampowered.com/app/1158370/",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 90,
@@ -2479,7 +2479,7 @@
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 361420,
       "imageSource": "https://store.steampowered.com/app/361420/",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 92,
@@ -2505,7 +2505,7 @@
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
       "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
       "crossplayCheckedAt": "2026-10-31",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 93,
@@ -2528,7 +2528,7 @@
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 1238810,
       "imageSource": "https://store.steampowered.com/app/1238810/",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 94,
@@ -2572,7 +2572,7 @@
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
       "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
       "imageSource": "https://en.wikipedia.org/wiki/Call_of_Duty%3A_Black_Ops_6",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "wikipedia_illustration",
       "gfnPreviousCandidateSource": "https://blogs.nvidia.com/blog/geforce-now-thursday-august-2026-games-list/",
       "gfnCheckedAt": "2026-10-31"
@@ -2646,7 +2646,7 @@
       "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
       "steamAppId": 1790600,
       "imageSource": "https://store.steampowered.com/app/1790600/",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 99,
@@ -2668,7 +2668,7 @@
       "gfnAudit": "not_verified",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
       "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 100,
@@ -2690,7 +2690,7 @@
       "gfnAudit": "not_verified",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
       "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 101,
@@ -2712,7 +2712,7 @@
       "gfnAudit": "not_verified",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
       "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 102,
@@ -2755,7 +2755,7 @@
       "gfnAudit": "not_verified",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
       "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 104,
@@ -2798,7 +2798,7 @@
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 881020,
       "imageSource": "https://store.steampowered.com/app/881020/",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 106,
@@ -2863,7 +2863,7 @@
       "gfnAudit": "not_verified",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
       "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 109,
@@ -2885,7 +2885,7 @@
       "gfnAudit": "not_verified",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
       "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 110,
@@ -2909,7 +2909,7 @@
       "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
       "steamAppId": 577940,
       "imageSource": "https://store.steampowered.com/app/577940/",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 111,
@@ -2973,7 +2973,7 @@
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 1997040,
       "imageSource": "https://store.steampowered.com/app/1997040/",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 114,
@@ -2996,7 +2996,7 @@
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 1928870,
       "imageSource": "https://store.steampowered.com/app/1928870/",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 115,
@@ -3020,7 +3020,7 @@
       "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
       "steamAppId": 1203220,
       "imageSource": "https://store.steampowered.com/app/1203220/",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 116,
@@ -3062,7 +3062,7 @@
       "gfnAudit": "not_verified",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
       "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 118,
@@ -3085,7 +3085,7 @@
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 1260320,
       "imageSource": "https://store.steampowered.com/app/1260320/",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 119,
@@ -3113,7 +3113,7 @@
       ],
       "crossplayConsensusCount": 2,
       "crossplayCheckedAt": "2026-10-31",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 120,
@@ -3136,7 +3136,7 @@
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 1056640,
       "imageSource": "https://store.steampowered.com/app/1056640/",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 121,
@@ -3159,7 +3159,7 @@
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 1262240,
       "imageSource": "https://store.steampowered.com/app/1262240/",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 122,
@@ -3183,7 +3183,7 @@
       "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
       "steamAppId": 1290000,
       "imageSource": "https://store.steampowered.com/app/1290000/",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 123,
@@ -3206,7 +3206,7 @@
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 578080,
       "imageSource": "https://store.steampowered.com/app/578080/",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 124,
@@ -3250,7 +3250,7 @@
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 2211280,
       "imageSource": "https://store.steampowered.com/app/2211280/",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 126,
@@ -3267,12 +3267,12 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "url_failed_review",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "imageSource": "https://en.wikipedia.org/wiki/Rumbleverse",
-      "coverCheckedAt": "2026-11-16",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "wikipedia_illustration"
     },
     {
@@ -3295,7 +3295,7 @@
       "gfnAudit": "not_verified",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
       "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 128,
@@ -3359,7 +3359,7 @@
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 1222730,
       "imageSource": "https://store.steampowered.com/app/1222730/",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 131,
@@ -3382,7 +3382,7 @@
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 1913740,
       "imageSource": "https://store.steampowered.com/app/1913740/",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 132,
@@ -3405,7 +3405,7 @@
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 745920,
       "imageSource": "https://store.steampowered.com/app/745920/",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 133,
@@ -3427,7 +3427,7 @@
       "gfnAudit": "not_verified",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
       "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 134,
@@ -3450,7 +3450,7 @@
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 1577120,
       "imageSource": "https://store.steampowered.com/app/1577120/",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 135,
@@ -3473,7 +3473,7 @@
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 2221490,
       "imageSource": "https://store.steampowered.com/app/2221490/",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 136,
@@ -3498,7 +3498,7 @@
       "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
       "steamAppId": 2225070,
       "imageSource": "https://store.steampowered.com/app/2225070/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "gfnPreviousCandidateSource": "https://gfn.am/en/games/",
       "gfnCheckedAt": "2026-10-31"
     },
@@ -3523,7 +3523,7 @@
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 858820,
       "imageSource": "https://store.steampowered.com/app/858820/",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 138,
@@ -3544,7 +3544,7 @@
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 139,
@@ -3608,7 +3608,7 @@
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 1186040,
       "imageSource": "https://store.steampowered.com/app/1186040/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "crossplayCheckedAt": "2026-10-31"
     },
     {
@@ -3633,7 +3633,7 @@
       "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
       "steamAppId": 228380,
       "imageSource": "https://store.steampowered.com/app/228380/",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 143,
@@ -3650,7 +3650,7 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_content_verified",
+      "coverStatus": "url_failed_review",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
@@ -3679,7 +3679,7 @@
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 1449850,
       "imageSource": "https://store.steampowered.com/app/1449850/",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 145,
@@ -3745,7 +3745,7 @@
       "gfnAudit": "not_verified",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
       "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 148,
@@ -3768,7 +3768,7 @@
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 552500,
       "imageSource": "https://store.steampowered.com/app/552500/",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 149,
@@ -3790,7 +3790,7 @@
       "gfnAudit": "not_verified",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
       "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 150,
@@ -3819,7 +3819,7 @@
       ],
       "crossplayConsensusCount": 2,
       "crossplayCheckedAt": "2026-10-31",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "gfnPreviousCandidateSource": "https://gfn.am/en/games/",
       "gfnCheckedAt": "2026-10-31"
     },
@@ -3848,7 +3848,7 @@
       "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://en.wikipedia.org/wiki/Civilization_VII",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "wikipedia_illustration"
     },
     {
@@ -3871,7 +3871,7 @@
       "gfnAudit": "not_verified",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
       "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 153,
@@ -3894,7 +3894,7 @@
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 49520,
       "imageSource": "https://store.steampowered.com/app/49520/",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 154,
@@ -3917,7 +3917,7 @@
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 261640,
       "imageSource": "https://store.steampowered.com/app/261640/",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 155,
@@ -3960,7 +3960,7 @@
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 934700,
       "imageSource": "https://store.steampowered.com/app/934700/",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 157,
@@ -3981,7 +3981,7 @@
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 158,
@@ -4004,7 +4004,7 @@
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 3008130,
       "imageSource": "https://store.steampowered.com/app/3008130/",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 159,
@@ -4028,7 +4028,7 @@
       "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
       "steamAppId": 1430190,
       "imageSource": "https://store.steampowered.com/app/1430190/",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 160,
@@ -4051,7 +4051,7 @@
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 232090,
       "imageSource": "https://store.steampowered.com/app/232090/",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 161,
@@ -4073,7 +4073,7 @@
       "gfnAudit": "not_verified",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
       "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 162,
@@ -4095,7 +4095,7 @@
       "gfnAudit": "not_verified",
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
       "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "crossplayCheckedAt": "2026-10-31"
     },
     {
@@ -4119,7 +4119,7 @@
       "secondaryCrossplaySource": "https://crossplayguide.com/crossplay/pc-and-playstation/",
       "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
       "imageSource": "https://en.wikipedia.org/wiki/Throne_and_Liberty",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "wikipedia_illustration"
     },
     {
@@ -4143,7 +4143,7 @@
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 1966720,
       "imageSource": "https://store.steampowered.com/app/1966720/",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 165,
@@ -4166,7 +4166,7 @@
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 2881650,
       "imageSource": "https://store.steampowered.com/app/2881650/",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 166,
@@ -4189,7 +4189,7 @@
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 3241660,
       "imageSource": "https://store.steampowered.com/app/3241660/",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 167,
@@ -4212,7 +4212,7 @@
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 3164500,
       "imageSource": "https://store.steampowered.com/app/3164500/",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 168,
@@ -4233,7 +4233,7 @@
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 169,
@@ -4257,7 +4257,7 @@
       "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
       "steamAppId": 648800,
       "imageSource": "https://store.steampowered.com/app/648800/",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 170,
@@ -4280,7 +4280,7 @@
       "crossplayCheckedAt": "2026-10-31",
       "steamAppId": 242760,
       "imageSource": "https://store.steampowered.com/app/242760/",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 171,
@@ -4303,7 +4303,7 @@
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 1326470,
       "imageSource": "https://store.steampowered.com/app/1326470/",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 172,
@@ -4325,7 +4325,7 @@
       "gfnAudit": "not_verified",
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "imageSource": "https://en.wikipedia.org/wiki/Stranded_Deep",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "wikipedia_illustration"
     },
     {
@@ -4347,7 +4347,7 @@
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 174,
@@ -4368,7 +4368,7 @@
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 175,
@@ -4391,7 +4391,7 @@
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 1962700,
       "imageSource": "https://store.steampowered.com/app/1962700/",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 176,
@@ -4412,7 +4412,7 @@
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 177,
@@ -4433,7 +4433,7 @@
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 178,
@@ -4454,7 +4454,7 @@
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 179,
@@ -4476,7 +4476,7 @@
       "gfnAudit": "needs_official_nvidia_confirmation",
       "gfnVerifiedAt": "2026-10-31",
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "gfnPreviousCandidateSource": "https://gfn.am/en/games/",
       "gfnCheckedAt": "2026-10-31"
     },
@@ -4501,7 +4501,7 @@
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 108600,
       "imageSource": "https://store.steampowered.com/app/108600/",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 181,
@@ -4518,7 +4518,7 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_content_verified",
+      "coverStatus": "url_failed_review",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
@@ -4547,7 +4547,7 @@
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 1340720,
       "imageSource": "https://store.steampowered.com/app/1340720/",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 183,
@@ -4570,7 +4570,7 @@
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 16900,
       "imageSource": "https://store.steampowered.com/app/16900/",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 184,
@@ -4594,7 +4594,7 @@
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 393380,
       "imageSource": "https://store.steampowered.com/app/393380/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "gfnPreviousCandidateSource": "https://gfn.am/en/games/",
       "gfnCheckedAt": "2026-10-31"
     },
@@ -4643,7 +4643,7 @@
       "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
       "steamAppId": 1874880,
       "imageSource": "https://store.steampowered.com/app/1874880/",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 187,
@@ -4666,7 +4666,7 @@
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 107410,
       "imageSource": "https://store.steampowered.com/app/107410/",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 188,
@@ -4689,7 +4689,7 @@
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 2479810,
       "imageSource": "https://store.steampowered.com/app/2479810/",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 189,
@@ -4711,7 +4711,7 @@
       "gfnAudit": "not_verified",
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "imageSource": "https://en.wikipedia.org/wiki/Escape_from_Tarkov",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "wikipedia_illustration"
     },
     {
@@ -4735,7 +4735,7 @@
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 2073620,
       "imageSource": "https://store.steampowered.com/app/2073620/",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 191,
@@ -4760,7 +4760,7 @@
       "secondaryCrossplayAudit": "listed_pc_playstation_check_platform_pair_and_conditions",
       "steamAppId": 2507950,
       "imageSource": "https://store.steampowered.com/app/2507950/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "gfnPreviousCandidateSource": "https://gfn.am/en/games/",
       "gfnCheckedAt": "2026-10-31"
     },
@@ -4785,7 +4785,7 @@
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 671860,
       "imageSource": "https://store.steampowered.com/app/671860/",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 193,
@@ -4808,7 +4808,7 @@
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 1238840,
       "imageSource": "https://store.steampowered.com/app/1238840/",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 194,
@@ -4831,7 +4831,7 @@
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 1240440,
       "imageSource": "https://store.steampowered.com/app/1240440/",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 195,
@@ -4874,7 +4874,7 @@
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 1097840,
       "imageSource": "https://store.steampowered.com/app/1097840/",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 197,
@@ -4918,7 +4918,7 @@
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 3010850,
       "imageSource": "https://store.steampowered.com/app/3010850/",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 199,
@@ -4941,7 +4941,7 @@
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
       "steamAppId": 2321470,
       "imageSource": "https://store.steampowered.com/app/2321470/",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 200,
@@ -4958,7 +4958,7 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_content_verified",
+      "coverStatus": "url_failed_review",
       "crossplayAudit": "not_verified",
       "gfnAudit": "not_verified",
       "crossplayResearchStatus": "needs_platform_specific_official_confirmation",
@@ -4998,7 +4998,7 @@
       ],
       "steamAppId": 1985810,
       "imageSource": "https://store.steampowered.com/app/1985810/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "crossplayCheckedAt": "2026-10-31"
     },
     {
@@ -5064,7 +5064,7 @@
       ],
       "steamAppId": 1985820,
       "imageSource": "https://store.steampowered.com/app/1985820/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "crossplayCheckedAt": "2026-10-31"
     },
     {
@@ -5099,7 +5099,7 @@
       ],
       "steamAppId": 1038250,
       "imageSource": "https://store.steampowered.com/app/1038250/",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 205,
@@ -5133,7 +5133,7 @@
       ],
       "steamAppId": 346820,
       "imageSource": "https://store.steampowered.com/app/346820/",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 206,
@@ -5167,7 +5167,7 @@
       ],
       "steamAppId": 1307710,
       "imageSource": "https://store.steampowered.com/app/1307710/",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 207,
@@ -5201,7 +5201,7 @@
       ],
       "steamAppId": 1384160,
       "imageSource": "https://store.steampowered.com/app/1384160/",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 208,
@@ -5235,7 +5235,7 @@
       ],
       "steamAppId": 1335790,
       "imageSource": "https://store.steampowered.com/app/1335790/",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 209,
@@ -5269,7 +5269,7 @@
       ],
       "steamAppId": 1243830,
       "imageSource": "https://store.steampowered.com/app/1243830/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "crossplayCheckedAt": "2026-10-31"
     },
     {
@@ -5304,7 +5304,7 @@
       ],
       "steamAppId": 774861,
       "imageSource": "https://store.steampowered.com/app/774861/",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 211,
@@ -5338,7 +5338,7 @@
       ],
       "steamAppId": 2310,
       "imageSource": "https://store.steampowered.com/app/2310/",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 212,
@@ -5372,7 +5372,7 @@
       ],
       "steamAppId": 1029690,
       "imageSource": "https://store.steampowered.com/app/1029690/",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 213,
@@ -5406,7 +5406,7 @@
       ],
       "steamAppId": 418530,
       "imageSource": "https://store.steampowered.com/app/418530/",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 214,
@@ -5440,7 +5440,7 @@
       ],
       "steamAppId": 677620,
       "imageSource": "https://store.steampowered.com/app/677620/",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 215,
@@ -5472,7 +5472,7 @@
       ],
       "steamAppId": 692890,
       "imageSource": "https://store.steampowered.com/app/692890/",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 216,
@@ -5505,7 +5505,7 @@
         "partyqueue"
       ],
       "imageSource": "https://en.wikipedia.org/wiki/Where_Winds_Meet",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "wikipedia_illustration"
     },
     {
@@ -5571,7 +5571,7 @@
       ],
       "steamAppId": 1361210,
       "imageSource": "https://store.steampowered.com/app/1361210/",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 219,
@@ -5603,7 +5603,7 @@
       ],
       "steamAppId": 1385380,
       "imageSource": "https://store.steampowered.com/app/1385380/",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 220,
@@ -5637,7 +5637,7 @@
       ],
       "steamAppId": 1252330,
       "imageSource": "https://store.steampowered.com/app/1252330/",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 221,
@@ -5669,7 +5669,7 @@
       ],
       "steamAppId": 1623730,
       "imageSource": "https://store.steampowered.com/app/1623730/",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 222,
@@ -5695,7 +5695,7 @@
       "crossplayCheckedAt": "2026-10-31",
       "steamAppId": 1390190,
       "imageSource": "https://store.steampowered.com/app/1390190/",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 223,
@@ -5721,7 +5721,7 @@
       "crossplayCheckedAt": "2026-10-31",
       "steamAppId": 1515640,
       "imageSource": "https://store.steampowered.com/app/1515640/",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 224,
@@ -5747,7 +5747,7 @@
       "crossplayCheckedAt": "2026-10-31",
       "steamAppId": 290340,
       "imageSource": "https://store.steampowered.com/app/290340/",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 225,
@@ -5796,7 +5796,7 @@
       "crossplayCheckedAt": "2026-10-31",
       "steamAppId": 1063020,
       "imageSource": "https://store.steampowered.com/app/1063020/",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 227,
@@ -5822,7 +5822,7 @@
       "crossplayCheckedAt": "2026-10-31",
       "steamAppId": 1062830,
       "imageSource": "https://store.steampowered.com/app/1062830/",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 228,
@@ -5848,7 +5848,7 @@
       "crossplayCheckedAt": "2026-10-31",
       "steamAppId": 2051620,
       "imageSource": "https://store.steampowered.com/app/2051620/",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 229,
@@ -5868,7 +5868,7 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_content_verified",
+      "coverStatus": "url_failed_review",
       "crossplayAudit": "single_source_review",
       "gfnAudit": "not_verified",
       "crossplayCheckedAt": "2026-10-31",
@@ -5926,7 +5926,7 @@
       "crossplayCheckedAt": "2026-10-31",
       "steamAppId": 953880,
       "imageSource": "https://store.steampowered.com/app/953880/",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 232,
@@ -5975,7 +5975,7 @@
       "crossplayCheckedAt": "2026-10-31",
       "steamAppId": 780290,
       "imageSource": "https://store.steampowered.com/app/780290/",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 234,
@@ -6116,7 +6116,7 @@
       "crossplayCheckedAt": "2026-10-31",
       "steamAppId": 1345760,
       "imageSource": "https://store.steampowered.com/app/1345760/",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 240,
@@ -6188,7 +6188,7 @@
       "crossplayCheckedAt": "2026-10-31",
       "steamAppId": 1206610,
       "imageSource": "https://store.steampowered.com/app/1206610/",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 243,
@@ -6214,7 +6214,7 @@
       "crossplayCheckedAt": "2026-10-31",
       "steamAppId": 315210,
       "imageSource": "https://store.steampowered.com/app/315210/",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 244,
@@ -6240,7 +6240,7 @@
       "crossplayCheckedAt": "2026-10-31",
       "steamAppId": 2698940,
       "imageSource": "https://store.steampowered.com/app/2698940/",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 245,
@@ -6312,7 +6312,7 @@
       "crossplayCheckedAt": "2026-10-31",
       "steamAppId": 1341290,
       "imageSource": "https://store.steampowered.com/app/1341290/",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 248,
@@ -6338,7 +6338,7 @@
       "crossplayCheckedAt": "2026-10-31",
       "steamAppId": 1016920,
       "imageSource": "https://store.steampowered.com/app/1016920/",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 249,
@@ -6364,7 +6364,7 @@
       "crossplayCheckedAt": "2026-10-31",
       "steamAppId": 976310,
       "imageSource": "https://store.steampowered.com/app/976310/",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 250,
@@ -6390,7 +6390,7 @@
       "crossplayCheckedAt": "2026-10-31",
       "steamAppId": 699130,
       "imageSource": "https://store.steampowered.com/app/699130/",
-      "coverCheckedAt": "2026-11-23"
+      "coverCheckedAt": "2026-11-26"
     },
     {
       "id": 255,
@@ -6417,7 +6417,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/1362000/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -6445,7 +6445,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/2379390/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -6473,7 +6473,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://en.wikipedia.org/wiki/Dungeons_%26_Dragons%3A_Dark_Alliance",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "wikipedia_illustration"
     },
     {
@@ -6501,7 +6501,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/1506830/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -6529,7 +6529,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/1496790/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -6557,7 +6557,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/628670/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -6585,7 +6585,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/784080/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -6638,7 +6638,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/1082220/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -6666,7 +6666,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/644480/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -6694,7 +6694,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/728880/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -6722,7 +6722,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/218620/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -6750,7 +6750,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/617290/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -6778,7 +6778,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/1599660/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -6806,7 +6806,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/824550/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -6859,7 +6859,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/436180/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -6887,7 +6887,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/633460/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -6915,7 +6915,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/979690/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -6943,7 +6943,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/242860/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -6971,7 +6971,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/2239550/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -6999,7 +6999,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/1114290/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -7027,7 +7027,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/1448440/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -7054,7 +7054,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://en.wikipedia.org/wiki/Wuthering_Waves",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "wikipedia_illustration"
     },
     {
@@ -7081,7 +7081,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://en.wikipedia.org/wiki/Ghost_of_Tsushima",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "wikipedia_illustration"
     },
     {
@@ -7104,7 +7104,7 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_content_verified",
+      "coverStatus": "url_failed_review",
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://en.wikipedia.org/wiki/Age_of_Empires_II%3A_Definitive_Edition",
@@ -7135,7 +7135,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/1607250/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -7213,7 +7213,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/2943650/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -7264,7 +7264,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/2669320/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -7315,7 +7315,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/1295660/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -7342,7 +7342,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/3164330/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -7369,7 +7369,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/24200/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -7396,7 +7396,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/629760/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -7423,7 +7423,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/244850/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -7474,7 +7474,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/1934680/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -7501,7 +7501,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/1677740/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -7528,7 +7528,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/1943950/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -7555,7 +7555,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/1815780/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -7582,7 +7582,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/2887580/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -7609,7 +7609,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/1129580/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -7636,7 +7636,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/2169200/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -7663,7 +7663,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/3023930/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -7690,7 +7690,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/2104890/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -7717,7 +7717,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/2993780/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -7744,7 +7744,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/1665460/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -7771,7 +7771,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/1433140/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -7822,7 +7822,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/2071280/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -7849,7 +7849,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/2878960/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -7876,7 +7876,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/3228590/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -7903,7 +7903,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/2157560/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -7954,7 +7954,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://en.wikipedia.org/wiki/Madden_NFL_26",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "wikipedia_illustration"
     },
     {
@@ -7981,7 +7981,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/1451190/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -8008,7 +8008,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/1211020/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -8035,7 +8035,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/2385530/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -8110,7 +8110,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/3274580/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -8137,7 +8137,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/1071870/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -8164,7 +8164,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/597170/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -8191,7 +8191,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/2933080/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -8242,7 +8242,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/1849250/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -8269,7 +8269,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/1135230/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -8296,7 +8296,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/2272540/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -8323,7 +8323,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/2215430/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -8350,7 +8350,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/1302240/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -8377,7 +8377,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/1501750/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -8404,7 +8404,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/2000890/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -8431,7 +8431,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/1222680/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -8458,7 +8458,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/1328660/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -8533,7 +8533,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/961200/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -8560,7 +8560,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/2320/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -8587,7 +8587,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/1702010/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -8614,7 +8614,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/1492070/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -8641,7 +8641,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/768200/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -8668,7 +8668,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/1096530/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -8695,7 +8695,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/1268750/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -8722,7 +8722,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://en.wikipedia.org/wiki/Street_Fighter_V",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "wikipedia_illustration"
     },
     {
@@ -8749,7 +8749,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/1858630/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -8776,7 +8776,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/2996040/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -8803,7 +8803,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/1455630/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -8854,7 +8854,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/1498570/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -8881,7 +8881,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/2933130/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -8908,7 +8908,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/1785650/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -8935,7 +8935,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/607050/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -8962,7 +8962,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/2296990/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -8989,7 +8989,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/694280/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -9016,7 +9016,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/3077390/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -9043,7 +9043,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/1904480/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -9070,7 +9070,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/2560240/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -9097,7 +9097,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/1158160/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -9124,7 +9124,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/2358260/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -9151,7 +9151,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/1401590/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -9178,7 +9178,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/1276760/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -9205,7 +9205,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/442070/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -9232,7 +9232,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/2488620/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -9259,7 +9259,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/2230110/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -9286,7 +9286,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/2492040/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -9313,7 +9313,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/1054430/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -9340,7 +9340,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/1676840/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -9367,7 +9367,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/2878600/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -9394,7 +9394,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/1190970/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -9421,7 +9421,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/341800/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -9492,11 +9492,11 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "url_failed_review",
+      "coverStatus": "http_content_verified",
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://en.wikipedia.org/wiki/Minecraft_Dungeons_II",
-      "coverCheckedAt": "2026-11-19",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "wikipedia_illustration"
     },
     {
@@ -9523,7 +9523,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/1641700/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -9550,7 +9550,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/2017080/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -9577,7 +9577,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/555160/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -9604,7 +9604,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/1110100/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -9631,7 +9631,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/1111940/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -9658,7 +9658,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/1245560/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -9685,7 +9685,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/1437400/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -9712,7 +9712,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/2325290/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -9739,7 +9739,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/2918300/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -9766,7 +9766,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/1003590/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -9793,7 +9793,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/2652000/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -9820,7 +9820,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/331670/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -9847,7 +9847,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/2216830/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -9898,7 +9898,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/397460/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -9925,7 +9925,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/434170/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -9952,7 +9952,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/610180/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -9979,7 +9979,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/774461/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -10006,7 +10006,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/1005300/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -10033,7 +10033,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/1211630/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -10060,7 +10060,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/1552350/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -10087,7 +10087,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/1850960/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -10114,7 +10114,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/1755580/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -10141,7 +10141,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/2948640/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -10168,7 +10168,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/2477010/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -10195,7 +10195,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://en.wikipedia.org/wiki/Tony_Hawk's_Pro_Skater_3_%2B_4",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "wikipedia_illustration"
     },
     {
@@ -10222,7 +10222,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/1011670/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -10249,7 +10249,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/386940/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -10276,7 +10276,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/3112260/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -10303,7 +10303,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://en.wikipedia.org/wiki/Walkabout_Mini_Golf",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "wikipedia_illustration"
     },
     {
@@ -10330,7 +10330,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/582500/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -10357,7 +10357,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/865360/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -10384,7 +10384,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/677160/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -10411,7 +10411,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/1054490/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -10434,7 +10434,7 @@
       "crossProgression": "unknown",
       "gfn": "unknown",
       "gfnSource": "",
-      "coverStatus": "http_content_verified",
+      "coverStatus": "url_failed_review",
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://en.wikipedia.org/wiki/Hot_Wheels_Unleashed_2%3A_Turbocharged",
@@ -10465,7 +10465,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/2350280/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -10492,7 +10492,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-10-31",
       "imageSource": "https://store.steampowered.com/app/1487210/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     },
     {
@@ -10519,7 +10519,7 @@
       "crossplayAudit": "secondary_pair_listing_pending_official",
       "crossplayCheckedAt": "2026-11-05",
       "imageSource": "https://store.steampowered.com/app/3253530/",
-      "coverCheckedAt": "2026-11-23",
+      "coverCheckedAt": "2026-11-26",
       "coverMatchType": "steam_exact"
     }
   ]

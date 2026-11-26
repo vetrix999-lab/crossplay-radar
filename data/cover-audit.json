@@ -1,13 +1,13 @@
 {
   "stats": {
     "total": 404,
-    "existing_checked": 341,
+    "existing_checked": 344,
     "existing_passed": 333,
-    "existing_failed": 8,
+    "existing_failed": 11,
     "steam_added": 0,
-    "fallback_added": 3,
+    "fallback_added": 0,
     "missing": 60,
-    "http_content_verified": 336
+    "http_content_verified": 333
   },
   "unresolved": [
     {
@@ -64,11 +64,6 @@
       "name": "Rainbow Six Siege X",
       "reason": "No validated image from exact-title sources",
       "existing_url": ""
-    },
-    {
-      "name": "Age of Empires IV",
-      "reason": "No validated image from exact-title sources",
-      "existing_url": "https://upload.wikimedia.org/wikipedia/en/0/08/Age_of_Empires_IV_Cover_Art.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
     },
     {
       "name": "Armored Core VI",
@@ -131,11 +126,6 @@
       "existing_url": ""
     },
     {
-      "name": "Rumbleverse",
-      "reason": "No validated image from exact-title sources",
-      "existing_url": "https://upload.wikimedia.org/wikipedia/en/9/9b/Rumbleverse_cover_art.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
-    },
-    {
       "name": "Splitgate 2",
       "reason": "No validated image from exact-title sources",
       "existing_url": ""
@@ -156,6 +146,11 @@
       "existing_url": ""
     },
     {
+      "name": "XDefiant",
+      "reason": "No validated image from exact-title sources",
+      "existing_url": "https://upload.wikimedia.org/wikipedia/en/a/ad/XDefiant_covert_art.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    },
+    {
       "name": "Zenless Zone Zero",
       "reason": "No validated image from exact-title sources",
       "existing_url": ""
@@ -169,6 +164,11 @@
       "name": "Borderlands Game of the Year",
       "reason": "No validated image from exact-title sources",
       "existing_url": ""
+    },
+    {
+      "name": "State of Decay 2",
+      "reason": "No validated image from exact-title sources",
+      "existing_url": "https://upload.wikimedia.org/wikipedia/en/9/9d/State_of_Decay_2_art.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
     },
     {
       "name": "Hell Let Loose Vietnam",
@@ -186,6 +186,11 @@
       "existing_url": ""
     },
     {
+      "name": "Helldivers",
+      "reason": "No validated image from exact-title sources",
+      "existing_url": "https://upload.wikimedia.org/wikipedia/en/c/c7/Helldivers_art.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    },
+    {
       "name": "Call of Duty: Modern Warfare II",
       "reason": "No validated image from exact-title sources",
       "existing_url": ""
@@ -199,6 +204,11 @@
       "name": "DKO: Divine Knockout",
       "reason": "No validated image from exact-title sources",
       "existing_url": ""
+    },
+    {
+      "name": "F1 22",
+      "reason": "No validated image from exact-title sources",
+      "existing_url": "https://upload.wikimedia.org/wikipedia/en/b/be/F1_22_cover_art.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
     },
     {
       "name": "FIFA 23",
@@ -264,6 +274,11 @@
       "name": "Secret Neighbor",
       "reason": "No validated image from exact-title sources",
       "existing_url": ""
+    },
+    {
+      "name": "Age of Empires II: Definitive Edition",
+      "reason": "No validated image from exact-title sources",
+      "existing_url": "https://upload.wikimedia.org/wikipedia/en/4/45/Age_of_Empires_II_Definitive_Edition_cover_art.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
     },
     {
       "name": "Call of Duty: Black Ops 7",
@@ -341,14 +356,14 @@
       "existing_url": ""
     },
     {
-      "name": "Minecraft Dungeons II",
-      "reason": "No validated image from exact-title sources",
-      "existing_url": "https://upload.wikimedia.org/wikipedia/en/2/20/Minecraft_Dungeons_2_cover_art.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
-    },
-    {
       "name": "The Jackbox Party Pack 11",
       "reason": "No validated image from exact-title sources",
       "existing_url": ""
+    },
+    {
+      "name": "Hot Wheels Unleashed 2 - Turbocharged",
+      "reason": "No validated image from exact-title sources",
+      "existing_url": "https://upload.wikimedia.org/wikipedia/en/1/18/Hot_Wheels_Unleashed_2_Turbocharged_cover_art.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
     }
   ]
 }
